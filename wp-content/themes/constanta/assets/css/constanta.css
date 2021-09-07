@@ -1,0 +1,328 @@
+/* CSS Constanta */
+
+@font-face {
+    font-family: SairaBold;
+    src: url(/wp-content/themes/constanta/assets/sairafont/Saira-Bold.ttf);
+  }
+
+/* TOP BAR */
+@media(min-width:900px) {
+    .logoalt {
+        display: block;
+        position: absolute;
+        width: 180px;
+        top: 0px !important;
+        left: 50px;
+        z-index: 1000;
+    }
+    #topbar {
+        width: 75%;
+        height: 35px;
+        left: 20em;
+        border-bottom: 1px solid #ED3237;
+        float: right !important;
+    }
+    #header{
+        top: 32px;
+    }
+    #header #navbar {
+        width: 75%;
+        left: 9em;
+    }
+    #header .logo{
+        display: none;
+    }
+}
+
+@media(max-width:900px) {
+    .logoalt {
+        display: none
+    }
+    #topbar {
+        transform: scale(0.9);
+        width: 110%;
+        left: -20px !important;
+    }
+}
+
+#topbar .social i {
+    color: #fff;
+}
+
+/* SLIDE */
+
+#slide{
+    border: 1px solid rgba(0,0,0,0);
+    height: 450px;
+}
+
+#slide .bls{
+    border: 1px solid rgba(0,0,0,0);
+    display: block;
+    position: relative;
+    margin: 0 auto;
+    width: 1000px;
+    height: 600px;
+}
+
+#slide .bl1,#slide .bl2{
+    width: 50%;
+    float: left;
+    border: 1px solid rgba(0,0,0,0);
+}
+
+#slide .bls .bl1 p{
+    position: absolute;
+    left: 320px;
+}
+
+#slide .bls .bl1 h1{
+    position: absolute;
+    width: 450px;
+    height: 230px;
+    left: 100px;
+    top:30px;
+    background-color: #ED3237;
+    color: #fff;
+    font-size: 30px;
+    text-align: left;
+    padding: 28px;
+}
+#slide .bls .bl1 h1 span{
+    font-size: 55px;
+    font-weight: 800;
+    font-family: SairaBold;
+}
+#slide .bls .bl1 .blcs{
+    display: block;
+    position: absolute;
+    width: 450px;
+    height: 60px;
+    left: 100px;
+    top: 280px;
+}
+#slide .bls .bl1 .blcs img{
+    width: 60px;
+}
+#slide .bls .bl1 .blc1,#slide .bls .bl1 .blc2{
+    width: 50%;
+    float: left;
+}
+#slide .bls .bl1 .blcs p{
+    position: relative;
+    width: 150px;
+    left: 35px;
+    top: -55px;
+}
+#slide .bls .bl2 .persona{
+    position: relative;
+    width: 550px;
+    left: 10px;
+    top: -90px;
+}
+
+/* ICON BOX */
+.icon-boxes .icon-box{
+    position: relative;
+    margin: 0 auto;
+    border-radius: 0;
+    width: 800px;
+    padding: 0;    
+}
+.icon-boxes .icon-box .blc1{
+    width: 45%;
+}
+.icon-boxes .icon-box .blc2{
+    width: 55%;
+    padding-right: 50px;
+}
+
+.icon-boxes .icon-box .blc1,.icon-boxes .icon-box .blc2{
+    float: left;
+    border: 1px solid rgba(0,0,0,0); 
+}
+
+.icon-boxes .icon-box .blc1 hr{
+    border: 3px solid rgba(255,0,0,1)  !important;
+    background-color: rgba(255,0,0,1) !important;
+    position: relative;    
+    top:50px;
+    width: 13em;
+    opacity: 1;
+}
+
+.icon-boxes .icon-box .blc1 h1{
+    font-weight: 900;
+    font-size: 30px;    
+    position: relative;
+    width: 13em;
+    left: 85px;
+    top:6px;
+}
+.icon-boxes .icon-box .blc1 img{  
+    position: relative;
+    width: 15em;
+    left: 3em;
+    top:1em;    
+}
+.icon-boxes .icon-box .blc1 .forml{ 
+    display: block; 
+    background-color: #ED3237;
+    position: relative;
+    width: 230px;
+    height: 230px;
+    left: 10px;
+    top:-40px;
+    padding-top: 30px;
+    padding-left: 30px;    
+}
+.icon-boxes .icon-box .blc1 .forml p{ 
+    font-weight: 600;  
+    color: #222;
+}
+.icon-boxes .icon-box .blc1 .forml h3{ 
+    position: relative;
+    font-weight: 800;  
+    color: #fff;
+    top: -20px;
+}
+
+.icon-boxes .icon-box .blc1 .forml input[type=email] {
+    position: relative;
+    width: 170px;
+    top: -15px;    
+}
+
+.icon-boxes .icon-box .blc1 .forml input[type=button] {
+    position: relative;
+    width: 170px;
+    background-color: #eee;   
+}
+
+.icon-boxes .icon-box .blc1 .forml::after {
+content: "";
+position: absolute;
+width: 50px;
+height: 50px;
+background-color: #FFF;
+left: 210px;
+top: 210px;
+transform: rotate(-45deg);
+}
+
+.icon-boxes .icon-box .blc2 h5{ 
+    font-weight: 800;  
+    color: #222;
+}
+.icon-boxes .icon-box .blc2 p{ 
+    text-align: justify;
+}
+.icon-boxes .icon-box .blc2 button{ 
+    position: relative;
+    width: 160px;
+    height: 50px;
+    color: #fff;
+    margin-right: 30px;
+}
+.icon-boxes .icon-box .blc2 button.btn1{ 
+    background-color: #444;
+}
+.icon-boxes .icon-box .blc2 button.btn2{ 
+    background-color: #ED3237;
+}
+.icon-boxes .icon-box .blc2 button.btn3{ 
+    background-color: #ED3237;
+}
+.icon-boxes .icon-box .blc2 hr{
+    border: 3px solid rgba(255,0,0,1)  !important;
+    background-color: rgba(255,0,0,1) !important;
+    position: relative;    
+    top:50px;
+    width: 13em;
+    opacity: 1;
+}
+
+.icon-boxes .icon-box .blc2 h1{
+    font-weight: 900;
+    font-size: 30px;    
+    position: relative;
+    width: 13em;
+    left: 5px;
+    top:6px;
+}
+
+/* About */
+.about video{
+    position: relative;
+    margin: 0 auto;
+    width: 820px;
+    top: -100px
+}
+
+/*Timeline*/
+.timeline{
+    position: relative;
+    margin: 0 auto;
+    top: -100px;
+    background-color: #f7f7f7;
+}
+.timeline .container{ 
+    position: relative;
+    margin: 0 auto;
+    top: -70px;   
+    width: 820px;   
+    min-height: 250px; 
+}
+
+.timeline .section-title hr{
+    border: 3px solid rgba(255,0,0,1)  !important;
+    background-color: rgba(255,0,0,1) !important;
+    position: relative;    
+    top:50px;
+    width: 13em;
+    opacity: 1;
+}
+
+.timeline .section-title h1{
+    font-weight: 900;
+    font-size: 30px;    
+    position: relative;
+    width: 13em;
+    left: 0px;
+    top:6px;
+    text-align: left;
+}
+.timeline ul#portfolio-flters li{
+    border: 3px solid rgba(0,0,0,0);
+    border-radius: 0;
+    padding: 5px;
+    background-color: rgba(255,255,255,0);
+    font-size: 18px;
+    width: 60px;
+    text-align: center;
+    margin-right: 20px;
+}
+.timeline .portfolio-info img{
+    width: 100%;
+    transform: scale(1.3);
+}
+.timeline .portfolio-info h1{
+    width: 140px;
+    height: 140px;
+    font-size: 50px;
+    font-weight: 900;
+    border: 8px solid #ED3237;
+    border-radius: 80%;
+    padding: 10px 5px 10px 5px;
+    text-align: center;
+}
+.timeline .portfolio-info h1 span{
+    position: relative;
+    top: -15px
+}
+.timeline .portfolio-info h4{
+    font-weight: 600;
+}
+.timeline .portfolio-info p{
+    font-size: 13px;
+}
