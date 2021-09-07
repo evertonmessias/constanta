@@ -800,7 +800,12 @@ section {
 # Why Us
 --------------------------------------------------------------*/
 .why-us {
+<<<<<<< HEAD
   background: #f1f8ff;
+=======
+  margin-top: -100px;
+  background: #fff;
+>>>>>>> d4621a356017bf69dd60a60940e4e1a1345e5d40
   padding: 0;
 }
 

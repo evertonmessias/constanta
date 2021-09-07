@@ -217,6 +217,40 @@
 	</section>
 	<!-- End Portfoio Section -->
 
+<<<<<<< HEAD
+=======
+	<!-- ======= Why Us Section ======= -->
+	<section id="why-us" class="why-us quadros">
+		<div class="container-fluid">
+			<div class="row">
+				<div class="col-lg-6">
+					<img src="<?php echo SITEPATH ?>assets/img/quadros/quadro1.png" title="Constanta">
+				</div>
+				<div class="col-lg-6">
+					<img src="<?php echo SITEPATH ?>assets/img/quadros/quadro2.png" title="Constanta">
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-lg-6">
+					<img src="<?php echo SITEPATH ?>assets/img/quadros/quadro3.png" title="Constanta">
+				</div>
+				<div class="col-lg-6">
+					<img src="<?php echo SITEPATH ?>assets/img/quadros/quadro4.png" title="Constanta">
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-lg-6">
+					<img src="<?php echo SITEPATH ?>assets/img/quadros/quadro5.png" title="Constanta">
+				</div>
+				<div class="col-lg-6">
+					<img src="<?php echo SITEPATH ?>assets/img/quadros/quadro6.png" title="Constanta">
+				</div>
+			</div>
+		</div>
+	</section>
+	<!-- End Why Us Section -->
+
+>>>>>>> d4621a356017bf69dd60a60940e4e1a1345e5d40
 
 	<h1>CONTINUAR ..................</h1>
 	<!-- ======= Clients Section ======= 
@@ -240,6 +274,7 @@
 		</div>
 	</section><!-- End Clients Section -->
 
+<<<<<<< HEAD
 	<!-- ======= Why Us Section =======
 	<section id="why-us" class="why-us">
 		<div class="container-fluid">
@@ -298,6 +333,8 @@
 		</div>
 	</section><!-- End Why Us Section -->
 
+=======
+>>>>>>> d4621a356017bf69dd60a60940e4e1a1345e5d40
 	<!-- ======= Services Section ======= 
 	<section id="services" class="services">
 		<div class="container" data-aos="fade-up">
