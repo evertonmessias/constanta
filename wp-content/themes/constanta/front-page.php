@@ -86,7 +86,7 @@
 							<div class="col-lg-6 col-md-6">
 								<h4>PIONEIROS EM MANUFATURA DE ELETRÔNICOS</h4>
 								<p>A Constanta foi inaugurada em abril de 1952, na cidade de Ribeirão Preto, por quatro alemães que desembarcaram no Brasil com o objetivo de expandir o mercado de eletrônicos, sendo que se iniciou a partir da produção de resistores de carvão.</p>
-							</div>						
+							</div>
 							<div class="col-lg-3 col-md-6">
 								<img src="<?php echo SITEPATH; ?>assets/img/portfolio/portfolio-1.png">
 							</div>
@@ -242,6 +242,20 @@
 				</div>
 				<div class="col-lg-6">
 					<img src="<?php echo SITEPATH ?>assets/img/quadros/quadro6.png" title="Constanta">
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-lg-6 numeros">
+					<div class="instal">
+						<h3>Nossas instalações</h3>
+						<p>Nossa planta oferece espaço, equipamentos de últimia geração e um amplo estoque.</p>
+						<button type="button">Nossos números</button>
+					</div>
+				</div>
+				<div class="col-lg-6 numeros">
+					<div class="number">
+						numeros aqui
+					</div>
 				</div>
 			</div>
 		</div>

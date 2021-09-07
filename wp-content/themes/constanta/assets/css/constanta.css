@@ -336,3 +336,18 @@ transform: rotate(-45deg);
 .quadros .col-lg-6 img:hover{
     opacity: 0.6;
 }
+.quadros .numeros{
+    background-color: #ED3237;
+    height: 300px;
+}
+.quadros .numeros h3{
+    color: #fff;
+    font-weight: 900;
+}
+.quadros .numeros .instal{
+    display: block;
+    position: relative;
+    width: 18em;
+    top: 4em;
+    left: 22em;
+}
