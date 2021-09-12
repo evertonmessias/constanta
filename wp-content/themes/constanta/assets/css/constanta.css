@@ -5,7 +5,16 @@
     src: url(/wp-content/themes/constanta/assets/sairafont/Saira-Bold.ttf);
   }
 
+button, input{
+    border: 0;
+}
+
+p{
+    font-family: 'Saira', sans-serif;
+}
+
 /* TOP BAR */
+
 @media(min-width:900px) {
     .logoalt {
         display: block;
@@ -193,9 +202,10 @@
     top: -15px;    
 }
 
-.icon-boxes .icon-box .blc1 .forml input[type=button] {
+.icon-boxes .icon-box .blc1 .forml .btn0, .numeros .btn0 {
     position: relative;
     width: 170px;
+    height: 40px;
     background-color: #eee;   
 }
 
@@ -327,6 +337,8 @@ transform: rotate(-45deg);
 .timeline .portfolio-info p{
     font-size: 13px;
 }
+
+/*quadros*/
 .quadros .col-lg-6{
     margin: 0;padding: 0;
 }
@@ -350,4 +362,96 @@ transform: rotate(-45deg);
     width: 18em;
     top: 4em;
     left: 22em;
+}
+
+/*circular*/
+
+.quadros .numeros .number{
+    border: 1px solid yellow;
+}
+
+/* Code By Webdevtrick ( https://webdevtrick.com ) */
+#circleBar {
+    margin-top: 0;
+    text-align: center;
+    font-family: 'Staatliches', cursive;
+  
+  }
+  #circleBar .rounds {
+    width: 20%;
+  }
+  #circleBar .round {
+    min-height: 50px;
+    margin-top: 5px;
+    position: relative;
+    margin-bottom: 20px;
+  }
+  #circleBar .round2 {
+    margin-top: 35px;
+  }
+  #circleBar .round strong {
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    margin-top: -50px;
+    transform: translate(-50%);
+    font-size: 20px;
+    color: #212121;
+    font-weight: 600;
+  }
+  #circleBar p {   
+    margin-top: -20px !important;    
+    color: #212121;
+    font-weight: 600;
+    font-size: 18px;
+  }
+  #circleBar span {
+    display: block;
+    color: #999;
+    font-size: 16px;
+    margin-top: 10px;
+  }
+  #circleBar span i {
+    color: #ff5c5c;
+    font-size: 22px;
+    margin-right: 6px;
+  }
+  section button:hover {
+    background-color: #ff5c5c;
+  }
+
+  #pion .content{
+    margin-top: -50px;
+    }
+
+  #pion .pionerismo{
+      position: relative;
+      margin: 0 auto;
+      width: 850px;
+  }
+
+  #pion hr{
+    border: 3px solid rgba(255,0,0,1)  !important;
+    background-color: rgba(255,0,0,1) !important;
+    position: relative;    
+    top:50px;
+    width: 13em;
+    opacity: 1;
+}
+
+#pion h1{
+    font-weight: 900;
+    font-size: 30px;    
+    position: relative;
+    width: 13em;
+    left: 0px;
+    top:6px;
+    text-align: left;
+}
+#pion h5{
+    font-weight: 600;
+    font-size: 16px;
+}
+#pion p{
+    font-size: 14px;
 }

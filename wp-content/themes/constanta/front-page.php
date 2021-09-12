@@ -17,7 +17,7 @@
 									<h3>Inscreva-se</h3>
 									<form>
 										<input type="email" placeholder="E-mail">
-										<input type="button" value="Enviar">
+										<button class="btn0">Enviar</button>
 									</form>
 								</div>
 							</div>
@@ -249,18 +249,94 @@
 					<div class="instal">
 						<h3>Nossas instalações</h3>
 						<p>Nossa planta oferece espaço, equipamentos de últimia geração e um amplo estoque.</p>
-						<button type="button">Nossos números</button>
+						<button class="btn0">Nossos números</button>
 					</div>
 				</div>
 				<div class="col-lg-6 numeros">
-					<div class="number">
-						numeros aqui
-					</div>
+					<section id="circleBar" class="counts">
+						<div class="container">
+							<div class="row">
+								<div class="col-md-4 rounds">
+									<div class="round round1" data-value="0.90" data-size="100" data-thickness="10">
+										<strong data-toggle="counter-up">2100</strong>
+									</div>
+									<p>M<sup>2</sup> de planta<br>contruída</p>
+								</div>
+								<div class="col-md-4 rounds">
+									<div class="round round2" data-value="0.90" data-size="100" data-thickness="10">
+										<strong data-toggle="counter-up">1200</strong>
+									</div>
+									<p>Projetos<br>próprios</p>
+								</div>
+								<div class="col-md-4 rounds">
+									<div class="round round3" data-value="0.90" data-size="100" data-thickness="10">
+										<strong data-toggle="counter-up">9060</strong>
+									</div>
+									<p>Clientes<br>atendidos</p>
+								</div>
+							</div>
+						</div>
+					</section>
 				</div>
 			</div>
 		</div>
 	</section>
 	<!-- End Why Us Section -->
+
+	<!-- ======= About Section ======= -->
+	<section id="pion" class="about">
+		<div class="container" data-aos="fade-up">
+
+			<div class="row pionerismo">
+
+				<div class="col-lg-6 content" data-aos="fade-up" data-aos-delay="100">
+					<hr>
+					<h1>Do pionerismo<br>do mercado eletrônico<br>a evolução tecnológica</h1>
+					<br>
+					<p>
+						Há 70 anos, a Constanta Industrial foi idealizada para ser uma fabricante de
+						componentes para o mercado eletrônico brasileiro. Investindo continuamente desde
+						então, nos tornamos uma empresa conceituada e em permanente evolução.
+						Hoje, oferecemos as melhores opções do mercado para montagens eletrônicas em
+						regime de turnkey. Seguindo nossa tradição, investimos em uma estrutura ímpar,
+						voltada para agregar qualidade, produtividade e competitividade aos nossos serviços
+						e aos produtos de nossos clientes.
+					</p>
+					<ul>
+						<li>
+							<div class="row">
+								<div class="col-lg-2">
+									<img src="<?php echo SITEPATH ?>assets/img/ico-smd.png" class="img-fluid" alt="">
+								</div>
+								<div class="col-lg-10">
+									<h5>Montagens SMD</h5>
+									<p>Realizadas em equipamentos de última geração, proteção contra eletricidade estética,
+										proteção ao meio ambiente, componentes de qualidade comprovada e atendimento aos prazos contratados.
+									</p>
+								</div>
+							</div>
+						</li>
+						<br>
+						<li>
+							<div class="row">
+								<div class="col-lg-2">
+									<img src="<?php echo SITEPATH ?>assets/img/ico-pth.png" class="img-fluid" alt="">
+								</div>
+								<div class="col-lg-10">
+									<h5>Montagens PTH</h5>
+									<p>Realizamos o processo PTH completo, incluindo complementação de partes mecânicas, inspeção de montagem, integração, testes e assistência técnica.</p>
+								</div>
+							</div>
+						</li>
+					</ul>
+				</div>
+				<div class="col-lg-6" data-aos="zoom-out" data-aos-delay="100">
+					<img src="<?php echo SITEPATH ?>assets/img/pionerismo.png" class="img-fluid" alt="">
+				</div>
+			</div>
+
+		</div>
+	</section><!-- End About Section -->
 
 
 	<h1>CONTINUAR ..................</h1>

@@ -74,12 +74,16 @@
 
 <!-- Vendor JS Files -->
 <script src="<?php echo SITEPATH; ?>assets/vendor/aos/aos.js"></script>
+<script src="<?php echo SITEPATH; ?>assets/vendor/jquery/jquery.min.js"></script>
 <script src="<?php echo SITEPATH; ?>assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src="<?php echo SITEPATH; ?>assets/vendor/jquery.easing/jquery.easing.min.js"></script>
 <script src="<?php echo SITEPATH; ?>assets/vendor/glightbox/js/glightbox.min.js"></script>
 <script src="<?php echo SITEPATH; ?>assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
 <script src="<?php echo SITEPATH; ?>assets/vendor/php-email-form/validate.js"></script>
 <script src="<?php echo SITEPATH; ?>assets/vendor/swiper/swiper-bundle.min.js"></script>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="<?php echo SITEPATH; ?>assets/vendor/waypoints/jquery.waypoints.min.js"></script>
+<script src="<?php echo SITEPATH; ?>assets/vendor/counterup/counterup.min.js"></script>
+<script src="<?php echo SITEPATH; ?>assets/vendor/circle-progress/circle-progress.js"></script>
 
 <!-- Template Main JS File -->
 <script src="<?php echo SITEPATH; ?>assets/js/main.js"></script>
