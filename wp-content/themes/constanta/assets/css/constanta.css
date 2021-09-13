@@ -261,12 +261,22 @@ transform: rotate(-45deg);
     top:6px;
 }
 
-/* About */
-.about video{
+/* Video */
+.video{
     position: relative;
     margin: 0 auto;
     width: 820px;
     top: -100px
+}
+.video img{
+    width: 100%;
+}
+.video i{  
+    display: block;
+    position: absolute;
+    top: 133px; left: 437px;
+    font-size: 85px;
+    font-weight: 900;
 }
 
 /*Timeline*/
@@ -454,4 +464,69 @@ transform: rotate(-45deg);
 }
 #pion p{
     font-size: 14px;
+}
+
+#resp .cta.resp{
+    width: 100%;
+}
+
+#resp .container{
+    position: relative;
+    margin: 0 auto;
+    width: 950px;
+    z-index: 2000;
+}
+
+#resp .content{
+    margin-top: -50px;    
+    background-color: #fff;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+
+#resp .lixos{
+    width: 90%;
+    margin: 0 auto;
+}
+
+#resp hr{
+  border: 3px solid rgba(255,0,0,1)  !important;
+  background-color: rgba(255,0,0,1) !important;
+  position: relative;   
+  margin: 0 auto; 
+  top:35px;
+  width: 13em;
+  opacity: 1;
+}
+
+#resp .lixo1{
+    background-color: #eee;
+    padding: 50px 90px 90px 50px;
+}
+
+#resp .lixo2{
+    margin: 0; padding: 0;
+    background-color: #ccc;    
+}
+
+#resp .lixo2 img{
+    width: 100%; 
+}
+
+#resp h1{
+  font-weight: 900;
+  font-size: 30px;    
+  position: relative;
+  margin: 0 auto;
+  width: 13em;
+  left: 0px;
+  top:6px;
+  text-align: center;
+}
+#resp h5{
+  font-weight: 600;
+  font-size: 22px;
+}
+#resp p{
+  font-size: 14px;
 }

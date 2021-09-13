@@ -10,6 +10,3 @@ wp-content/*
 
 # ignore wp-config.php
 wp-config.php
-
-# ignore file
-wp-content/themes/constanta/assets/video/

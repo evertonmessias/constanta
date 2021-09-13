@@ -60,7 +60,7 @@
       <nav id="navbar" class="navbar">
         <ul>
           <!--<li><a class="nav-link scrollto active" href="#hero">Home</a></li>-->
-          <li><a class="nav-link scrollto" href="#about">Institucional</a></li>
+          <li><a class="nav-link scrollto" href="#video">Institucional</a></li>
           <li><a class="nav-link scrollto" href="#services">Indústria</a></li>
           <li><a class="nav-link scrollto" href="#portfolio">Notícias</a></li>
           <li><a class="nav-link scrollto" href="#contact">Contatos</a></li>

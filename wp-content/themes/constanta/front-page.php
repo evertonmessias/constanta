@@ -40,16 +40,17 @@
 		</div>
 	</section><!-- End Icon Boxes Section -->
 
-	<!-- ======= About Us Section ======= -->
-	<section id="about" class="about">
+	<!-- ======= Video ======= -->
+	<section id="video" class="video">
 		<div class="container" data-aos="fade-up">
 			<div class="row content">
-				<video controls>
-					<source src="<?php echo SITEPATH; ?>assets/video/about.mp4" type="video/mp4">
-				</video>
+				<img src="<?php echo SITEPATH; ?>assets/img/video.png" title="video" alt="video" class="img-fluid">
+				<a href="http://constanta.com.br/video/demo.mp4" title="open-video" target="_blank">
+					<i class="bx bx-play-circle"></i>
+				</a>
 			</div>
 		</div>
-	</section><!-- End About Us Section -->
+	</section><!-- End Video -->
 
 	<!-- ======= Portfoio Section ======= -->
 	<section id="portfolio" class="portfoio timeline">
@@ -338,6 +339,33 @@
 		</div>
 	</section><!-- End About Section -->
 
+	<!-- ======= About Section ======= -->
+	<section id="resp" class="resp">
+		<div class="cta resp"></div>
+		<div class="container" data-aos="fade-up">
+			<div class="row responsabilidade">
+				<div class="col-lg-12 content" data-aos="fade-up" data-aos-delay="100">					
+					<hr>
+					<h1>Responsabilidade Social</h1>
+					<br>
+					<p>
+						A empresa é socialmente responsável e sustentável quando vai além da obrigação legal de pagar impostos e observar as condições adequadas de segurança e saúde para os trabalhadores ou preservar o meio ambiente.					
+					</p>
+				</div>
+				<div class="row lixos">
+					<div class="col-lg-6 lixo1">
+						<h5>Coleta seletiva do lixo</h5>
+						<p>Desde janeiro de 2004, a Constanta contribui com o meio ambiente e com a sociedade por meio do Programa de Coleta Seletiva de Lixo.</p>
+					</div>
+					<div class="col-lg-6 lixo2">
+						<img src="<?php echo SITEPATH ?>assets/img/lixo.jpg" title="Responsabilidade">
+					</div>
+				</div>
+			</div>
+
+		</div>
+	</section><!-- End About Section -->
+
 
 	<h1>CONTINUAR ..................</h1>
 	<!-- ======= Clients Section ======= 
@@ -417,24 +445,6 @@
 
 		</div>
 	</section><!-- End Services Section -->
-
-	<!-- ======= Cta Section ======= 
-	<section id="cta" class="cta">
-		<div class="container">
-
-			<div class="row" data-aos="zoom-in">
-				<div class="col-lg-9 text-center text-lg-start">
-					<h3>Call To Action</h3>
-					<p> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-				</div>
-				<div class="col-lg-3 cta-btn-container text-center">
-					<a class="cta-btn align-middle" href="#">Call To Action</a>
-				</div>
-			</div>
-
-		</div>
-	</section><!-- End Cta Section -->
-
 
 	<!-- ======= Team Section ======= 
 	<section id="team" class="team section-bg">
