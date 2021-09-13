@@ -4,7 +4,6 @@ $(document).ready(function () {
         delay: 10,
         time: 2500
     });
-
     $(window).scroll(function () {
         if ($(this).scrollTop() > 2500 && $(this).scrollTop() < 2600) {
 
@@ -17,6 +16,31 @@ $(document).ready(function () {
             Circlle('.round');            
         }
     });
+            $(".slide1").show();		
+
+			var pag = 1;
+
+			$(".prev").click(function () {
+				if (pag > 1) {
+					pag--;
+					console.log(pag);
+					$(".slide").hide();
+					$(".slide" + pag).show();
+				}
+			});
+
+			$(".next").click(function () {
+				if (pag < 3) {
+					pag++;
+					console.log(pag);
+					$(".slide").hide();
+					$(".slide" + pag).show();
+				}
+			});
+
+
+
+
 
 
 });
@@ -24,4 +48,12 @@ $(document).ready(function () {
 function filter(x) {
     $(".timeline .portfoliofilter").hide();
     $(".timeline .filter" + x).show();
+}
+
+function slide_prev(){
+    $("#resp .slide1").animate({width:'toggle'},350);
+}
+
+function slide_next(){
+    $("#resp .slide2").animate({width:'toggle'},350);
 }

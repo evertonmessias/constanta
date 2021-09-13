@@ -484,9 +484,14 @@ transform: rotate(-45deg);
     padding-right: 60px;
 }
 
-#resp .lixos{
-    width: 90%;
+#resp .respons{
+    width: 100%;
     margin: 0 auto;
+    height: 300px;
+}
+
+#resp .slide{
+    display: none;
 }
 
 #resp hr{
@@ -499,17 +504,17 @@ transform: rotate(-45deg);
   opacity: 1;
 }
 
-#resp .lixo1{
+#resp .respon1{
     background-color: #eee;
     padding: 50px 90px 90px 50px;
 }
 
-#resp .lixo2{
+#resp .respon2{
     margin: 0; padding: 0;
     background-color: #ccc;    
 }
 
-#resp .lixo2 img{
+#resp .respon2 img{
     width: 100%; 
 }
 
@@ -529,4 +534,31 @@ transform: rotate(-45deg);
 }
 #resp p{
   font-size: 14px;
+}
+#resp .buttons{
+    padding: 0;margin: 0;
+    display: block;
+    position: absolute;
+    width: 1050px;
+    top: 55%;
+    left: -50px;
+}
+#resp button{
+    position: relative;
+    padding-left: 22px;
+    padding-right: 22px;
+    background-color: #ff5d5dbe;
+    color: #fff;
+}
+#resp button.prev{
+    float: left;
+}
+#resp button.next{
+    float: right;
+}
+#resp button:hover{
+    background-color: #ff5d5d;
+}
+#resp i{
+    font-size: 50px;
 }
