@@ -24,8 +24,8 @@ $(document).ready(function () {
 				if (pag > 1) {
 					pag--;
 					console.log(pag);
-					$(".slide").hide();
-					$(".slide" + pag).show();
+					$(".slide").slideUp(400);
+					$(".slide" + pag).slideDown(400)
 				}
 			});
 
@@ -33,8 +33,8 @@ $(document).ready(function () {
 				if (pag < 3) {
 					pag++;
 					console.log(pag);
-					$(".slide").hide();
-					$(".slide" + pag).show();
+					$(".slide").slideUp(400);
+					$(".slide" + pag).slideDown(400)
 				}
 			});
 

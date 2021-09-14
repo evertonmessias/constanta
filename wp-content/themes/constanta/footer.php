@@ -1,72 +1,56 @@
 <!-- ======= Footer ======= -->
 <footer id="footer">
 
-<div class="footer-top">
-  <div class="container">
-	<div class="row">
+	<div class="footer-top">
+		<div class="container">
+			<div class="row footer">
 
-	  <div class="col-lg-3 col-md-6 footer-links">
-		<h4>A FAZER</h4>
-		<ul>
-		  <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
-		  <li><i class="bx bx-chevron-right"></i> <a href="#">About us</a></li>
-		  <li><i class="bx bx-chevron-right"></i> <a href="#">Services</a></li>
-		  <li><i class="bx bx-chevron-right"></i> <a href="#">Terms of service</a></li>
-		  <li><i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li>
-		</ul>
-	  </div>
+				<div class="col-lg-4 col-md-6 footer-contact">
+					<h4>Constanta</h4>
+					<p>Avenida Tégula, 888 - Brazilian Business Park<br>Ed. Ônix - Unidade 9</p>
+					<br>
+					<p>Associada</p>
+					LOGOS
+				</div>
 
-	  <div class="col-lg-3 col-md-6 footer-links">
-		<h4>A FAZER</h4>
-		<ul>
-		  <li><i class="bx bx-chevron-right"></i> <a href="#">Web Design</a></li>
-		  <li><i class="bx bx-chevron-right"></i> <a href="#">Web Development</a></li>
-		  <li><i class="bx bx-chevron-right"></i> <a href="#">Product Management</a></li>
-		  <li><i class="bx bx-chevron-right"></i> <a href="#">Marketing</a></li>
-		  <li><i class="bx bx-chevron-right"></i> <a href="#">Graphic Design</a></li>
-		</ul>
-	  </div>
+				<div class="col-lg-4 col-md-6 footer-contact">
+					<h4>Contato</h4>
+					<p>
+						<i class="bx bx-phone-call"></i>&ensp;+55 (11) 4417-7550<br>
+						<i class="bx bx-mail-send"></i>&ensp;<a href="mailto:vendas@constanta.com">vendas@constanta.com</a>
+					</p>
+				</div>
 
-	  <div class="col-lg-3 col-md-6 footer-contact">
-		<h4>A FAZER</h4>
-		<p>
-		  A108 Adam Street <br>
-		  New York, NY 535022<br>
-		  United States <br><br>
-		  <strong>Phone:</strong> +1 5589 55488 55<br>
-		  <strong>Email:</strong> info@example.com<br>
-		</p>
+				<div class="col-lg-4 col-md-6 footer-links">
+					<h4>Navegue</h4>
+					<ul>
+						<li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
+						<li><i class="bx bx-chevron-right"></i> <a href="#">Institucional</a></li>
+						<li><i class="bx bx-chevron-right"></i> <a href="#">Industria</a></li>
+						<li><i class="bx bx-chevron-right"></i> <a href="#">Noticias</a></li>
+						<li><i class="bx bx-chevron-right"></i> <a href="#">Contato</a></li>
+					</ul>
+				</div>
 
-	  </div>
+			</div>
 
-	  <div class="col-lg-3 col-md-6 footer-info">
-		<h3>A FAZER</h3>
-		<p>Cras fermentum odio eu feugiat lide par naso tierra. Justo eget nada terra videa magna derita valies darta donna mare fermentum iaculis eu non diam phasellus.</p>
-		<div class="social-links mt-3">
-		  <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
-		  <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
-		  <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
-		  <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
-		  <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+			<div class="row footer">
+				<hr>
+				<div class="col-lg-6">
+					<a href="https://b2s.marketing/">2021 desenvolvido por B2S Marketing</a>
+				</div>
+				<div class="col-lg-6 social">
+					<a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
+					<a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
+					<a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
+					<a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
+					<a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+				</div>
+			</div>
+
 		</div>
-	  </div>
-
 	</div>
-  </div>
-</div>
 
-<div class="container">
-  <div class="copyright">
-	&copy; Copyright <strong><span>Anyar</span></strong>. All Rights Reserved
-  </div>
-  <div class="credits">
-	<!-- All the links in the footer should remain intact. -->
-	<!-- You can delete the links only if you purchased the pro version. -->
-	<!-- Licensing information: https://bootstrapmade.com/license/ -->
-	<!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/anyar-free-multipurpose-one-page-bootstrap-theme/ -->
-	Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
-  </div>
-</div>
 </footer><!-- End Footer -->
 
 <div id="preloader"></div>
@@ -91,4 +75,5 @@
 
 <?php wp_footer(); ?>
 </body>
+
 </html>
