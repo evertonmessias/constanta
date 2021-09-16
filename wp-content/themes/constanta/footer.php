@@ -10,7 +10,14 @@
 					<p>Avenida Tégula, 888 - Brazilian Business Park<br>Ed. Ônix - Unidade 9</p>
 					<br>
 					<p>Associada</p>
-					LOGOS
+					<div class="row">
+						<div class="col-lg-4">
+							<img src="<?php echo SITEPATH ?>assets/img/logo-abinc.png" title="ABINC">
+						</div>
+						<div class="col-lg-4">
+							<img src="<?php echo SITEPATH ?>assets/img/logo-abinee.png" title="ABINEE">
+						</div>
+					</div>
 				</div>
 
 				<div class="col-lg-4 col-md-6 footer-contact">
@@ -24,11 +31,10 @@
 				<div class="col-lg-4 col-md-6 footer-links">
 					<h4>Navegue</h4>
 					<ul>
-						<li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
-						<li><i class="bx bx-chevron-right"></i> <a href="#">Institucional</a></li>
-						<li><i class="bx bx-chevron-right"></i> <a href="#">Industria</a></li>
-						<li><i class="bx bx-chevron-right"></i> <a href="#">Noticias</a></li>
-						<li><i class="bx bx-chevron-right"></i> <a href="#">Contato</a></li>
+						<li><i class="bx bx-chevron-right"></i> <a href="#video">Institucional</a></li>
+						<li><i class="bx bx-chevron-right"></i> <a href="#industria">Indústria</a></li>          
+						<li><i class="bx bx-chevron-right"></i> <a href="#recado">Contatos</a></li>
+						<li><i class="bx bx-chevron-right"></i> <a href="#noticias">Notícias</a></li>
 					</ul>
 				</div>
 
@@ -37,7 +43,7 @@
 			<div class="row footer">
 				<hr>
 				<div class="col-lg-6">
-					<a href="https://b2s.marketing/">2021 desenvolvido por B2S Marketing</a>
+					<a class="b2s" target="_blank" href="https://b2s.marketing/">2021 desenvolvido por B2S Marketing</a>
 				</div>
 				<div class="col-lg-6 social">
 					<a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>

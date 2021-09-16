@@ -219,7 +219,7 @@
 	<!-- End Portfoio Section -->
 
 	<!-- ======= Why Us Section ======= -->
-	<section id="why-us" class="why-us quadros">
+	<section id="industria" class="why-us quadros">
 		<div class="container-fluid">
 			<div class="row">
 				<div class="col-lg-6">

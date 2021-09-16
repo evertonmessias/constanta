@@ -59,11 +59,10 @@
       <a href="/" class="logo"><img src="<?php echo SITEPATH; ?>assets/img/logo.png" alt="" class="img-fluid"></a>
       <nav id="navbar" class="navbar">
         <ul>
-          <!--<li><a class="nav-link scrollto active" href="#hero">Home</a></li>-->
           <li><a class="nav-link scrollto" href="#video">Institucional</a></li>
-          <li><a class="nav-link scrollto" href="#services">Indústria</a></li>
-          <li><a class="nav-link scrollto" href="#portfolio">Notícias</a></li>
-          <li><a class="nav-link scrollto" href="#contact">Contatos</a></li>
+          <li><a class="nav-link scrollto" href="#industria">Indústria</a></li>          
+          <li><a class="nav-link scrollto" href="#recado">Contatos</a></li>
+          <li><a class="nav-link scrollto" href="#noticias">Notícias</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->

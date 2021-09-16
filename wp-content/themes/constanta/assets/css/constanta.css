@@ -684,3 +684,7 @@ transform: rotate(-45deg);
 #footer a{
     color: #fff
 }
+
+#footer a.b2s{
+    font-size: 12px;
+}
