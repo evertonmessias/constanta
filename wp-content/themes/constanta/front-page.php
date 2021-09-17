@@ -81,14 +81,14 @@
 				<div style="display:block" class="col-lg-12 col-md-6 portfoliofilter filter1">
 					<div class="portfolio-info">
 						<div class="row">
-							<div class="col-lg-3 col-md-6">
+							<div class="col-lg-3 info-block col-md-6">
 								<h1>19<br><span>52</span></h1>
 							</div>
-							<div class="col-lg-6 col-md-6">
+							<div class="col-lg-6 info-block col-md-6">
 								<h4>PIONEIROS EM MANUFATURA DE ELETRÔNICOS</h4>
 								<p>A Constanta foi inaugurada em abril de 1952, na cidade de Ribeirão Preto, por quatro alemães que desembarcaram no Brasil com o objetivo de expandir o mercado de eletrônicos, sendo que se iniciou a partir da produção de resistores de carvão.</p>
 							</div>
-							<div class="col-lg-3 col-md-6">
+							<div class="col-lg-3 info-block col-md-6">
 								<img src="<?php echo SITEPATH; ?>assets/img/portfolio/portfolio-1.png">
 							</div>
 						</div>
@@ -98,14 +98,14 @@
 				<div style="display:none" class="col-lg-12 col-md-6 portfoliofilter filter2">
 					<div class="portfolio-info">
 						<div class="row">
-							<div class="col-lg-3 col-md-6">
+							<div class="col-lg-3 info-block col-md-6">
 								<h1>19<br><span>62</span></h1>
 							</div>
-							<div class="col-lg-6 col-md-6">
+							<div class="col-lg-6 info-block col-md-6">
 								<h4>PIONEIROS EM MANUFATURA DE ELETRÔNICOS</h4>
 								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ligula nisl, sodales at metus aliquam, fermentum euismod ex. Suspendisse potenti. Fusce a ultricies sapien.</p>
 							</div>
-							<div class="col-lg-3 col-md-6">
+							<div class="col-lg-3 info-block col-md-6">
 								<img src="<?php echo SITEPATH; ?>assets/img/portfolio/portfolio-2.jpg">
 							</div>
 						</div>
@@ -114,14 +114,14 @@
 				<div style="display:none" class="col-lg-12 col-md-6 portfoliofilter filter3">
 					<div class="portfolio-info">
 						<div class="row">
-							<div class="col-lg-3 col-md-6">
+							<div class="col-lg-3 info-block col-md-6">
 								<h1>19<br><span>72</span></h1>
 							</div>
-							<div class="col-lg-6 col-md-6">
+							<div class="col-lg-6 info-block col-md-6">
 								<h4>PIONEIROS EM MANUFATURA DE ELETRÔNICOS</h4>
 								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ligula nisl, sodales at metus aliquam, fermentum euismod ex. Suspendisse potenti. Fusce a ultricies sapien.</p>
 							</div>
-							<div class="col-lg-3 col-md-6">
+							<div class="col-lg-3 info-block col-md-6">
 								<img src="<?php echo SITEPATH; ?>assets/img/portfolio/portfolio-3.jpg">
 							</div>
 						</div>
@@ -130,14 +130,14 @@
 				<div style="display:none" class="col-lg-12 col-md-6 portfoliofilter filter4">
 					<div class="portfolio-info">
 						<div class="row">
-							<div class="col-lg-3 col-md-6">
+							<div class="col-lg-3 info-block col-md-6">
 								<h1>19<br><span>82</span></h1>
 							</div>
-							<div class="col-lg-6 col-md-6">
+							<div class="col-lg-6 info-block col-md-6">
 								<h4>PIONEIROS EM MANUFATURA DE ELETRÔNICOS</h4>
 								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ligula nisl, sodales at metus aliquam, fermentum euismod ex. Suspendisse potenti. Fusce a ultricies sapien.</p>
 							</div>
-							<div class="col-lg-3 col-md-6">
+							<div class="col-lg-3 info-block col-md-6">
 								<img src="<?php echo SITEPATH; ?>assets/img/portfolio/portfolio-4.jpg">
 							</div>
 						</div>
@@ -147,14 +147,14 @@
 				<div style="display:none" class="col-lg-12 col-md-6 portfoliofilter filter5">
 					<div class="portfolio-info">
 						<div class="row">
-							<div class="col-lg-3 col-md-6">
+							<div class="col-lg-3 info-block col-md-6">
 								<h1>19<br><span>92</span></h1>
 							</div>
-							<div class="col-lg-6 col-md-6">
+							<div class="col-lg-6 info-block col-md-6">
 								<h4>PIONEIROS EM MANUFATURA DE ELETRÔNICOS</h4>
 								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ligula nisl, sodales at metus aliquam, fermentum euismod ex. Suspendisse potenti. Fusce a ultricies sapien.</p>
 							</div>
-							<div class="col-lg-3 col-md-6">
+							<div class="col-lg-3 info-block col-md-6">
 								<img src="<?php echo SITEPATH; ?>assets/img/portfolio/portfolio-5.jpg">
 							</div>
 						</div>
@@ -164,14 +164,14 @@
 				<div style="display:none" class="col-lg-12 col-md-6 portfoliofilter filter6">
 					<div class="portfolio-info">
 						<div class="row">
-							<div class="col-lg-3 col-md-6">
+							<div class="col-lg-3 info-block col-md-6">
 								<h1>20<br><span>02</span></h1>
 							</div>
-							<div class="col-lg-6 col-md-6">
+							<div class="col-lg-6 info-block col-md-6">
 								<h4>PIONEIROS EM MANUFATURA DE ELETRÔNICOS</h4>
 								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ligula nisl, sodales at metus aliquam, fermentum euismod ex. Suspendisse potenti. Fusce a ultricies sapien.</p>
 							</div>
-							<div class="col-lg-3 col-md-6">
+							<div class="col-lg-3 info-block col-md-6">
 								<img src="<?php echo SITEPATH; ?>assets/img/portfolio/portfolio-6.jpg">
 							</div>
 						</div>
@@ -180,14 +180,14 @@
 				<div style="display:none" class="col-lg-12 col-md-6 portfoliofilter filter7">
 					<div class="portfolio-info">
 						<div class="row">
-							<div class="col-lg-3 col-md-6">
+							<div class="col-lg-3 info-block col-md-6">
 								<h1>20<br><span>12</span></h1>
 							</div>
-							<div class="col-lg-6 col-md-6">
+							<div class="col-lg-6 info-block col-md-6">
 								<h4>PIONEIROS EM MANUFATURA DE ELETRÔNICOS</h4>
 								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ligula nisl, sodales at metus aliquam, fermentum euismod ex. Suspendisse potenti. Fusce a ultricies sapien.</p>
 							</div>
-							<div class="col-lg-3 col-md-6">
+							<div class="col-lg-3 info-block col-md-6">
 								<img src="<?php echo SITEPATH; ?>assets/img/portfolio/portfolio-7.jpg">
 							</div>
 						</div>
@@ -196,14 +196,14 @@
 				<div style="display:none" class="col-lg-12 col-md-6 portfoliofilter filter8">
 					<div class="portfolio-info">
 						<div class="row">
-							<div class="col-lg-3 col-md-6">
+							<div class="col-lg-3 info-block col-md-6">
 								<h1>20<br><span>22</span></h1>
 							</div>
-							<div class="col-lg-6 col-md-6">
+							<div class="col-lg-6 info-block col-md-6">
 								<h4>PIONEIROS EM MANUFATURA DE ELETRÔNICOS</h4>
 								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ligula nisl, sodales at metus aliquam, fermentum euismod ex. Suspendisse potenti. Fusce a ultricies sapien.</p>
 							</div>
-							<div class="col-lg-3 col-md-6">
+							<div class="col-lg-3 info-block col-md-6">
 								<img src="<?php echo SITEPATH; ?>assets/img/portfolio/portfolio-8.jpg">
 							</div>
 						</div>
