@@ -841,6 +841,18 @@ section button:hover {
     }
 }
 
+#hero.solucoes .text{
+    color: #fff
+}
+
+#hero.solucoes .text h1{
+    font-size: 50px;
+    font-weight: 900;
+}
+.quadros.solucoes{
+    margin-top: 50px;
+}
+
 
 #footer .row.footer {
     position: relative;
@@ -877,3 +889,4 @@ section button:hover {
 #footer a.b2s {
     font-size: 12px;
 }
+

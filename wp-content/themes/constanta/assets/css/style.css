@@ -476,6 +476,12 @@ h1, h2, h3, h4, h5, h6 {
   transition: 0.3s;
 }
 
+#hero.solucoes{
+  padding-top: 400px;
+  height: 70vh;
+  margin-bottom: 50px;
+}
+
 #hero:before {
   content: "";
   background: rgba(0, 0, 0, 0);
@@ -664,6 +670,10 @@ section {
   top: 0;
   left: 0;
   right: 0;
+}
+
+.about.solucoes:before {
+  background: none;
 }
 
 .about .container {
