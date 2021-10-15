@@ -1,4 +1,35 @@
 <?php get_header(); ?>
+
+
+  <!-- ======= Hero Section ======= -->
+  <section id="hero" style="background: url('<?php echo SITEPATH; ?>assets/img/hero-bg.jpg') top center;" class="d-flex justify-cntent-center align-items-center">
+    <div id="heroCarousel" data-bs-interval="5000" class="container carousel carousel-fade" data-bs-ride="carousel">
+
+      <!-- Slide -->
+      <div id="slide" class="carousel-item active">
+        <div class="bls animate__animated animate__fadeInUp">
+          <div class="bl1">
+            <p class="animate__animated animate__fadeInUp">ADEQUAÇÃO E VERSATILIDADE</p>
+            <h1 class="animate__animated animate__fadeInDown">Um olhar<br><span>360<sup>o</sup> GRAUS</span><br>para a manufatura<br>de eletrônicos</h1>
+            <div class="blcs animate__animated animate__fadeInUp">
+              <div class="blc1">
+                <img src="<?php echo SITEPATH; ?>assets/img/icone1.png" alt="" class="img-fluid">
+                <p>Indústria 4.0<br>Internet das Coisas</p>
+              </div>
+              <div class="blc2">
+                <img src="<?php echo SITEPATH; ?>assets/img/icone2.png" alt="" class="img-fluid">
+                <p>Automação<br>Industrial</p>
+              </div>
+            </div>
+          </div>
+          <div class="bl2">
+            <img class="persona" src="<?php echo SITEPATH; ?>assets/img/persona.png" alt="" class="img-fluid">
+          </div>
+        </div>
+      </div>
+    </div>
+  </section><!-- End Hero -->
+
 <main id="main">
 
 	<!-- ======= Icon Boxes Section ======= -->
