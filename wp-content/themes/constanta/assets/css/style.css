@@ -479,7 +479,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero.solucoes{
   padding-top: 400px;
   height: 70vh;
-  margin-bottom: 50px;
+  margin-bottom: 0px;
 }
 
 #hero:before {
@@ -672,7 +672,7 @@ section {
   right: 0;
 }
 
-.about.solucoes:before {
+.about.solucoes:before,.about.ssolucoes:before {
   background: none;
 }
 

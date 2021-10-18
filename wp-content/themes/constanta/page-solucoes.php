@@ -7,7 +7,7 @@
 			<div class="bls animate__animated animate__fadeInUp">
 				<div class="row">
 					<div class="text col-lg-6">
-						<h5>Home > Soluções</h5>
+						<p>Home > Soluções</p>
 					</div>
 					<div class="text col-lg-6">
 						<h1>Soluções</h1>
@@ -24,86 +24,53 @@
 		<div class="container-fluid">
 			<div class="row">
 				<div class="col-lg-6">
-					<img src="<?php echo SITEPATH ?>assets/img/quadros/quadro1.png" title="Constanta">
+					<div class="col-lg-6 content" data-aos="fade-up" data-aos-delay="100">
+						<hr>
+						<h1>Electronic<br>Manufacturing<br>Solutions</h1>
+						<br>
+						<p>
+							A fábrica do jeito que o seu projeto precisa. Com a Constanta Industrial LTDA o seu produto é produzido através da linha de EMS - Electronic Manufacturing Solutions. Os 70 anos de mercado nos traz experiência e total expertise no setor de manufatura para eletrônicos, com uma equipe altamente qualificada e preparada para dar todo o suporte nos projetos dos nossos clientes. Desde a fabricação aos testes, distribuição, serviços de devolução em garantia e reparo de equipamentos.
+						</p>
+					</div>
 				</div>
 				<div class="col-lg-6">
-					<img src="<?php echo SITEPATH ?>assets/img/quadros/quadro2.png" title="Constanta">
+					<img src="<?php echo SITEPATH ?>assets/img/quadros/squadro1.png" title="Constanta">
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-lg-6">
-					<img src="<?php echo SITEPATH ?>assets/img/quadros/quadro3.png" title="Constanta">
+					<img src="<?php echo SITEPATH ?>assets/img/quadros/squadro2.png" title="Constanta">
 				</div>
 				<div class="col-lg-6">
-					<img src="<?php echo SITEPATH ?>assets/img/quadros/quadro4.png" title="Constanta">
-				</div>
-			</div>
-			<div class="row">
-				<div class="col-lg-6">
-					<img src="<?php echo SITEPATH ?>assets/img/quadros/quadro5.png" title="Constanta">
-				</div>
-				<div class="col-lg-6">
-					<img src="<?php echo SITEPATH ?>assets/img/quadros/quadro6.png" title="Constanta">
+					<div class="col-lg-6 content content2" data-aos="fade-up" data-aos-delay="100">
+						<hr>
+						<h1>Quality at the top</h1>
+						<br>
+						<p>
+							Do projeto até a entrega do produto acabado, nossos serviços são pensados segundo a sua necessidade, otimizando o uso de mão de obra, armazenagem, processos, suprimentos. seguros, transportes, proporcionando ganhos financeiros e agilidade para enfrentar os desafios do mercado.
+						</p>
+					</div>
 				</div>
 			</div>
 		</div>
 	</section>
 	<!-- End Why Us Section -->
 
-	<!-- ======= Pionerismo Section ======= -->
-	<section id="pion" class="about solucoes">
+	<!-- ======= Soluções Section ======= -->
+	<section id="pion" class="about ssolucoes">
 		<div class="container" data-aos="fade-up">
 
-			<div class="row pionerismo">
-
-				<div class="col-lg-6 content" data-aos="fade-up" data-aos-delay="100">
+			<div class="row">
+				<div class="col-lg-12 content">
 					<hr>
-					<h1>Do pionerismo<br>do mercado eletrônico<br>a evolução tecnológica</h1>
-					<br>
-					<p>
-						Há 70 anos, a Constanta Industrial foi idealizada para ser uma fabricante de
-						componentes para o mercado eletrônico brasileiro. Investindo continuamente desde
-						então, nos tornamos uma empresa conceituada e em permanente evolução.
-						Hoje, oferecemos as melhores opções do mercado para montagens eletrônicas em
-						regime de turnkey. Seguindo nossa tradição, investimos em uma estrutura ímpar,
-						voltada para agregar qualidade, produtividade e competitividade aos nossos serviços
-						e aos produtos de nossos clientes.
-					</p>
-					<ul>
-						<li>
-							<div class="row">
-								<div class="col-lg-2">
-									<img src="<?php echo SITEPATH ?>assets/img/ico-smd.png" class="img-fluid" alt="">
-								</div>
-								<div class="col-lg-10">
-									<h5>Montagens SMD</h5>
-									<p>Realizadas em equipamentos de última geração, proteção contra eletricidade estética,
-										proteção ao meio ambiente, componentes de qualidade comprovada e atendimento aos prazos contratados.
-									</p>
-								</div>
-							</div>
-						</li>
-						<br>
-						<li>
-							<div class="row">
-								<div class="col-lg-2">
-									<img src="<?php echo SITEPATH ?>assets/img/ico-pth.png" class="img-fluid" alt="">
-								</div>
-								<div class="col-lg-10">
-									<h5>Montagens PTH</h5>
-									<p>Realizamos o processo PTH completo, incluindo complementação de partes mecânicas, inspeção de montagem, integração, testes e assistência técnica.</p>
-								</div>
-							</div>
-						</li>
-					</ul>
-				</div>
-				<div class="col-lg-6" data-aos="zoom-out" data-aos-delay="100">
-					<img src="<?php echo SITEPATH ?>assets/img/pionerismo.png" class="img-fluid" alt="">
+					<h1>Atuação</h1>
+					<br>					
+					<img src="<?php echo SITEPATH ?>assets/img/quadros/ssolucoes.png" class="img-fluid" alt="">					
 				</div>
 			</div>
 
 		</div>
-	</section><!-- End Pionerismo Section -->
+	</section><!-- End Soluções Section -->
 
 
 </main><!-- End #main -->

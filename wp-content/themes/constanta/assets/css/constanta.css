@@ -579,13 +579,33 @@ section button:hover {
     margin-top: -50px;
 }
 
-#pion .pionerismo {
+#pion .pionerismo{
     position: relative;
     margin: 0 auto;
     width: 850px;
 }
 
-#pion hr {
+.solucoes .content{
+    position: relative;
+    margin: 0 auto;
+    width: 550px;
+    float: right;
+    padding-right: 20px;
+}
+
+.ssolucoes .content{
+    position: relative;
+    margin: 0 auto;
+    width: 100%;  
+}
+
+.solucoes .content2{
+    float: left;
+    padding-right: 0px;
+    padding-left: 20px;
+}
+
+#pion hr, .solucoes .content hr, .ssolucoes hr {
     border: 3px solid rgba(255, 0, 0, 1) !important;
     background-color: rgba(255, 0, 0, 1) !important;
     position: relative;
@@ -594,7 +614,7 @@ section button:hover {
     opacity: 1;
 }
 
-#pion h1 {
+#pion h1, .solucoes .content h1, .ssolucoes h1 {
     font-weight: 900;
     font-size: 30px;
     position: relative;
@@ -604,18 +624,36 @@ section button:hover {
     text-align: left;
 }
 
+.ssolucoes img{    
+    position: relative;
+    margin: 0 auto;
+    width: 70%;
+    margin-left: 10%;
+}
+
+.ssolucoes h1,.ssolucoes hr{
+    text-align: center;
+    margin-left: 40%;
+}
+
 #pion h5 {
     font-weight: 600;
     font-size: 16px;
 }
 
-#pion p {
+#pion p, .solucoes .content p {
     font-size: 14px;
+    text-align: justify;
 }
 
 @media(max-width:900px) {
-    #pion .pionerismo {
-        width: 100%
+    #pion .pionerismo,.solucoes .content,.ssolucoes .content {
+        width: 100%;
+        padding: 10px;
+    }
+    .ssolucoes img{
+        width: 100%;
+        margin-left: 0;
     }
 }
 
@@ -846,11 +884,13 @@ section button:hover {
 }
 
 #hero.solucoes .text h1{
+    position: relative;
     font-size: 50px;
     font-weight: 900;
+    margin-top: -30px;
 }
 .quadros.solucoes{
-    margin-top: 50px;
+    margin-top: 0px;
 }
 
 
