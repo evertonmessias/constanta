@@ -63,6 +63,7 @@
           <li class="dropdown"><a class="nav-link scrollto" href="/#industria">Indústria <i class="bi bi-chevron-right"></i></a>
             <ul>
               <li><a href="/solucoes">Soluções</a></li>
+              <li><a href="/instalacoes">Instalações</a></li>
             </ul>
           </li>
           <li><a class="nav-link scrollto" href="/#recado">Contatos</a></li>
