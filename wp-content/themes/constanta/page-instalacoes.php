@@ -51,9 +51,17 @@
 					<img src="<?php echo SITEPATH ?>assets/img/quadros/locateindustria.png" class="img-fluid" alt="">
 				</div>
 				<div class="col-lg-6 content lado2" data-aos="fade-up" data-aos-delay="100">
-					<p>
-						lista em construção
-					</p>
+					<h4><i class="bx bxs-square"></i>&ensp;Logística</h4><br><br>
+
+					<h4><i class="bx bxs-square"></i>&ensp;Conhecimento, desenvolvimento e parceria.</h4><br><br>
+
+					<h4><i class="bx bxs-square"></i>&ensp;Próximo a Campinas, o "Vale do Silício Brasileiro".</h4><br><br>
+
+					<h4><i class="bx bxs-square"></i>&ensp;Universidades de Alta Tecnologia e ambientes de pesquisa.</h4><br><br>
+
+					<h4><i class="bx bxs-square"></i>&ensp;Tanto Atibaia quanto Campinas têm mão-de-obra altamente qualificada e pesquisadores realizando as demandas dos centros mais acançados em tecnologia.</h4><br><br>
+
+					<h4><i class="bx bxs-square"></i>&ensp;Boas relações e parceiros, com acesso direto à Prefeitura de Atibaia e aos principais órgãos reguladores.</h4><br><br>
 				</div>
 			</div>
 		</div>

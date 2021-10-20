@@ -668,6 +668,10 @@ section button:hover {
     margin-bottom: 50px;
 }
 
+#industria .listas i{
+    color: #ED3237;
+}
+
 #industria .lado1 img{
     width: 250px;
     float: right;
