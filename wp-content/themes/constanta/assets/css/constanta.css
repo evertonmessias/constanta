@@ -663,12 +663,19 @@ section button:hover {
     margin-left: 27%;
 }
 
-#industria .lado1{
-    background-color: #eee;
+#industria .listas{
+    margin-top: 80px;
+    margin-bottom: 50px;
+}
+
+#industria .lado1 img{
+    width: 250px;
+    float: right;
+    margin-top: 20px;
 }
 
 #industria .lado2{
-    background-color: #bbb;
+    
 }
 
 #pion h5 {

@@ -45,13 +45,14 @@
 					<br>
 				</div>
 			</div>
-			<div class="row">
+			<div class="row listas">
+				<br>
 				<div class="col-lg-6 content lado1" data-aos="fade-up" data-aos-delay="100">
 					<img src="<?php echo SITEPATH ?>assets/img/quadros/locateindustria.png" class="img-fluid" alt="">
 				</div>
 				<div class="col-lg-6 content lado2" data-aos="fade-up" data-aos-delay="100">
 					<p>
-						lista
+						lista em construção
 					</p>
 				</div>
 			</div>
