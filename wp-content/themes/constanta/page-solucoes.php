@@ -4,7 +4,7 @@
 	<div id="heroCarousel" data-bs-interval="5000" class="container carousel carousel-fade" data-bs-ride="carousel">
 		<!-- Slide -->
 		<div id="slide" class="carousel-item active">
-			<div class="bls animate__animated animate__fadeInUp">
+			<div class="bls pages animate__animated animate__fadeInUp">
 				<div class="row">
 					<div class="text col-lg-6">
 						<p>Home > Soluções</p>

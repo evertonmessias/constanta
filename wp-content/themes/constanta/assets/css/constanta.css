@@ -92,6 +92,11 @@ p {
     height: 600px;
 }
 
+#slide .bls.pages {
+    height: 300px;
+    padding-top: 230px;
+}
+
 #slide .bl1, #slide .bl2 {
     width: 50%;
     float: left;
@@ -605,6 +610,16 @@ section button:hover {
     padding-left: 20px;
 }
 
+.section-bg{
+    background-color: #f9f9f9;
+}
+
+#industria .industria{
+    position: relative;
+    margin: 0 auto;
+    width: 65%;
+}
+
 #pion hr, .solucoes .content hr, .ssolucoes hr {
     border: 3px solid rgba(255, 0, 0, 1) !important;
     background-color: rgba(255, 0, 0, 1) !important;
@@ -639,9 +654,21 @@ section button:hover {
     margin-left: 13%;
 }
 
-.ssolucoes h1,.ssolucoes hr{
+.ssolucoes h1,.ssolucoes hr,.industria h1, .industria hr{
     text-align: center;
     margin-left: 40%;
+}
+.industria h1, .industria hr{
+    text-align: center;
+    margin-left: 27%;
+}
+
+#industria .lado1{
+    background-color: #eee;
+}
+
+#industria .lado2{
+    background-color: #bbb;
 }
 
 #pion h5 {
@@ -662,6 +689,12 @@ section button:hover {
     .ssolucoes img{
         width: 100%;
         margin-left: 0;
+    }
+    .ssolucoes h1,.ssolucoes hr,.industria h1, .industria hr{
+        margin-left: 20%;
+    }
+    .industria h1, .industria hr{
+        margin-left: 0%;
     }
 }
 

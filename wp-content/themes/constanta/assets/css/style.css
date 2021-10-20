@@ -476,9 +476,8 @@ h1, h2, h3, h4, h5, h6 {
   transition: 0.3s;
 }
 
-#hero.solucoes{
-  padding-top: 400px;
-  height: 70vh;
+#hero.solucoes,#hero.instalacoes{  
+  height: 60vh;
   margin-bottom: 0px;
 }
 
