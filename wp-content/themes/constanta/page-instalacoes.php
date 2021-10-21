@@ -67,6 +67,47 @@
 		</div>
 	</section>
 	<!-- End Why Us Section -->
+	<br>
+		<!-- ======= Responsabilidade Section ======= -->
+		<section id="resp" class="resp headquarters">		
+		<div class="container" data-aos="fade-up">
+			<div class="row responsabilidade">
+				<div class="col-lg-12 content" data-aos="fade-up" data-aos-delay="100">
+					<hr>
+					<h1>Headquarters</h1>
+					<br>				
+				</div>
+
+				<div class="slide slide1">
+					<div class="row respons">				
+						<div class="col-lg-12">
+							<img src="<?php echo SITEPATH ?>assets/img/placas1.jpg" title="Headquarters">
+						</div>
+					</div>
+				</div>
+				<div class="slide slide2">
+					<div class="row respons">				
+						<div class="col-lg-12">
+							<img src="<?php echo SITEPATH ?>assets/img/placas2.jpg" title="Headquarters">
+						</div>
+					</div>
+				</div>
+				<div class="slide slide3">
+					<div class="row respons">				
+						<div class="col-lg-12">
+							<img src="<?php echo SITEPATH ?>assets/img/placas3.jpg" title="Headquarters">
+						</div>
+					</div>
+				</div>
+
+
+			</div>
+			<div class="buttons">
+				<button type="button" class="prev"><i class="bx bx-down-arrow"></i></button>
+				<button type="button" class="next"><i class="bx bx-up-arrow"></i></button>
+			</div>
+		</div>
+	</section><!-- End Responsabilidade Section -->
 
 </main><!-- End #main -->
 
