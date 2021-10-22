@@ -65,9 +65,9 @@
               <li><a href="/solucoes">Soluções</a></li>
               <li><a href="/instalacoes">Instalações</a></li>
             </ul>
-          </li>
-          <li><a class="nav-link scrollto" href="/#recado">Contatos</a></li>
+          </li>          
           <li><a class="nav-link scrollto" href="/#noticias">Notícias</a></li>
+          <li><a class="nav-link scrollto" href="/#recado">Contatos</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->

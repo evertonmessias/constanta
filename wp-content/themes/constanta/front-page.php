@@ -1,6 +1,5 @@
 <?php get_header(); ?>
 
-
   <!-- ======= Hero Section ======= -->
   <section id="hero" style="background: url('<?php echo SITEPATH; ?>assets/img/banners/hero-bg.jpg') top center;" class="d-flex justify-cntent-center align-items-center">
     <div id="heroCarousel" data-bs-interval="5000" class="container carousel carousel-fade" data-bs-ride="carousel">
@@ -492,10 +491,9 @@
 						</div>
 					</div>
 				</div>
-
-			</div>
-
+			</div>			
 		</div>
+		<a href="/news"><button class="maisnews" type="button">+ Notícias</button></a>
 	</section><!-- End Pricing Section -->
 
 </main><!-- End #main -->

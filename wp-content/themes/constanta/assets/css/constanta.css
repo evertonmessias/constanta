@@ -877,6 +877,7 @@ section button:hover {
     border: 1px solid #ccc;
     height: 500px;
     text-align: left;
+    margin-bottom: 20px;
 }
 
 #noticias .box img {
@@ -916,13 +917,27 @@ section button:hover {
     font-size: 30px;
     position: relative;
     margin: 0 auto;
-    width: 5em;
+    width: 10em;
     top: 6px;
 }
 
 #noticias p {
     font-size: 13px;
     font-style: normal;
+}
+
+#noticias .maisnews{
+    display: block;
+    position: relative;
+    margin: 0 auto;
+    background-color: #ED3237;
+    color: #fff;
+    margin-top: 50px;
+    padding: 10px;
+}
+
+#noticias .maisnews:hover{
+    background-color: #ff5c5c;
 }
 
 @media(max-width:900px) {
