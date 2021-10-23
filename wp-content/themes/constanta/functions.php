@@ -22,6 +22,7 @@ function tf_wp_admin_login_logo()
       background-size: 250px 250px;
       width: 250px;
       height: 250px;
+      margin-top: -120px;
     }
     #login .galogin-powered {
       display: none;

@@ -1,33 +1,33 @@
 <?php get_header(); ?>
 
-  <!-- ======= Hero Section ======= -->
-  <section id="hero" style="background: url('<?php echo SITEPATH; ?>assets/img/banners/hero-bg.jpg') top center;" class="d-flex justify-cntent-center align-items-center">
-    <div id="heroCarousel" data-bs-interval="5000" class="container carousel carousel-fade" data-bs-ride="carousel">
+<!-- ======= Hero Section ======= -->
+<section id="hero" style="background: url('<?php echo SITEPATH; ?>assets/img/banners/hero-bg.jpg') top center;" class="d-flex justify-cntent-center align-items-center">
+	<div id="heroCarousel" data-bs-interval="5000" class="container carousel carousel-fade" data-bs-ride="carousel">
 
-      <!-- Slide -->
-      <div id="slide" class="carousel-item active">
-        <div class="bls animate__animated animate__fadeInUp">
-          <div class="bl1">
-            <p class="animate__animated animate__fadeInUp">ADEQUAÇÃO E VERSATILIDADE</p>
-            <h1 class="animate__animated animate__fadeInDown">Um olhar<br><span>360<sup>o</sup> GRAUS</span><br>para a manufatura<br>de eletrônicos</h1>
-            <div class="blcs animate__animated animate__fadeInUp">
-              <div class="blc1">
-                <img src="<?php echo SITEPATH; ?>assets/img/icone1.png" alt="" class="img-fluid">
-                <p>Indústria 4.0<br>Internet das Coisas</p>
-              </div>
-              <div class="blc2">
-                <img src="<?php echo SITEPATH; ?>assets/img/icone2.png" alt="" class="img-fluid">
-                <p>Automação<br>Industrial</p>
-              </div>
-            </div>
-          </div>
-          <div class="bl2">
-            <img class="persona" src="<?php echo SITEPATH; ?>assets/img/persona.png" alt="" class="img-fluid">
-          </div>
-        </div>
-      </div>
-    </div>
-  </section><!-- End Hero -->
+		<!-- Slide -->
+		<div id="slide" class="carousel-item active">
+			<div class="bls animate__animated animate__fadeInUp">
+				<div class="bl1">
+					<p class="animate__animated animate__fadeInUp">ADEQUAÇÃO E VERSATILIDADE</p>
+					<h1 class="animate__animated animate__fadeInDown">Um olhar<br><span>360<sup>o</sup> GRAUS</span><br>para a manufatura<br>de eletrônicos</h1>
+					<div class="blcs animate__animated animate__fadeInUp">
+						<div class="blc1">
+							<img src="<?php echo SITEPATH; ?>assets/img/icone1.png" alt="" class="img-fluid">
+							<p>Indústria 4.0<br>Internet das Coisas</p>
+						</div>
+						<div class="blc2">
+							<img src="<?php echo SITEPATH; ?>assets/img/icone2.png" alt="" class="img-fluid">
+							<p>Automação<br>Industrial</p>
+						</div>
+					</div>
+				</div>
+				<div class="bl2">
+					<img class="persona" src="<?php echo SITEPATH; ?>assets/img/persona.png" alt="" class="img-fluid">
+				</div>
+			</div>
+		</div>
+	</div>
+</section><!-- End Hero -->
 
 <main id="main">
 
@@ -441,7 +441,7 @@
 		</div>
 	</section><!-- End Recado Section -->
 
-	<!-- ======= Pricing Section ======= -->
+	<!-- ======= Post Section ======= -->
 	<section id="noticias" class="pricing">
 		<div class="container" data-aos="fade-up">
 
@@ -453,47 +453,35 @@
 
 			<div class="row noticias">
 
-				<div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
-					<div class="box">
-						<img src="<?php echo SITEPATH ?>assets/img/noticias/noticia1.png" title="Noticia1">
-						<div class="content">
-							<h5>Constanta começa parceria com Top Diode Group</h5>
-							<br>
-							<p>A Constanta através de sua unidade de distribuição em São Paulo inicia uma parceria com a Topdiode Group..</p>
-							<br>
-							<button type="button">Leia mais</button>
-						</div>
-					</div>
-				</div>
+				<?php
+				$args = array(
+					'post_type' => 'post',
+					'posts_per_page' => 3,
+					'order' => 'DESC'
+				);
+				$loop = new WP_Query($args);
+				while ($loop->have_posts()) {
+					$loop->the_post();
+				?>
 
-				<div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
-					<div class="box">
-						<img src="<?php echo SITEPATH ?>assets/img/noticias/noticia2.png" title="Noticia2">
-						<div class="content">
-							<h5>Mobibdênio como substituto do silício em componentes eletrônicos</h5>
-							<br>
-							<p>A molibdenita, um óxido de molibdênio com apenas um átomo de espessura... </p>
-							<br>
-							<button type="button">Leia mais</button>
+					<div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
+						<div class="box">
+							<img src="<?php the_post_thumbnail_url('full') ?>" title="<?php the_title() ?>">
+							<div class="content">
+								<h5><?php the_title() ?></h5>
+								<br>
+								<p><?php $content = get_the_content(); echo mb_strimwidth($content, 0, 100, '...');?></p>
+								<br>
+								<a href="<?php the_permalink() ?>"><button type="button">Leia mais</button></a>
+							</div>
 						</div>
 					</div>
-				</div>
 
-				<div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
-					<div class="box">
-						<img src="<?php echo SITEPATH ?>assets/img/noticias/noticia3.png" title="Noticia2">
-						<div class="content">
-							<h5>Alta do dólar e os componenetes eletrônicos</h5>
-							<br>
-							<p>Brasilia - A alta do dólar poderá levar o setor de eletroeletrônicos a buscar componentes nacionais para ...</p>
-							<br>
-							<button type="button">Leia mais</button>
-						</div>
-					</div>
-				</div>
-			</div>			
+				<?php }	 ?>
+
+			</div>
 		</div>
-		<a href="/news"><button class="maisnews" type="button">+ Notícias</button></a>
+		<a href="/noticias"><button class="maisnews" type="button">+ Notícias</button></a>
 	</section><!-- End Pricing Section -->
 
 </main><!-- End #main -->
