@@ -435,7 +435,7 @@
 					<h5>Contato</h5>
 					<h2>Deixe seu recado</h2>
 					<p>A Constanta Industrial agradece o seu contato. Caso prefira enviar<br>uma mensagem de forma rápida, preencha o formulário abaixo.</p>
-					<button type="button">Entre em contato</button>
+					<a href="/contato"><button type="button">Entre em contato</button></a>
 				</div>
 			</div>
 		</div>

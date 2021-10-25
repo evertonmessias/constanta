@@ -67,7 +67,7 @@
             </ul>
           </li>          
           <li><a class="nav-link scrollto" href="/#noticias">Notícias</a></li>
-          <li><a class="nav-link scrollto" href="/#recado">Contatos</a></li>
+          <li><a class="nav-link scrollto" href="/contato">Contatos</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
