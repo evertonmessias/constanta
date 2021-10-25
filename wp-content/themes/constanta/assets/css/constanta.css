@@ -986,6 +986,10 @@ section button:hover {
     font-size: 80px;
 }
 
+#maps .contato3 a{
+    color: #fff;
+}
+
 #maps .contato1::after,#maps .contato2::after,#maps .contato3::after {
     content: "";
     position: absolute;
