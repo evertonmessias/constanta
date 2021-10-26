@@ -75,7 +75,7 @@
 		<div class="container" data-aos="fade-up">
 			<div class="row content">
 				<img src="<?php echo SITEPATH; ?>assets/img/video.png" title="video" alt="video" class="img-fluid">
-				<a href="http://constanta.com.br/video/demo.mp4" title="open-video" target="_blank">
+				<a href="/video/institucional.mp4" title="open-video" target="_blank">
 					<i class="bx bx-play-circle"></i>
 				</a>
 			</div>
