@@ -49,6 +49,21 @@
 
 	</section>
 
+	<section id="contato" class="contato">
+		<div class="container">
+			<div class="row formulario">
+				<hr>
+				<h1>Contact Us</h1>				
+				<div class="col-lg-6 formulario">
+					<p>Formulario</p>
+				</div>
+				<div class="col-lg-6 formulario">
+					<img src="<?php echo SITEPATH ?>assets/img/quadros/quadro-contato.png">
+				</div>
+			</div>
+		</div>
+	</section>
+
 </main><!-- End #main -->
 
 <?php get_footer(); ?>

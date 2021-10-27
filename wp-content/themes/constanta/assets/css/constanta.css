@@ -620,7 +620,7 @@ section button:hover {
     width: 65%;
 }
 
-#pion hr, .solucoes .content hr, .ssolucoes hr {
+#pion hr, .solucoes .content hr, .ssolucoes hr, .contato hr {
     border: 3px solid rgba(255, 0, 0, 1) !important;
     background-color: rgba(255, 0, 0, 1) !important;
     position: relative;
@@ -633,7 +633,7 @@ section button:hover {
     top: 70px !important;
 }
 
-#pion h1, .solucoes .content h1, .ssolucoes h1 {
+#pion h1, .solucoes .content h1, .ssolucoes h1, .contato h1 {
     font-weight: 900;
     font-size: 30px;
     position: relative;
@@ -641,6 +641,15 @@ section button:hover {
     left: 0px;
     top: 6px;
     text-align: left;
+}
+
+.contato h1{
+    width: 100%;
+    text-align: center;
+}
+.contato hr{
+    margin: 0 auto;
+    margin-top: -22px;
 }
 
 .instalacoes h1 span{
@@ -969,12 +978,13 @@ section button:hover {
     padding-left: 60px;
     padding-right: 60px;
     margin-top: -150px;
+    margin-left: 3%;
 }
 
 #maps .contato1,#maps .contato2,#maps .contato3{
     display: block;
     position: relative;
-    width: 350px;
+    width: 17em;
     min-height: 250px;
     background-color: #ED3237;
     color: #fff;
@@ -1001,6 +1011,15 @@ section button:hover {
     background-color: #fff;
 }
 
+#contato .row.formulario{
+    position: relative;
+    margin: 0 auto;
+    width: 80%;
+}
+
+#contato .formulario{
+    margin-top: 50px;
+}
 
 #footer .row.footer {
     position: relative;
