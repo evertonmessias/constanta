@@ -1021,6 +1021,25 @@ section button:hover {
     margin-top: 50px;
 }
 
+#contato input,#contato textarea{
+    border: 0;
+    border-bottom: 1px solid #999;
+}
+
+#contato button{
+    border: 0;
+    background-color: #ED3237;
+    color: #444;
+    font-weight: 800;
+    width: 100%;
+}
+#contato button:hover{
+    background-color: #ff5c5c;
+    color: #fff;
+}
+
+
+
 #footer .row.footer {
     position: relative;
     margin: 0 auto;
@@ -1028,6 +1047,15 @@ section button:hover {
 }
 
 @media(max-width:900px) {
+    #maps .contato1,#maps .contato2,#maps .contato3{
+        margin-top: 20px;
+    }
+    #maps .row2{
+        padding-left: 0px;
+        padding-right: 0px;
+        margin-top: 0px;
+        margin-left: 6%;
+    }
     #footer .row.footer {
         max-width: 100%;
     }
