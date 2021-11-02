@@ -76,6 +76,23 @@ p {
     color: #fff;
 }
 
+.google-translate{
+    display: block;
+    position: relative;
+    margin-top: 3px; 
+}
+.google-translate select{
+    position: absolute;
+    height: 20px;
+    top: -5px;
+    border: 0;
+    background-color: #ED3237;
+    color: #f9f9f9;
+}
+.google-translate select:hover{
+    background-color: #ff5c5c;
+}
+
 /* SLIDE */
 
 #slide {

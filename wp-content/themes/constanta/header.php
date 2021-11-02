@@ -27,6 +27,18 @@
   <link href="<?php echo SITEPATH; ?>assets/css/style.css" rel="stylesheet">
   <link href="<?php echo SITEPATH; ?>assets/css/constanta.css" rel="stylesheet">
 
+  <!-- Google Translate -->
+  <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+  <script type="text/javascript">
+    function googleTranslateElementInit() {
+      new google.translate.TranslateElement({
+          pageLanguage: 'pt'
+        },
+        'google_translate_element');
+    }
+  </script>
+
   <?php wp_head(); ?>
 </head>
 
@@ -43,7 +55,8 @@
         <i class="bi bi-telephone-outbound"></i> +55 (11) 4417-7550
       </div>
       &ensp;
-      <div class="social d-md-block">
+      <div class="social d-md-block">     
+
         <a href="#"><i class="bx bxl-facebook"></i></a>
         &ensp;
         <a href="#"><i class="bx bxl-twitter"></i></a>
@@ -65,12 +78,14 @@
               <li><a href="/solucoes">Soluções</a></li>
               <li><a href="/instalacoes">Instalações</a></li>
             </ul>
-          </li>          
+          </li>
           <li><a class="nav-link scrollto" href="/#noticias">Notícias</a></li>
           <li><a class="nav-link scrollto" href="/contato">Contatos</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
+
+      <div id="google_translate_element" class="google-translate"></div>
 
     </div>
   </header><!-- End Header -->
