@@ -377,7 +377,8 @@ p {
     position: relative;
     margin: 0 auto;
     width: 820px;
-    top: -100px
+    top: -50px;
+    z-index: 1000;
 }
 
 .video img {
