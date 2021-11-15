@@ -77,6 +77,7 @@
             <ul>
               <li><a href="/solucoes">Soluções</a></li>
               <li><a href="/instalacoes">Instalações</a></li>
+              <li><a href="/responsabilidade-social">Responsabilidade Social</a></li>
             </ul>
           </li>
           <li><a class="nav-link scrollto" href="/#noticias">Notícias</a></li>
