@@ -20,7 +20,7 @@ $(document).ready(function () {
 
 			var pag = 1;
 
-			$(".prev").click(function () {
+			$(".next").click(function () {
 				if (pag > 1) {
 					pag--;
 					console.log(pag);
@@ -29,8 +29,8 @@ $(document).ready(function () {
 				}
 			});
 
-			$(".next").click(function () {
-				if (pag < 3) {
+			$(".prev").click(function () {
+				if (pag < 5) {
 					pag++;
 					console.log(pag);
 					$(".slide").slideUp(400);
