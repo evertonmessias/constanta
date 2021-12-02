@@ -6,7 +6,7 @@
 
 		<!-- Slide -->
 		<div id="slide" class="carousel-item active">
-			<div class="bls animate__animated animate__fadeInUp">
+			<div class="animate__animated animate__fadeInUp">
 				<div class="bl1">
 					<p class="animate__animated animate__fadeInUp">ADEQUAÇÃO E VERSATILIDADE</p>
 					<h1 class="animate__animated animate__fadeInDown">Uma Visão<br><span>360<sup>o</sup> GRAUS</span><br>para a manufatura<br>de eletrônicos</h1>
@@ -20,10 +20,7 @@
 							<p>Automação<br>Industrial</p>
 						</div>
 					</div>
-				</div>
-				<div class="bl2">
-					<img class="persona" src="<?php echo SITEPATH; ?>assets/img/persona.png" alt="" class="img-fluid">
-				</div>
+				</div>				
 			</div>
 		</div>
 	</div>
