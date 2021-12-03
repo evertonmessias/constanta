@@ -79,7 +79,7 @@
 		</div>
 	</section><!-- End Video -->
 
-	<!-- ======= Portfoio Section ======= -->
+	<!-- ======= TimeLine Section ======= 
 	<section id="portfolio" class="portfoio timeline">
 		<div class="container" data-aos="fade-up">
 
@@ -112,11 +112,11 @@
 								<h1>19<br><span>52</span></h1>
 							</div>
 							<div class="col-lg-6 info-block col-md-6">
-								<!--<h4>PIONEIROS EM MANUFATURA DE ELETRÔNICOS</h4>-->
+								<h4>PIONEIROS EM MANUFATURA DE ELETRÔNICOS</h4>
 								<h4>Constanta é fundada por 4 alemães. Produção inicial: resistores de carvão.</h4>
 							</div>
 							<div class="col-lg-3 info-block col-md-6">
-								<img src="<?php echo SITEPATH; ?>assets/img/portfolio/portfolio-1.png">
+								<img src="<?php //echo SITEPATH; ?>assets/img/portfolio/portfolio-1.png">
 							</div>
 						</div>
 					</div>
@@ -129,11 +129,11 @@
 								<h1>19<br><span>69</span></h1>
 							</div>
 							<div class="col-lg-6 info-block col-md-6">
-								<!--<h4>PIONEIROS EM MANUFATURA DE ELETRÔNICOS</h4>-->
+								<h4>PIONEIROS EM MANUFATURA DE ELETRÔNICOS</h4>
 								<h4>Passa a fazer parte do grupo Philips.</h4>
 							</div>
 							<div class="col-lg-3 info-block col-md-6">
-								<img src="<?php echo SITEPATH; ?>assets/img/portfolio/portfolio-1.png">
+								<img src="<?php //echo SITEPATH; ?>assets/img/portfolio/portfolio-1.png">
 							</div>
 						</div>
 					</div>
@@ -145,11 +145,11 @@
 								<h1>19<br><span>98</span></h1>
 							</div>
 							<div class="col-lg-6 info-block col-md-6">
-								<!--<h4>PIONEIROS EM MANUFATURA DE ELETRÔNICOS</h4>-->
+								<h4>PIONEIROS EM MANUFATURA DE ELETRÔNICOS</h4>
 								<h4>Empresários locais compram a Constanta do grupo Philips e a planta é transferida para o bairro do Ipiranga, São Paulo/SP.</h4>
 							</div>
 							<div class="col-lg-3 info-block col-md-6">
-								<img src="<?php echo SITEPATH; ?>assets/img/portfolio/portfolio-1.png">
+								<img src="<?php //echo SITEPATH; ?>assets/img/portfolio/portfolio-1.png">
 							</div>
 						</div>
 					</div>
@@ -161,11 +161,11 @@
 								<h1>20<br><span>16</span></h1>
 							</div>
 							<div class="col-lg-6 info-block col-md-6">
-								<!--<h4>PIONEIROS EM MANUFATURA DE ELETRÔNICOS</h4>-->
+								<h4>PIONEIROS EM MANUFATURA DE ELETRÔNICOS</h4>
 								<h4>Ampliação e modernização da planta fabril em Atibaia.</h4>
 							</div>
 							<div class="col-lg-3 info-block col-md-6">
-								<img src="<?php echo SITEPATH; ?>assets/img/portfolio/portfolio-1.png">
+								<img src="<?php //echo SITEPATH; ?>assets/img/portfolio/portfolio-1.png">
 							</div>
 						</div>
 					</div>
@@ -178,11 +178,11 @@
 								<h1>20<br><span>17</span></h1>
 							</div>
 							<div class="col-lg-6 info-block col-md-6">
-								<!--<h4>PIONEIROS EM MANUFATURA DE ELETRÔNICOS</h4>-->
+								<h4>PIONEIROS EM MANUFATURA DE ELETRÔNICOS</h4>
 								<h4>Certificações: além da ISO 9001, a companhia adquire o certificado ISO 13485 (Área médica, hospitalar).</h4>
 							</div>
 							<div class="col-lg-3 info-block col-md-6">
-								<img src="<?php echo SITEPATH; ?>assets/img/portfolio/portfolio-1.png">
+								<img src="<?php //echo SITEPATH; ?>assets/img/portfolio/portfolio-1.png">
 							</div>
 						</div>
 					</div>
@@ -195,11 +195,11 @@
 								<h1>20<br><span>19</span></h1>
 							</div>
 							<div class="col-lg-6 info-block col-md-6">
-								<!--<h4>PIONEIROS EM MANUFATURA DE ELETRÔNICOS</h4>-->
+								<h4>PIONEIROS EM MANUFATURA DE ELETRÔNICOS</h4>
 								<h4>Centralização das operações na planta de Atibaia.</h4>
 							</div>
 							<div class="col-lg-3 info-block col-md-6">
-								<img src="<?php echo SITEPATH; ?>assets/img/portfolio/portfolio-1.png">
+								<img src="<?php //echo SITEPATH; ?>assets/img/portfolio/portfolio-1.png">
 							</div>
 						</div>
 					</div>
@@ -211,11 +211,11 @@
 								<h1>20<br><span>20</span></h1>
 							</div>
 							<div class="col-lg-6 info-block col-md-6">
-								<!--<h4>PIONEIROS EM MANUFATURA DE ELETRÔNICOS</h4>-->
+								<h4>PIONEIROS EM MANUFATURA DE ELETRÔNICOS</h4>
 								<h4>Expansão da área fabril. Aquisição Absolut Mobile; Reestruturação societária.</h4>
 							</div>
 							<div class="col-lg-3 info-block col-md-6">
-								<img src="<?php echo SITEPATH; ?>assets/img/portfolio/portfolio-1.png">
+								<img src="<?php //echo SITEPATH; ?>assets/img/portfolio/portfolio-1.png">
 							</div>
 						</div>
 					</div>
@@ -227,11 +227,11 @@
 								<h1>20<br><span>21</span></h1>
 							</div>
 							<div class="col-lg-6 info-block col-md-6">
-								<!--<h4>PIONEIROS EM MANUFATURA DE ELETRÔNICOS</h4>-->
+								<h4>PIONEIROS EM MANUFATURA DE ELETRÔNICOS</h4>
 								<h4>Inauguração do ICI (Instituto Constanta de Inovação).</h4>
 							</div>
 							<div class="col-lg-3 info-block col-md-6">
-								<img src="<?php echo SITEPATH; ?>assets/img/portfolio/portfolio-1.png">
+								<img src="<?php //echo SITEPATH; ?>assets/img/portfolio/portfolio-1.png">
 							</div>
 						</div>
 					</div>
@@ -243,7 +243,24 @@
 
 		</div>
 	</section>
-	<!-- End Portfoio Section -->
+	End TimeLine Section -->
+
+		<!-- ======= Timeline 2 Section ======= -->
+		<section id="portfolio" class="portfoio timeline2">
+		<div class="containertm" data-aos="fade-up">
+			<div class="section-title">
+				<hr>
+				<h1>Timeline</h1>
+			</div>
+
+			<div class="row">
+				<div class="col-lg-12 d-flex justify-content-center content-timeline">
+					<img src="<?php echo SITEPATH; ?>assets/img/timeline.png" title="timeline" alt="timeline" class="img-fluid">
+				</div>
+			</div>
+		</div>
+	</section>
+	<!-- End Timeline 2 Section -->
 
 	<!-- ======= Why Us Section ======= -->
 	<section id="industria" class="why-us quadros">

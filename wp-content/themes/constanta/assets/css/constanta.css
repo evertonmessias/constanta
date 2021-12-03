@@ -1,4 +1,4 @@
-/* CSS Constanta */
+/**************************** CSS Constanta */
 
 @font-face {
     font-family: SairaBold;
@@ -13,7 +13,7 @@ p {
     font-family: 'Saira', sans-serif;
 }
 
-/* TOP BAR */
+/**************************** TOP BAR */
 
 @media(min-width:900px) {
     .logoalt {
@@ -93,7 +93,7 @@ p {
     background-color: #ff5c5c;
 }
 
-/* SLIDE */
+/**************************** SLIDE */
 
 #slide {
     display: block;
@@ -204,7 +204,7 @@ p {
     }
 }
 
-/* ICON BOX */
+/**************************** ICON BOX */
 
 .icon-boxes .icon-box {
     position: relative;
@@ -363,7 +363,7 @@ p {
     }
 }
 
-/* Video */
+/**************************** Video */
 
 .video {
     position: relative;
@@ -401,7 +401,7 @@ p {
     }
 }
 
-/*Timeline*/
+/****************************Timeline
 
 .timeline {
     position: relative;
@@ -483,8 +483,52 @@ p {
         display: none;
     }   
 }
+******************************************/
 
-/*quadros*/
+
+/****************************Timeline 2 */
+.timeline2 {
+    position: relative;
+    margin: 0 auto;
+    top: -100px;
+    margin-bottom: -160px;
+    background-color: #f7f7f7;
+}
+
+.timeline2 .containertm {
+    position: relative;
+    margin: 0 auto;
+    top: -20px;
+    width: 80%;
+    min-height: 250px;
+}
+
+.timeline2 .section-title hr {
+    border: 3px solid rgba(255, 0, 0, 1) !important;
+    background-color: rgba(255, 0, 0, 1) !important;
+    position: relative;
+    top: 50px;
+    width: 13em;
+    opacity: 1;
+}
+
+.timeline2 .section-title h1 {
+    font-weight: 900;
+    font-size: 30px;
+    position: relative;
+    width: 13em;
+    left: 0px;
+    top: 6px;
+    text-align: left;
+    margin-bottom: 80px;
+}
+.timeline2 .content-timeline{
+    margin-bottom: 100px;
+}
+
+
+
+/****************************quadros*/
 
 .quadros .col-lg-6 {
     margin: 0;
@@ -527,13 +571,13 @@ p {
 }
 
 
-/*circular*/
+/****************************circular*/
 
 .quadros .numeros .number {
     border: 1px solid yellow;
 }
 
-/* Code By Webdevtrick ( https://webdevtrick.com ) */
+/**************************** Code By Webdevtrick ( https://webdevtrick.com ) */
 
 #circleBar {
     margin-top: 0;
