@@ -469,7 +469,7 @@ h1, h2, h3, h4, h5, h6 {
   height: 110vh;
   overflow: hidden;
   position: relative;  
-  background-size: cover;
+  background-size: contain;
   position: relative;
   margin-bottom: -90px;
   z-index: 99;
