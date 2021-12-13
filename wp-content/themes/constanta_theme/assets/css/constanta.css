@@ -1,0 +1,130 @@
+/**************************** CSS Constanta */
+
+button, input {
+    border: 0;
+}
+
+p {
+    font-family: 'Saira', sans-serif;
+}
+
+/**************************** TOP */
+
+@media (min-width: 950px) {
+    #header .logo img{
+        transform: scale(1.5);
+    }
+}
+
+
+.google-translate{
+    display: block;
+    position: relative;
+    margin-top: 3px; 
+}
+.google-translate select{
+    position: absolute;
+    height: 20px;
+    top: -5px;
+    border: 1px solid #ED3237;
+    background-color: #ED3237;
+    color: #f9f9f9;
+}
+.google-translate select:hover{
+    background-color: #ff5c5c;
+}
+
+#header .container, #hero .container{
+    max-width: 900px;
+}
+
+/**************************** Quadros */
+
+.quadros .col-lg-6 {
+    margin: 0;
+    padding: 0;
+}
+
+.quadros .col-lg-6 img {
+    width: 100%;
+}
+
+.quadros .col-lg-6 img:hover {
+    opacity: 0.6;
+}
+
+.quadros .numeros {
+    background-color: #ED3237;
+    height: 300px;
+}
+
+.quadros .numeros h3 {
+    color: #fff;
+    font-weight: 900;
+}
+
+.quadros .numeros .instal {
+    display: block;
+    position: relative;
+    width: 18em;
+    top: 4em;
+    left: 22em;
+}
+
+@media(max-width:900px) {
+    .quadros .numeros .instal {        
+        left: 25%;
+    } 
+    .numeros{
+        display: none;
+    }
+}
+
+
+/**************************** Footer */
+
+#footer .row.footer {
+    position: relative;
+    margin: 0 auto;
+    width: 1000px;
+}
+
+@media(max-width:900px) {
+    #maps .contato1,#maps .contato2,#maps .contato3{
+        margin-top: 20px;
+    }
+    #maps .row2{
+        padding-left: 0px;
+        padding-right: 0px;
+        margin-top: 0px;
+        margin-left: 6%;
+    }
+    #footer .row.footer {
+        max-width: 100%;
+    }
+}
+
+#footer .row.footer h4 {
+    opacity: 0.7;
+}
+
+#footer .row.footer i, #footer .footer-top .footer-links ul i {
+    color: #444;
+}
+
+#footer .row.footer .social {
+    text-align: right;
+}
+
+#footer p {
+    font-size: 12px;
+}
+
+#footer a {
+    color: #fff
+}
+
+#footer a.b2s {
+    font-size: 12px;
+}
+
