@@ -80,6 +80,23 @@ p {
     }
 }
 
+/**************************** Timeline */
+.timeline .carousel-control span{    
+    width:40px;
+    height:40px;
+    background-color: rgba(255,255,255,0.5); 
+    border-radius:20px;   
+}
+@media(min-width:900px) {
+    .timeline .carousel-control-prev {
+        left: -50px;
+    }
+    .timeline .carousel-control-next {
+        right: 50px;
+    }
+}
+
+
 /**************************** Footer */
 
 #footer .row.footer {
