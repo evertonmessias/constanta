@@ -866,9 +866,7 @@ section {
 /*--------------------------------------------------------------
 # Testimonials
 --------------------------------------------------------------*/
-.testimonials.background-red{
-  background-color: #ED3237;
-} 
+
 .testimonials .section-title h2 {
   font-size: 30px;
   color: #fff;
@@ -934,6 +932,23 @@ section {
 }
 .testimonials .swiper-pagination .swiper-pagination-bullet-active {
   background-color: #888;
+}
+.testimonials .background-img{
+    width: 100%;
+    height: 70vh;
+    position: relative;
+    background-size:cover;
+    background-repeat: no-repeat;
+    margin-bottom: -50px;
+}
+.testimonials .lettering{
+  margin-top: 80px;
+}
+.testimonials .lettering img{
+    display: block;
+    position: relative;
+    margin: 0 auto;
+    width: 40em;
 }
 
 /*--------------------------------------------------------------

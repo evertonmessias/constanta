@@ -8,6 +8,10 @@ p {
     font-family: 'Saira', sans-serif;
 }
 
+.background-red{
+    background-color: #ED3237;
+  } 
+
 /**************************** TOP */
 
 @media (min-width: 950px) {
@@ -15,7 +19,6 @@ p {
         transform: scale(1.5);
     }
 }
-
 
 .google-translate{
     display: block;
@@ -79,7 +82,18 @@ p {
         display: none;
     }
 }
-
+/**************************** Slide-Box */
+.slide-box .testimonial-item {
+    box-sizing: content-box;
+    padding: 0px 0px 0px 0px;
+    margin: 0px 0px 0px 0px;
+    box-shadow:none;
+    position: relative;
+    background: #ED3237;
+}
+.slide-box .testimonial-item img {
+    width: 105%;
+}
 /**************************** Footer */
 
 #footer .row.footer {
