@@ -874,12 +874,6 @@ section {
   color: #fff;
   text-align: center;
 }
-.testimonials .testimonial-wrap {
-  padding-left: 50px;
-}
-.testimonials .testimonials-carousel, .testimonials .testimonials-slider {
-  overflow: hidden;
-}
 .testimonials .testimonial-item {
   box-sizing: content-box;
   padding: 10px 10px 10px 20px;

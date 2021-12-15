@@ -126,14 +126,7 @@
 
 				</div>
 				<div class="swiper-pagination"></div>							
-			</div>
-			<a class="carousel-control carousel-control-prev" href="#testimonials">
-				<span class="carousel-control-prev-icon"></span>
-			</a>
-
-			<a class="carousel-control carousel-control-next" href="#testimonials">
-				<span class="carousel-control-next-icon"></span>
-			</a>		
+			</div>					
 		</div>
 	</section><!-- End TimeLine -->
 
