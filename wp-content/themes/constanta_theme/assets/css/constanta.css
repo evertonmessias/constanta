@@ -8,28 +8,29 @@ p {
     font-family: 'Saira', sans-serif;
 }
 
-.background-red{
+.background-red {
     background-color: #ED3237;
-  } 
+}
 
 /**************************** TOP */
 
-#header .container, #hero .container{
+#header .container, #hero .container {
     max-width: 900px;
 }
 
 @media (min-width: 950px) {
-    #header .logo img{
+    #header .logo img {
         transform: scale(1.5);
     }
 }
 
-.google-translate{
+.google-translate {
     display: block;
     position: relative;
-    margin-top: 3px; 
+    margin-top: 3px;
 }
-.google-translate select{
+
+.google-translate select {
     position: absolute;
     height: 20px;
     top: -5px;
@@ -37,15 +38,16 @@ p {
     background-color: #ED3237;
     color: #f9f9f9;
 }
-.google-translate select:hover{
+
+.google-translate select:hover {
     background-color: #ff5c5c;
 }
 
 @media (max-width: 950px) {
-    .google-translate{
+    .google-translate {
         position: absolute;
         left: 33%;
-        top:25px;        
+        top: 25px;
     }
 }
 
@@ -83,17 +85,18 @@ p {
 }
 
 @media(max-width:900px) {
-    .quadros .numeros .instal {        
+    .quadros .numeros .instal {
         left: 25%;
-    } 
-    .numeros{
+    }
+
+    .numeros {
         display: none;
     }
 }
 
 /**************************** Recado */
 
-#recado{
+#recado {
     width: 100%;
     height: 50vh;
     position: relative;
@@ -130,7 +133,7 @@ p {
 /**************************** Noticias */
 
 
-#noticias{
+#noticias {
     width: 100%;
     position: relative;
     background: url("../img/background/cinza.jpg") center center;
@@ -179,7 +182,7 @@ p {
     width: 130px;
     background-color: #ED3237;
     bottom: 40px;
-    left:40px;
+    left: 40px;
     color: #fff;
 }
 
@@ -220,7 +223,7 @@ p {
     text-align: left;
 }
 
-#noticias .maisnews{
+#noticias .maisnews {
     display: block;
     position: relative;
     margin: 0 auto;
@@ -230,7 +233,7 @@ p {
     padding: 10px;
 }
 
-#noticias .maisnews:hover{
+#noticias .maisnews:hover {
     background-color: #ff5c5c;
 }
 
@@ -238,6 +241,45 @@ p {
     #noticias .row.noticias {
         width: 100%;
     }
+}
+
+/**************************** Pages */
+
+#hero.sobre .carousel-item::before {
+    content: "";
+    background-color: rgba(255, 255, 255, 0);
+}
+
+#hero.sobre hr {
+    border: 0.3px solid #f00;
+    background-color: #f00;
+    opacity: 1;
+    width: 15em;
+    float: left;
+    margin-left: -50px;
+    margin-right: 50px;
+}
+
+#hero.sobre h2 {
+    color: #444;
+    font-weight: 200;
+    font-size: 40px;
+    letter-spacing: 15px;
+}
+
+
+#sobre-frase {
+    width: 100%;
+    position: relative;
+    background: url("../img/background/cinza.jpg");
+    background-position: top;
+    background-size: cover;
+}
+
+#sobre-frase h1{
+    color: #ED3237;
+    font-weight: 600;
+    text-align: center;
 }
 
 /**************************** Footer */
@@ -249,15 +291,17 @@ p {
 }
 
 @media(max-width:900px) {
-    #maps .contato1,#maps .contato2,#maps .contato3{
+    #maps .contato1, #maps .contato2, #maps .contato3 {
         margin-top: 20px;
     }
-    #maps .row2{
+
+    #maps .row2 {
         padding-left: 0px;
         padding-right: 0px;
         margin-top: 0px;
         margin-left: 6%;
     }
+
     #footer .row.footer {
         max-width: 100%;
     }
@@ -286,4 +330,3 @@ p {
 #footer a.b2s {
     font-size: 12px;
 }
-

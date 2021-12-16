@@ -31,10 +31,10 @@
 				<div class="col-lg-4 col-md-6 footer-links">
 					<h4>Navegue</h4>
 					<ul>
-						<li><i class="bx bx-chevron-right"></i> <a href="#video">Institucional</a></li>
-						<li><i class="bx bx-chevron-right"></i> <a href="#industria">Indústria</a></li>          
-						<li><i class="bx bx-chevron-right"></i> <a href="#recado">Contatos</a></li>
-						<li><i class="bx bx-chevron-right"></i> <a href="#noticias">Notícias</a></li>
+						<li><i class="bx bx-chevron-right"></i> <a href="#">Institucional</a></li>
+						<li><i class="bx bx-chevron-right"></i> <a href="#">Indústria</a></li>          
+						<li><i class="bx bx-chevron-right"></i> <a href="#">Contatos</a></li>
+						<li><i class="bx bx-chevron-right"></i> <a href="#">Notícias</a></li>
 					</ul>
 				</div>
 
@@ -45,12 +45,9 @@
 				<div class="col-lg-6">
 					<a class="b2s" target="_blank" href="https://b2s.marketing/">2021 desenvolvido por B2S Marketing</a>
 				</div>
-				<div class="col-lg-6 social">
-					<a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
+				<div class="col-lg-6 social">					
 					<a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
-					<a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
-					<a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
-					<a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+					<a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>					
 				</div>
 			</div>
 
