@@ -81,7 +81,7 @@
 			<div class="carousel-inner" role="listbox">
 
 				<!-- Slide 1 -->
-				<div class="carousel-item active" style="background-image: url(<?php echo SITEPATH; ?>assets/img/slide/slide-1.jpg)">
+				<div class="carousel-item active" style="background-image: url(<?php echo SITEPATH; ?>assets/img/slide/slide-1.gif)">
 					<div class="carousel-container">
 						<div class="container">
 							<p class="animate__animated animate__fadeInUp">Uma visão</p>
