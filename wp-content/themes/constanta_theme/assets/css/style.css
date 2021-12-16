@@ -947,6 +947,11 @@ h1, h2, h3, h4, h5, h6 {
     margin: 0 auto;
     width: 40em;
 }
+@media (max-width: 950px) {
+  .testimonials .lettering img{
+    width: 100%;
+  }
+}
 
 /*--------------------------------------------------------------
 # slide-boxs
@@ -1061,6 +1066,15 @@ margin-top: 80px;
   position: relative;
   margin: 0 auto;
   width: 40em;
+}
+
+@media (max-width: 950px) {
+  .slide-boxs .slide-box-item .slide-box-btn{
+    top:-120px;
+  }
+  .slide-boxs .video img{
+    width: 100%;
+  }
 }
 
 

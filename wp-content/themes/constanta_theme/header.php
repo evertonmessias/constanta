@@ -53,8 +53,8 @@
       <a href="/" class="logo"><img src="<?php echo SITEPATH; ?>assets/img/logo.png" alt="" class="img-fluid"></a>
       <nav id="navbar" class="navbar">
         <ul>
-          <li><a class="nav-link scrollto" href="/#portfolio">Institucional</a></li>
-          <li class="dropdown"><a class="nav-link scrollto" href="/#industria">Indústria <i class="bi bi-chevron-right"></i></a>
+          <li><a class="nav-link scrollto" href="/#timeline">Institucional</a></li>
+          <li class="dropdown"><a class="nav-link scrollto" href="/#slide-boxs">Indústria <i class="bi bi-chevron-right"></i></a>
             <ul>
               <li><a href="/solucoes">Soluções</a></li>
               <li><a href="/instalacoes">Instalações</a></li>
@@ -62,7 +62,7 @@
             </ul>
           </li>
           <li><a class="nav-link scrollto" href="/#noticias">Notícias</a></li>
-          <li><a class="nav-link scrollto" href="/contato">Contatos</a></li>
+          <li><a class="nav-link scrollto" href="/#recado">Contatos</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->

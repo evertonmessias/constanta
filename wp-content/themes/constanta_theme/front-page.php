@@ -197,7 +197,7 @@
 				<div class="swiper-pagination"></div>
 			</div>
 
-			<div class="background-img" data-aos="fade-up" style="background-image: url(<?php echo SITEPATH; ?>assets/img/background/vermelho.jpg)">
+			<div id="video" class="background-img" data-aos="fade-up" style="background-image: url(<?php echo SITEPATH; ?>assets/img/background/vermelho.jpg)">
 				<div class="row">
 					<div class="col-lg-12 video">
 						<a href="/video/institucional.mp4" target="_blank"><img src="<?php echo SITEPATH ?>assets/img/background/video.jpg" title="Video"></a>
