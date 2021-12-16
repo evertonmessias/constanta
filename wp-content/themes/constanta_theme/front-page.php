@@ -37,7 +37,7 @@
 		<div class="container" data-aos="fade-up">
 
 			<div class="section-title">
-				<br>
+				<br><br><br>
 				<h2>TIMELINE</h2>
 			</div>
 
@@ -137,62 +137,135 @@
 		</div>
 	</section><!-- End TimeLine -->
 
-	<!-- ======= Slide-Box ======= -->
-	<section id="slide-box" class="testimonials slide-box background-red">
-		<div class="testimonials-slider swiper" data-aos="fade-up" data-aos-delay="100">
-			<div class="swiper-wrapper">
 
-				<div class="swiper-slide">
-					<div class="testimonial-wrap">
-						<div class="testimonial-item">
-							<img src="<?php echo SITEPATH ?>assets/img/quadros/quadro1.png" title="Constanta">
-						</div>
-					</div>
-				</div><!-- End testimonial item -->
+	<!-- ======= slide-boxs Section ======= -->
+	<section id="slide-boxs" class="slide-boxs">
+		<div class="position-relative" data-aos="fade-up">
 
-				<div class="swiper-slide">
-					<div class="testimonial-wrap">
-						<div class="testimonial-item">
-							<img src="<?php echo SITEPATH ?>assets/img/quadros/quadro2.png" title="Constanta">
-						</div>
-					</div>
-				</div><!-- End testimonial item -->
+			<div class="slide-boxs-slider swiper" data-aos="fade-up" data-aos-delay="100">
+				<div class="swiper-wrapper">
 
-				<div class="swiper-slide">
-					<div class="testimonial-wrap">
-						<div class="testimonial-item">
-							<img src="<?php echo SITEPATH ?>assets/img/quadros/quadro3.png" title="Constanta">
+					<div class="swiper-slide">
+						<div class="slide-box-item row">
+							<div class="col-lg-6">
+								<img src="<?php echo SITEPATH ?>assets/img/quadros/quadro1.png" title="Constanta">
+							</div>
+							<div class="col-lg-6">
+								<img src="<?php echo SITEPATH ?>assets/img/quadros/quadro.png" title="Constanta">
+								<a href="#" class="slide-box-btn">Soluções</a>
+							</div>
 						</div>
-					</div>
-				</div><!-- End testimonial item -->
+					</div><!-- End slide-box item -->
 
-				<div class="swiper-slide">
-					<div class="testimonial-wrap">
-						<div class="testimonial-item">
-							<img src="<?php echo SITEPATH ?>assets/img/quadros/quadro4.png" title="Constanta">
+					<div class="swiper-slide">
+						<div class="slide-box-item row">
+							<div class="col-lg-6">
+								<img src="<?php echo SITEPATH ?>assets/img/quadros/quadro1.png" title="Constanta">
+							</div>
+							<div class="col-lg-6">
+								<img src="<?php echo SITEPATH ?>assets/img/quadros/quadro2.png" title="Constanta">
+								<a href="#" class="slide-box-btn">Soluções</a>
+							</div>
 						</div>
-					</div>
-				</div><!-- End testimonial item -->
+					</div><!-- End slide-box item -->
 
-				<div class="swiper-slide">
-					<div class="testimonial-wrap">
-						<div class="testimonial-item">
-							<img src="<?php echo SITEPATH ?>assets/img/quadros/quadro5.png" title="Constanta">
+					<div class="swiper-slide">
+						<div class="slide-box-item row">
+							<div class="col-lg-6">
+								<img src="<?php echo SITEPATH ?>assets/img/quadros/quadro4.png" title="Constanta">
+							</div>
+							<div class="col-lg-6">
+								<img src="<?php echo SITEPATH ?>assets/img/quadros/quadro3.png" title="Constanta">
+								<a href="#" class="slide-box-btn">Soluções</a>
+							</div>
 						</div>
-					</div>
-				</div><!-- End testimonial item -->
+					</div><!-- End slide-box item -->
 
-				<div class="swiper-slide">
-					<div class="testimonial-wrap">
-						<div class="testimonial-item">
-							<img src="<?php echo SITEPATH ?>assets/img/quadros/quadro.png" title="Constanta">
+					<div class="swiper-slide">
+						<div class="slide-box-item row">
+							<div class="col-lg-6">
+								<img src="<?php echo SITEPATH ?>assets/img/quadros/quadro5.png" title="Constanta">
+							</div>
+							<div class="col-lg-6">
+								<img src="<?php echo SITEPATH ?>assets/img/quadros/quadro6.png" title="Constanta">
+								<a href="#" class="slide-box-btn">Soluções</a>
+							</div>
 						</div>
-					</div>
-				</div><!-- End testimonial item -->
+					</div><!-- End slide-box item -->
+
+				</div>
+				<div class="swiper-pagination"></div>
 			</div>
-			<div class="swiper-pagination"></div>
+
+			<div class="background-img" data-aos="fade-up" style="background-image: url(<?php echo SITEPATH; ?>assets/img/background/vermelho.jpg)">
+				<div class="row">
+					<div class="col-lg-12 video">
+						<a href="/video/institucional.mp4" target="_blank"><img src="<?php echo SITEPATH ?>assets/img/background/video.png" title="Video"></a>
+					</div>
+				</div>
+			</div>
+
 		</div>
-	</section><!-- End Slide-Box -->
+	</section><!-- End slide-boxs Section -->
+
+	<!-- ======= Recado Section ======= -->
+	<section id="recado" class="recado">
+		<br><br><br><br>
+		<div class="container" data-aos="fade-up">
+			<div class="row">
+				<div class="col-lg-12 content" data-aos="fade-up" data-aos-delay="100">
+					<h5>Contato</h5>
+					<h2>Deixe seu recado</h2>
+					<p>A Constanta Industrial agradece o seu contato. Caso prefira enviar<br>uma mensagem de forma rápida, preencha o formulário abaixo.</p>
+					<a href="/contato"><button type="button">Entre em contato</button></a>
+				</div>
+			</div>
+		</div>
+	</section><!-- End Recado Section -->
+
+	<!-- ======= Post Section ======= -->
+	<section id="noticias" class="pricing">
+		<div class="container" data-aos="fade-up">
+	<br><br>
+			<div class="section-title">				
+				<h1>Noticias</h1><br>
+				<p>Fique por dentro das últimas<br>noticias do mundo da tecnologia.</p>
+			</div>
+
+			<div class="row noticias">
+
+				<?php
+				$args = array(
+					'post_type' => 'post',
+					'posts_per_page' => 3,
+					'order' => 'DESC'
+				);
+				$loop = new WP_Query($args);
+				while ($loop->have_posts()) {
+					$loop->the_post();
+				?>
+
+					<div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
+						<div class="box">
+							<img src="<?php the_post_thumbnail_url('full') ?>" title="<?php the_title() ?>">
+							<div class="content">
+								<h5><?php the_title() ?></h5>
+								<br>
+								<p><?php $content = get_the_content();
+									echo mb_strimwidth($content, 0, 100, '...'); ?></p>
+								<br>
+								<a href="<?php the_permalink() ?>"><button type="button">Leia mais</button></a>
+							</div>
+						</div>
+					</div>
+
+				<?php }	 ?>
+
+			</div>
+		</div>
+		<a href="/noticias"><button class="maisnews" type="button">+ Notícias</button></a>
+		<br><br><br>
+	</section><!-- End Post Section -->
 
 </main><!-- End #main -->
 <?php get_footer(); ?>

@@ -439,7 +439,7 @@
 			</div>
 		</div>
 		<a href="/noticias"><button class="maisnews" type="button">+ Notícias</button></a>
-	</section><!-- End Pricing Section -->
+	</section><!-- End Post Section -->
 
 </main><!-- End #main -->
 
