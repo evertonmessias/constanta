@@ -282,6 +282,15 @@ p {
     text-align: center;
 }
 
+#sobre-gif img{
+    width: 100%;
+}
+
+#sobre-mercado .col-lg-4{
+    background-color: #ccc;
+    border: 1px solid #444;
+}
+
 /**************************** Footer */
 
 #footer .row.footer {
