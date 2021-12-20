@@ -285,10 +285,144 @@ p {
 #sobre-gif img{
     width: 100%;
 }
+.sobre-mercado{
+    padding-bottom: 100px;
+}
+.sobre-mercado h2{
+    color: #444;
+    font-size: 25px;
+    text-align: center;
+    font-weight: 800;
+}
+.sobre-mercado hr{
+    margin: 0 auto;
+    width: 10em;
+    border: 0.1px solid #000;
+    opacity: 0.5;
+    margin-top: 25px;
+}
+.sobre-mercado .box-mercado{
+    margin: 0 auto;
+    width: 50em;
+}
+.sobre-mercado .box-mercado .coluna1{
+    margin: 0;padding: 0;
+    width: 33%;
+}
+.sobre-mercado .box-mercado .coluna2{
+    margin: 0;padding: 0;  
+    width: 66%;
+    padding-left: 40px;
+}
+.sobre-mercado .sobrepersona{
+    width: 100%;
+}
+.sobre-mercado figure{
+    float: left;
+    width: 32%;
+    margin-left: 5px;
+    margin-bottom: 30px;
+}
+.sobre-mercado figcaption{
+    text-align: center;
+}
+.sobre-mercado .sobreicones{
+    display: block;  
+    position: relative;
+    margin: 0 auto;  
+    height: 4em;
+}
+.sobre-mercado .btnsolucoes {
+    display: block;
+    position: relative;
+    margin: 0 auto;
+    background-color: #ED3237;
+    color: #fff;
+    margin-top: 50px;
+    padding: 10px;
+    width: 170px;
+}
 
-#sobre-mercado .col-lg-4{
-    background-color: #ccc;
-    border: 1px solid #444;
+.sobre-mercado .btnsolucoes:hover {
+    background-color: #ff5c5c;
+}
+
+.sobre-mercado.mercado2 {
+    width: 100%;
+    height: 80vh;
+    overflow: hidden;
+    position: relative;
+  }
+.sobre-mercado.mercado2 h2 {
+    color: #ED3237;
+    font-size: 40px;
+    font-weight: 800;
+    text-align: left;
+}
+.sobre-mercado.mercado2 .coluna2 {
+    padding-right: 30px;
+}
+.sobre-mercado.mercado2 p {
+    color: #222;
+    font-size: 12px;
+    text-align: justify;
+}
+.sobre-mercado .sobreinstituto{
+    position: absolute;
+    width: 35em;
+    top:0px;left: 0;
+}
+.sobre-mercado.mercado2.mercado3 .coluna2 {
+    padding-left: 50px;
+}
+.sobre-mercado.mercado2.mercado3 h2 {
+    color: #444;
+    font-size: 40px;
+    font-weight: 800;
+    text-align: left;
+}
+.sobre-mercado.mercado2.mercado3 h4{
+    color: #32ede7;
+    font-size: 20px;
+}
+
+.sobre-mercado.mercado2.mercado3 .btnsolucoes {
+    display: block;
+    position: relative;
+    margin: 0 auto;
+    background-color: #333;
+    color: #fff;
+    margin-top: 50px;
+    padding: 10px;
+    width: 180px;
+    height: 40px;
+    float: left;
+    font-size: 14px;
+}
+
+.sobre-mercado.mercado2.mercado3  .btnsolucoes:hover {
+    background-color: #ff5c5c;
+}
+
+.sobre-mercado.mercado2.mercado3 .sobreicones {
+    height: 40px;
+    top: 50px;
+    left: 10px;
+}
+
+
+@media(max-width:900px) {
+    .sobre-mercado .box-mercado,.sobre-mercado .box-mercado .coluna1,.sobre-mercado .box-mercado .coluna2{
+        display: block;
+        width: 100%;
+    }
+    .sobre-mercado .box-mercado .coluna2,.sobre-mercado.mercado2 .coluna2 {
+        height: 600px;
+    }
+    .sobre-mercado figure{
+        margin: 0;
+        margin: 20px 20px 20px 20px;
+    }
 }
 
 /**************************** Footer */
