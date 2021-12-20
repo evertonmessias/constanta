@@ -409,6 +409,15 @@ p {
     top: 50px;
     left: 10px;
 }
+.industria .quadro-texto{
+    padding: 50px;
+}
+.industria .quadro-texto h2{
+    color: #ED3237;
+    font-size: 30px;
+    font-weight: 600;
+    text-align: left;
+}
 
 
 @media(max-width:900px) {

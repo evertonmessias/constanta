@@ -54,15 +54,9 @@
       <nav id="navbar" class="navbar">
         <ul>
           <li><a class="nav-link scrollto" href="/sobre">Institucional</a></li>
-          <li class="dropdown"><a class="nav-link scrollto" href="#">Indústria <i class="bi bi-chevron-right"></i></a>
-            <ul>
-              <li><a href="/solucoes">Soluções</a></li>
-              <li><a href="/instalacoes">Instalações</a></li>
-              <li><a href="/responsabilidade-social">Responsabilidade Social</a></li>
-            </ul>
-          </li>
-          <li><a class="nav-link scrollto" href="/#noticias">Notícias</a></li>
-          <li><a class="nav-link scrollto" href="#">Contatos</a></li>
+          <li><a class="nav-link scrollto" href="/industria">Indústria</a></li>
+          <li><a class="nav-link scrollto" href="/noticias">Notícias</a></li>
+          <li><a class="nav-link scrollto" href="/contato">Contato</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
