@@ -17,12 +17,12 @@
 
 <main id="main">
 
-	<section id="contato" class="contato" style="background-image: url(<?php echo SITEPATH; ?>assets/img/background/contato.jpg)">>
+	<section id="contato" class="contato" style="background-image: url(<?php echo SITEPATH; ?>assets/img/background/contato.jpg)">
 		<div class="container">
 			<br><br>
 			<h2>CONTATO</h2>
 			<br><br>
-			<div class="row quadro-contatos" style="background-image: url(<?php echo SITEPATH; ?>assets/img/background/quadro-contatos.png)">
+			<div class="row quadro-contatos">
 				<div class="col-lg-4 contatobox">
 					<br><br>
 					<i class="bx bx-map"></i>
@@ -54,10 +54,15 @@
 
 	</section>
 
-	<section id="mapa">
-		<div class="container">
-			<div class="row">
-				<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14685.62511863695!2d-46.6772397!3d-23.0455621!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x7baa151ce975601e!2sConstanta%20Industrial%20Ltda!5e0!3m2!1spt-BR!2sbr!4v1635185935648!5m2!1spt-BR!2sbr" class="mapa" allowfullscreen="" loading="lazy"></iframe>
+	<section id="mapa" class="mapa">
+		<div class="row">
+			<div class="col-lg-8 maps">
+				<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14685.62511863695!2d-46.6772397!3d-23.0455621!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x7baa151ce975601e!2sConstanta%20Industrial%20Ltda!5e0!3m2!1spt-BR!2sbr!4v1635185935648!5m2!1spt-BR!2sbr" allowfullscreen="" loading="lazy"></iframe>
+			</div>
+			<div class="col-lg-4 imagem">
+				<a href="https://www.google.com/maps/place/Constanta+Industrial+Ltda/@-23.040645,-46.660131,14z/data=!4m5!3m4!1s0x0:0x7baa151ce975601e!8m2!3d-23.0455769!4d-46.6771845?hl=pt-BR" target="_blank">
+					<img src="<?php echo SITEPATH ?>assets/img/background/localizacao.png" title="Google Maps">
+				</a>
 			</div>
 		</div>
 	</section>

@@ -31,10 +31,10 @@
 				<div class="col-lg-4 col-md-6 footer-links">
 					<h4>Navegue</h4>
 					<ul>
-						<li><i class="bx bx-chevron-right"></i> <a href="#">Institucional</a></li>
-						<li><i class="bx bx-chevron-right"></i> <a href="#">Indústria</a></li>          
-						<li><i class="bx bx-chevron-right"></i> <a href="#">Contatos</a></li>
-						<li><i class="bx bx-chevron-right"></i> <a href="#">Notícias</a></li>
+						<li><i class="bx bx-chevron-right"></i> <a href="/sobre">Institucional</a></li>
+						<li><i class="bx bx-chevron-right"></i> <a href="/industria">Indústria</a></li>          
+						<li><i class="bx bx-chevron-right"></i> <a href="/contato">Contato</a></li>
+						<li><i class="bx bx-chevron-right"></i> <a href="/noticias">Notícias</a></li>
 					</ul>
 				</div>
 

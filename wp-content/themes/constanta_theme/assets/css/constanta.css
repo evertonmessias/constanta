@@ -12,7 +12,7 @@ p {
     background-color: #ED3237;
 }
 
-.erro404{
+.erro404 {
     display: block;
     position: relative;
     text-align: center;
@@ -20,7 +20,7 @@ p {
     margin-bottom: 100px;
     background-color: #ED3237;
     color: #fff;
-    padding: 20px;    
+    padding: 20px;
 }
 
 /**************************** TOP */
@@ -287,62 +287,75 @@ p {
     background-size: cover;
 }
 
-#sobre-frase h1{
+#sobre-frase h1 {
     color: #ED3237;
     font-weight: 600;
     text-align: center;
 }
 
-#sobre-gif img{
+#sobre-gif img {
     width: 100%;
 }
-.sobre-mercado{
+
+.sobre-mercado {
     padding-bottom: 100px;
 }
-.sobre-mercado h2{
+
+.sobre-mercado h2 {
     color: #444;
     font-size: 25px;
     text-align: center;
     font-weight: 800;
 }
-.sobre-mercado hr{
+
+.sobre-mercado hr {
     margin: 0 auto;
     width: 10em;
     border: 0.1px solid #000;
     opacity: 0.5;
     margin-top: 25px;
 }
-.sobre-mercado .box-mercado{
+
+.sobre-mercado .box-mercado {
     margin: 0 auto;
     width: 50em;
 }
-.sobre-mercado .box-mercado .coluna1{
-    margin: 0;padding: 0;
+
+.sobre-mercado .box-mercado .coluna1 {
+    margin: 0;
+    padding: 0;
     width: 33%;
 }
-.sobre-mercado .box-mercado .coluna2{
-    margin: 0;padding: 0;  
+
+.sobre-mercado .box-mercado .coluna2 {
+    margin: 0;
+    padding: 0;
     width: 66%;
     padding-left: 40px;
 }
-.sobre-mercado .sobrepersona{
+
+.sobre-mercado .sobrepersona {
     width: 100%;
 }
-.sobre-mercado figure{
+
+.sobre-mercado figure {
     float: left;
     width: 32%;
     margin-left: 5px;
     margin-bottom: 30px;
 }
-.sobre-mercado figcaption{
+
+.sobre-mercado figcaption {
     text-align: center;
 }
-.sobre-mercado .sobreicones{
-    display: block;  
+
+.sobre-mercado .sobreicones {
+    display: block;
     position: relative;
-    margin: 0 auto;  
+    margin: 0 auto;
     height: 4em;
 }
+
 .sobre-mercado .btnsolucoes {
     display: block;
     position: relative;
@@ -363,36 +376,44 @@ p {
     height: 80vh;
     overflow: hidden;
     position: relative;
-  }
+}
+
 .sobre-mercado.mercado2 h2 {
     color: #ED3237;
     font-size: 40px;
     font-weight: 800;
     text-align: left;
 }
+
 .sobre-mercado.mercado2 .coluna2 {
     padding-right: 30px;
 }
+
 .sobre-mercado.mercado2 p {
     color: #222;
     font-size: 12px;
     text-align: justify;
 }
-.sobre-mercado .sobreinstituto{
+
+.sobre-mercado .sobreinstituto {
     position: absolute;
     width: 35em;
-    top:0px;left: 0;
+    top: 0px;
+    left: 0;
 }
+
 .sobre-mercado.mercado2.mercado3 .coluna2 {
     padding-left: 50px;
 }
+
 .sobre-mercado.mercado2.mercado3 h2 {
     color: #444;
     font-size: 40px;
     font-weight: 800;
     text-align: left;
 }
-.sobre-mercado.mercado2.mercado3 h4{
+
+.sobre-mercado.mercado2.mercado3 h4 {
     color: #32ede7;
     font-size: 20px;
 }
@@ -411,7 +432,7 @@ p {
     font-size: 14px;
 }
 
-.sobre-mercado.mercado2.mercado3  .btnsolucoes:hover {
+.sobre-mercado.mercado2.mercado3 .btnsolucoes:hover {
     background-color: #ff5c5c;
 }
 
@@ -420,16 +441,19 @@ p {
     top: 50px;
     left: 10px;
 }
-.industria .quadro-texto{
+
+.industria .quadro-texto {
     padding: 50px;
 }
-.industria .quadro-texto h2{
+
+.industria .quadro-texto h2 {
     color: #ED3237;
     font-size: 30px;
     font-weight: 600;
     text-align: left;
 }
-.industria .quadro-texto p{
+
+.industria .quadro-texto p {
     color: #333;
     font-size: 13px;
     text-align: justify;
@@ -444,13 +468,17 @@ p {
     background-position: top center;
     background-repeat: no-repeat;
 }
-#contato h2{
+
+#contato h2 {
     color: #222;
     text-align: center;
     font-size: 20px;
 }
-#contato .quadro-contatos{
-    margin: 0;padding: 0;    
+
+#contato .quadro-contatos {
+    margin: 0;
+    padding: 0;
+    background: url("../img/background/quadro-contatos.png");
     position: relative;
     margin: 0 auto;
     width: 50em;
@@ -458,52 +486,111 @@ p {
     background-position: top center;
     background-repeat: no-repeat;
 }
-#contato .quadro-contatos .contatobox{    
+
+#contato .quadro-contatos .contatobox {
     position: relative;
     margin: 0 auto;
     width: 32%;
     height: 200px;
     color: #fff;
     text-align: center;
+    left: -5px;
+    top: -15px;
 }
-#contato .quadro-contatos .contatobox a{        
+
+#contato .quadro-contatos .contatobox a {
     color: #fff !important;
 }
-#contato .quadro-contatos .contatobox i{        
+
+#contato .quadro-contatos .contatobox i {
     font-size: 40px;
 }
-#contato .formulario{
+
+#contato .formulario {
     margin-top: 100px;
 }
-#contato .formulario .form{    
-    border: 1px solid red
+
+#contato .formulario .form .contato-nome,
+#contato .formulario .form .contato-email,
+#contato .formulario .form .contato-fone,
+#contato .formulario .form .contato-mensagem {
+    position: relative;
+    margin: 0 auto;
+    width: 70%;
 }
 
+#contato .formulario .form input, #contato .formulario .form textarea {
+    border: 0;
+    background-color: rgba(255, 255, 255, 0);
+    border-bottom: 1px solid #555;
+}
 
+#contato .formulario .form button {
+    display: block;
+    margin: 0 auto;
+    margin-top: 30px;
+    border: 0;
+    background-color: #ED3237;
+    color: #fff;
+    padding: 10px 30px 10px 30px;
+}
 
+#contato .formulario .form button:hover {
+    background-color: #ccc;
+}
+
+#mapa{
+    margin: 0;padding: 0;
+    height: 100vh;
+}
+
+#mapa .maps iframe{
+    width: 100%;
+    height: 100vh;
+}
+#mapa .imagem img{
+    position: absolute;
+    height: 100vh;
+    right: 50px;
+}
 
 
 @media(max-width:900px) {
-    .sobre-mercado .box-mercado,.sobre-mercado .box-mercado .coluna1,.sobre-mercado .box-mercado .coluna2{
+    .sobre-mercado .box-mercado, .sobre-mercado .box-mercado .coluna1, .sobre-mercado .box-mercado .coluna2 {
         display: block;
         width: 100%;
     }
-    .sobre-mercado .box-mercado .coluna2,.sobre-mercado.mercado2 .coluna2 {
+
+    .sobre-mercado .box-mercado .coluna2, .sobre-mercado.mercado2 .coluna2 {
         height: 600px;
     }
-    .sobre-mercado figure{
+
+    .sobre-mercado figure {
         margin: 0;
         margin: 20px 20px 20px 20px;
     }
-    #contato .quadro-contatos .contatobox{
-        display: block;
-        width: 100%;
-        border: 1px solid #ED3237;
-    }
+
     #contato.contato {
         height: 200vh;
     }
 
+    #contato .quadro-contatos {
+        background: none;
+        width: 100%;
+    }
+
+    #contato .quadro-contatos .contatobox {
+        width: 100%;
+        background-color: #ED3237;
+        margin-bottom: 20px;
+    }
+
+    #contato .formulario .form .contato-nome,
+    #contato .formulario .form .contato-email,
+    #contato .formulario .form .contato-fone,
+    #contato .formulario .form .contato-mensagem {
+        width: 100%;
+    }
 }
 
 /**************************** Footer */
