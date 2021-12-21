@@ -85,7 +85,7 @@
 						<figcaption>Agronegócio</figcaption>
 					</figure>
 				</div>
-				<a href="/solucoes"><button class="btnsolucoes" type="button">Soluções</button></a>
+				<a href="/industria"><button class="btnsolucoes" type="button">Soluções</button></a>
 			</div>
 		</div>
 	</section>
@@ -131,7 +131,7 @@
 						<li>Disrupção dos Mercados;</li>
 						<li>BlockChain;</li>
 					</ul>
-					<a href="/solucoes"><button class="btnsolucoes" type="button">Faça parte da inovação</button></a>
+					<a href="/industria"><button class="btnsolucoes" type="button">Faça parte da inovação</button></a>
 					<img class="sobreicones" src="<?php echo SITEPATH ?>assets/img/quadros/sobre_icone_11.png" title="Constanta">
 				</div>
 			</div>

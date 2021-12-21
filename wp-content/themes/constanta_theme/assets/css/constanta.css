@@ -591,6 +591,9 @@ p {
     #contato .formulario .form .contato-mensagem {
         width: 100%;
     }
+    #mapa .imagem img{
+        display: none;
+    }
 }
 
 /**************************** Footer */
