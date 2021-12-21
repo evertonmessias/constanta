@@ -12,6 +12,17 @@ p {
     background-color: #ED3237;
 }
 
+.erro404{
+    display: block;
+    position: relative;
+    text-align: center;
+    margin-top: 150px;
+    margin-bottom: 100px;
+    background-color: #ED3237;
+    color: #fff;
+    padding: 20px;    
+}
+
 /**************************** TOP */
 
 #header .container, #hero .container {
@@ -417,6 +428,11 @@ p {
     font-size: 30px;
     font-weight: 600;
     text-align: left;
+}
+.industria .quadro-texto p{
+    color: #333;
+    font-size: 13px;
+    text-align: justify;
 }
 
 

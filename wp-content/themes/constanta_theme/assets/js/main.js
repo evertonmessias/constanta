@@ -1,11 +1,19 @@
 /**
-* Template Name: Multi - v4.7.0
-* Template URL: https://bootstrapmade.com/multi-responsive-bootstrap-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
+* Multi Constanta
 */
 (function() {
   "use strict";
+
+  /**
+   * Active on page
+  */
+   if(document.location.pathname != "/"){   
+   var onpath = window.location.href.split('/');
+   console.log(onpath[3]);
+  if(onpath[3] == 'sobre' || onpath[3] == 'industria' || onpath[3] == 'noticias' || onpath[3] == 'contato'){
+    document.querySelector("#navbar .scrollto."+onpath[3]).classList.add('active')
+  }
+  }
 
   /**
    * Easy selector helper function
@@ -174,11 +182,13 @@
   let heroCarouselIndicators = select("#hero-carousel-indicators")
   let heroCarouselItems = select('#heroCarousel .carousel-item', true)
 
+  if(document.location.pathname === "/"){
   heroCarouselItems.forEach((item, index) => {
     (index === 0) ?
     heroCarouselIndicators.innerHTML += "<li data-bs-target='#heroCarousel' data-bs-slide-to='" + index + "' class='active'></li>":
       heroCarouselIndicators.innerHTML += "<li data-bs-target='#heroCarousel' data-bs-slide-to='" + index + "'></li>"
   });
+  }
 
   /**
    * Testimonials slider
