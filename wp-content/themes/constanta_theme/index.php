@@ -38,7 +38,8 @@
 
       <div class="portfolio-description">
         <?php the_content() ?>
-      </div>
+        <h1>&nbsp;</h1>
+      </div>      
     </div>
   </section><!-- End Portfolio Details Section -->
 
