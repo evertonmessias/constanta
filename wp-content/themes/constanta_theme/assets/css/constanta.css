@@ -459,6 +459,14 @@ p {
     text-align: justify;
 }
 
+.slide-boxs.quadro-industria .swiper-wrapper{
+    margin-left: -11px;
+}
+
+.swiper-pagination.quadro-industria{
+    margin-top: -100px;
+}
+
 #contato.contato {
     width: 100%;
     height: 140vh;

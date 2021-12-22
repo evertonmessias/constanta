@@ -15,7 +15,7 @@
 							<p class="animate__animated animate__fadeInUp">Uma visão</p>
 							<h2 class="animate__animated animate__fadeInDown">360 GRAUS</span></h2>
 							<p class="animate__animated animate__fadeInUp">para manufatura de<br>eletrônicos</p>
-							<a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Sobre nós</a>
+							<a href="/sobre" class="btn-get-started animate__animated animate__fadeInUp scrollto">Sobre nós</a>
 						</div>
 					</div>
 				</div>
@@ -24,9 +24,10 @@
 				<div class="carousel-item" style="background-image: url(<?php echo SITEPATH; ?>assets/img/slide/slide-2.gif)">
 					<div class="carousel-container">
 						<div class="container">
-							<h2 class="animate__animated animate__fadeInDown">Lorem Ipsum Dolor</h2>
-							<p class="animate__animated animate__fadeInUp">Lorem Ipsum Dolor</p>
-							<a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Read More</a>
+							<p class="animate__animated animate__fadeInUp">Do pionerismo do</p>
+							<h2 class="animate__animated animate__fadeInDown">MERCADO<BR>ELETRÔNICO</h2>
+							<p class="animate__animated animate__fadeInUp">à evolução tecnológica</p>
+							<a href="/sobre" class="btn-get-started animate__animated animate__fadeInUp scrollto">Sobre nós</a>
 						</div>
 					</div>
 				</div>
@@ -35,9 +36,10 @@
 				<div class="carousel-item" style="background-image: url(<?php echo SITEPATH; ?>assets/img/slide/slide-3.gif)">
 					<div class="carousel-container">
 						<div class="container">
-							<h2 class="animate__animated animate__fadeInDown">Lorem Ipsum Dolor</h2>
-							<p class="animate__animated animate__fadeInUp">Lorem Ipsum Dolor</p>
-							<a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Read More</a>
+							<p class="animate__animated animate__fadeInUp">Uma das principais<br>empresas nacionais de</p>
+							<h2 class="animate__animated animate__fadeInDown">ELECTRONIC<BR>MANUFACTURING<BR>SERVICES (EMS)</h2>
+							<p class="animate__animated animate__fadeInUp">do mercado brasileiro</p>
+							<a href="/sobre" class="btn-get-started animate__animated animate__fadeInUp scrollto">Sobre nós</a>
 						</div>
 					</div>
 				</div>				
@@ -208,7 +210,7 @@
 							</div>
 							<div class="col-lg-6">
 								<img src="<?php echo SITEPATH ?>assets/img/quadros/quadro.png" title="Constanta">
-								<a href="#" class="slide-box-btn">Soluções</a>
+								<a href="/industria" class="slide-box-btn">Soluções</a>
 							</div>
 						</div>
 					</div><!-- End slide-box item -->
@@ -220,7 +222,7 @@
 							</div>
 							<div class="col-lg-6">
 								<img src="<?php echo SITEPATH ?>assets/img/quadros/quadro2.png" title="Constanta">
-								<a href="#" class="slide-box-btn">Soluções</a>
+								<a href="/industria" class="slide-box-btn">Soluções</a>
 							</div>
 						</div>
 					</div><!-- End slide-box item -->
@@ -232,7 +234,7 @@
 							</div>
 							<div class="col-lg-6">
 								<img src="<?php echo SITEPATH ?>assets/img/quadros/quadro3.png" title="Constanta">
-								<a href="#" class="slide-box-btn">Soluções</a>
+								<a href="/industria" class="slide-box-btn">Soluções</a>
 							</div>
 						</div>
 					</div><!-- End slide-box item -->
@@ -244,7 +246,7 @@
 							</div>
 							<div class="col-lg-6">
 								<img src="<?php echo SITEPATH ?>assets/img/quadros/quadro6.png" title="Constanta">
-								<a href="#" class="slide-box-btn">Soluções</a>
+								<a href="/industria" class="slide-box-btn">Soluções</a>
 							</div>
 						</div>
 					</div><!-- End slide-box item -->
