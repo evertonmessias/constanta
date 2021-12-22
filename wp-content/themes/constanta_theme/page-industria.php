@@ -49,7 +49,7 @@
 								<img src="<?php echo SITEPATH ?>assets/img/quadros/quadro8.png" title="Constanta">
 							</div>
 							<div class="col-lg-6">
-								<img src="<?php echo SITEPATH ?>assets/img/quadros/quadro7.png" title="Constanta">
+								<img src="<?php echo SITEPATH ?>assets/img/quadros/quadro7.gif" title="Constanta">
 								<a href="/industria" class="slide-box-btn">Soluções</a>
 							</div>
 						</div>
