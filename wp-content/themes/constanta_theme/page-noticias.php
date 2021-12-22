@@ -44,10 +44,7 @@
 							<img src="<?php the_post_thumbnail_url('full') ?>" title="<?php the_title() ?>">
 							<div class="content">
 								<h5><?php the_title() ?></h5>
-								<br>
-								<p><?php $content = get_the_content();
-									echo mb_strimwidth($content, 0, 100, '...'); ?></p>
-								<br>
+								<br>								
 								<a href="<?php the_permalink() ?>"><button type="button">Leia mais</button></a>
 							</div>
 						</div>

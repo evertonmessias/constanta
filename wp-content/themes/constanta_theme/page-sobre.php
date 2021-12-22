@@ -100,11 +100,11 @@
 
 						Desde sua criação, busca se atualizar e ser referência em manufatura de eletrônicos, atendendo os mais diversos segmentos, com produtos e soluções que vão do agronegócio à área da saúde, com tecnologia de ponta e uma equipe altamente qualificada para atender todas as demandas.<br><br>
 
-						A planta fabril está localizada em Atibaia/SP, próxima a poios de pesquisa e industriais, além de possuir fácil acesso à portos, aeroportos e rodovias, que ligam todo o país e o mundo.<br><br>
+						A planta fabril está localizada em Atibaia/SP, próxima a poios de pesquisa e industriais, além de possuir fácil acesso a aeroportos internacionais, grandes rodovias nacionais e ao maior complexo portuário da América Latina, o porto de Santos, conectando a Constanta à todo o país e ao mundo.<br><br>
 
 						Além disso, a Constanta se preocupa com o meio ambiente e o futuro do planeta, dessa forma, está sempre em busca de melhorias no descarte do lixo eletrônico, promove campanhas de conscientização com a equipe interna, da própria empresa, e externa, das cidades do entorno, além de apoiar diversos projetos sociais.<br><br>
 
-						Constanta é sinônimo de desenvolvimento e qualidade!
+						<b>Constanta é sinônimo de desenvolvimento e qualidade!</b>
 					</p>
 				</div>
 				<div class="col-lg-6 coluna1">
@@ -124,8 +124,8 @@
 					<h2>INSTITUTO CONSTANTA<BR>DE INOVAÇÃO</h2>
 					<h4>Transformando ideias em produtos!</h4>
 					<ul>
-						<li>Pesquisa, desenvolvimento e inovação;</li>
-						<li>Transformação Digital e Evolução tecnológica;</li>
+						<li>Pesquisa, Desenvolvimento e Inovação;</li>
+						<li>Transformação Digital e Evolução Tecnológica;</li>
 						<li>Internet das Coisas (loT);</li>
 						<li>Inteligência Artificial;</li>
 						<li>Disrupção dos Mercados;</li>

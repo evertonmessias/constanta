@@ -596,6 +596,10 @@ p {
     }
 }
 
+.portfolio-details{
+    min-height: 400px;
+}
+
 /**************************** Footer */
 
 #footer .row.footer {

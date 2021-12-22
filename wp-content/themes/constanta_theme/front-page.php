@@ -13,7 +13,7 @@
 					<div class="carousel-container">
 						<div class="container">
 							<p class="animate__animated animate__fadeInUp">Uma visão</p>
-							<h2 class="animate__animated animate__fadeInDown">360<sup>o</sup> GRAUS</span></h2>
+							<h2 class="animate__animated animate__fadeInDown">360 GRAUS</span></h2>
 							<p class="animate__animated animate__fadeInUp">para manufatura de<br>eletrônicos</p>
 							<a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Sobre nós</a>
 						</div>
@@ -306,9 +306,6 @@
 							<img src="<?php the_post_thumbnail_url('full') ?>" title="<?php the_title() ?>">
 							<div class="content">
 								<h5><?php the_title() ?></h5>
-								<br>
-								<p><?php $content = get_the_content();
-									echo mb_strimwidth($content, 0, 100, '...'); ?></p>
 								<br>
 								<a href="<?php the_permalink() ?>"><button type="button">Leia mais</button></a>
 							</div>

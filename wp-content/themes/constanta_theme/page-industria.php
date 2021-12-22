@@ -27,7 +27,7 @@
 				<div class="col-lg-6 quadro-texto">
 					<h2>Manufatura</h2>
 					<p>A Tecnologia avança em ritmo frenético. Componentes ficam cada vez menores, mais leves e com maior desempenho. Esses são os requisitos em que seus produtos dependem para se manterem competitivos. Dentro de nossa planta segmentamos muito bem as áreas com objetivo de controlar processos, assegurando a qualidade e excelência na montagem do seu produto.<br><br>
-					Toda a fábrica opera sob rigoroso controle de qualidade dos processos, respeitando as normas técnicas internacionais de padronização e requisitos da 1509001 e 15013485, as quais somos certificados.
+					Toda a fábrica opera sob rigoroso controle de qualidade dos processos, respeitando as normas técnicas internacionais de padronização e requisitos da ISO9001 e ISO13485, as quais somos certificados.
 					</p>				
 				</div>
 			</div>
@@ -35,7 +35,7 @@
 				<div class="col-lg-6 quadro-texto">
 				<h2>Qualidade</h2>
 				<p>Com sólida cultura organizacional, processos bem definidos, uma liderança forte e visionária, contamos com um Sistema de Gestão de Qualidade robusto e de grande integridade, o que permite a produção de produtos com qualidade assegurada.<br><br>
-				Possuímos as certificações 150 9001 e 13485, sendo esta última, especifica para dispositivos médicos, que corrobora nosso alto nível e comprometimento com a qualidade na entrega de nossos produtos.
+				Possuímos as certificações ISO9001 e ISO13485, sendo esta última, especifica para dispositivos médicos, que corrobora nosso alto nível e comprometimento com a qualidade na entrega de nossos produtos.
 				</p>	
 				</div>
 				<div class="col-lg-6">
@@ -56,7 +56,7 @@
 				<div class="col-lg-6 quadro-texto">
 				<h2>Supply Chain</h2>
 				<p>A atual economia digital exige uma nova abordagem para gerenciar todo ecossistema da cadeia de suprimentos. Estamos conectados com os maiores distribuidores e fabricantes de componentes eletrônicos do mundo.<br><br>
-				Atentos a cada detalhe, trabalhamos de maneira dinâmica e integrada, sempre desenvolvendo e adquirindo ferramentas que nos permitem encontrar maneiras criativas de gerenciar toda cadeia provendo soluções e gerando valor aos nossos clientes.</p>	
+				Atentos a cada detalhe, trabalhamos de maneira dinâmica e integrada, sempre desenvolvendo e adquirindo ferramentas que nos permitem encontrar maneiras criativas de gerenciar toda cadeia provendo soluções e agregando valor aos nossos serviços para nossos clientes.</p>	
 				</div>
 				<div class="col-lg-6">
 					<img src="<?php echo SITEPATH ?>assets/img/quadros/ind_4.png" title="Constanta">
@@ -69,11 +69,9 @@
 				<div class="col-lg-6 quadro-texto">
 				<h2>Responsabilidade Social</h2>
 				<p>
-				<ul>				
-				<li>Gestão do lixo eletrônico;</li>
+				<ul>
 				<li>Apoiadores de projetos sociais, como GRAAC e Fundo Social da Prefeitura de Atibaia;</li>
-				<li>Campanhas de comunicação com objetivo de informar, sensibilizar e conscientizar nossos colaboradores;</li>
-				<li>Segurança no trabalho.</li>
+				<li>Campanhas de comunicação com objetivo de informar, sensibilizar e conscientizar nossos colaboradores;</li>				
 				</ul>	
 				</p>
 				</div>
