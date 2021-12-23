@@ -1,61 +1,61 @@
 <?php get_header(); ?>
 
-	<!-- ======= Hero Section ======= -->
-	<section id="hero">
-		<div id="heroCarousel" data-bs-interval="5000" class="carousel slide carousel-fade" data-bs-ride="carousel">
+<!-- ======= Hero Section ======= -->
+<section id="hero">
+	<div id="heroCarousel" data-bs-interval="5000" class="carousel slide carousel-fade" data-bs-ride="carousel">
 
-			<ol class="carousel-indicators" id="hero-carousel-indicators"></ol>
+		<ol class="carousel-indicators" id="hero-carousel-indicators"></ol>
 
-			<div class="carousel-inner" role="listbox">
+		<div class="carousel-inner" role="listbox">
 
-				<!-- Slide 1 -->
-				<div class="carousel-item active" style="background-image: url(<?php echo SITEPATH; ?>assets/img/slide/slide-1.gif)">
-					<div class="carousel-container">
-						<div class="container">
-							<p class="animate__animated animate__fadeInUp">Uma visão</p>
-							<h2 class="animate__animated animate__fadeInDown">360 GRAUS</span></h2>
-							<p class="animate__animated animate__fadeInUp">para manufatura de<br>eletrônicos</p>
-							<a href="/sobre" class="btn-get-started animate__animated animate__fadeInUp scrollto">Sobre nós</a>
-						</div>
+			<!-- Slide 1 -->
+			<div class="carousel-item active" style="background-image: url(<?php echo SITEPATH; ?>assets/img/slide/slide-1.gif)">
+				<div class="carousel-container">
+					<div class="container">
+						<p class="animate__animated animate__fadeInUp">Uma visão</p>
+						<h2 class="animate__animated animate__fadeInDown">360 GRAUS</span></h2>
+						<p class="animate__animated animate__fadeInUp">para manufatura de<br>eletrônicos</p>
+						<a href="/sobre" class="btn-get-started animate__animated animate__fadeInUp scrollto">Sobre nós</a>
 					</div>
 				</div>
-
-				<!-- Slide 2 -->
-				<div class="carousel-item" style="background-image: url(<?php echo SITEPATH; ?>assets/img/slide/slide-2.gif)">
-					<div class="carousel-container">
-						<div class="container">
-							<p class="animate__animated animate__fadeInUp">Do pionerismo do</p>
-							<h2 class="animate__animated animate__fadeInDown">MERCADO<BR>ELETRÔNICO</h2>
-							<p class="animate__animated animate__fadeInUp">à evolução tecnológica</p>
-							<a href="/sobre" class="btn-get-started animate__animated animate__fadeInUp scrollto">Sobre nós</a>
-						</div>
-					</div>
-				</div>
-
-				<!-- Slide 3 -->
-				<div class="carousel-item" style="background-image: url(<?php echo SITEPATH; ?>assets/img/slide/slide-3.gif)">
-					<div class="carousel-container">
-						<div class="container">
-							<p class="animate__animated animate__fadeInUp">Uma das principais<br>empresas nacionais de</p>
-							<h2 class="animate__animated animate__fadeInDown">ELECTRONIC<BR>MANUFACTURING<BR>SERVICES (EMS)</h2>
-							<p class="animate__animated animate__fadeInUp">do mercado brasileiro</p>
-							<a href="/sobre" class="btn-get-started animate__animated animate__fadeInUp scrollto">Sobre nós</a>
-						</div>
-					</div>
-				</div>				
-
 			</div>
 
-			<a class="carousel-control-prev" href="#heroCarousel" role="button" data-bs-slide="prev">
-				<span class="carousel-control-prev-icon bi bi-chevron-left" aria-hidden="true"></span>
-			</a>
+			<!-- Slide 2 -->
+			<div class="carousel-item" style="background-image: url(<?php echo SITEPATH; ?>assets/img/slide/slide-2.gif)">
+				<div class="carousel-container">
+					<div class="container">
+						<p class="animate__animated animate__fadeInUp">Do pionerismo do</p>
+						<h2 class="animate__animated animate__fadeInDown">MERCADO<BR>ELETRÔNICO</h2>
+						<p class="animate__animated animate__fadeInUp">à evolução tecnológica</p>
+						<a href="/sobre" class="btn-get-started animate__animated animate__fadeInUp scrollto">Sobre nós</a>
+					</div>
+				</div>
+			</div>
 
-			<a class="carousel-control-next" href="#heroCarousel" role="button" data-bs-slide="next">
-				<span class="carousel-control-next-icon bi bi-chevron-right" aria-hidden="true"></span>
-			</a>
+			<!-- Slide 3 -->
+			<div class="carousel-item" style="background-image: url(<?php echo SITEPATH; ?>assets/img/slide/slide-3.gif)">
+				<div class="carousel-container">
+					<div class="container">
+						<p class="animate__animated animate__fadeInUp">Uma das principais<br>empresas nacionais de</p>
+						<h2 class="animate__animated animate__fadeInDown">ELECTRONIC<BR>MANUFACTURING<BR>SERVICES (EMS)</h2>
+						<p class="animate__animated animate__fadeInUp">do mercado brasileiro</p>
+						<a href="/sobre" class="btn-get-started animate__animated animate__fadeInUp scrollto">Sobre nós</a>
+					</div>
+				</div>
+			</div>
 
 		</div>
-	</section><!-- End Hero -->
+
+		<a class="carousel-control-prev" href="#heroCarousel" role="button" data-bs-slide="prev">
+			<span class="carousel-control-prev-icon bi bi-chevron-left" aria-hidden="true"></span>
+		</a>
+
+		<a class="carousel-control-next" href="#heroCarousel" role="button" data-bs-slide="next">
+			<span class="carousel-control-next-icon bi bi-chevron-right" aria-hidden="true"></span>
+		</a>
+
+	</div>
+</section><!-- End Hero -->
 
 <main id="main">
 
@@ -197,7 +197,7 @@
 
 
 	<!-- ======= slide-boxs Section ======= -->
-	<section id="slide-boxs" class="slide-boxs">
+	<section id="slide-boxs" class="slide-boxs quadro-industria">
 		<div class="position-relative" data-aos="fade-up">
 
 			<div class="slide-boxs-slider swiper" data-aos="fade-up" data-aos-delay="100">
@@ -205,11 +205,14 @@
 
 					<div class="swiper-slide">
 						<div class="slide-box-item row">
-							<div class="col-lg-6">
-								<img src="<?php echo SITEPATH ?>assets/img/quadros/quadro1.png" title="Constanta">
+							<!-- ********** SLIDE 0 ************-->
+							<div class="col-lg-6 quadro-texto" style="background-image: url(<?php echo SITEPATH; ?>assets/img/quadros/quadro_vermelho.png)">
+								<img class="qicone" src="<?php echo SITEPATH ?>assets/img/quadros/icone_12.png" title="Constanta">
+								<br><br><br>
+								<h2 class="cinza">Manufatura</h2>								
 							</div>
-							<div class="col-lg-6">
-								<img src="<?php echo SITEPATH ?>assets/img/quadros/quadro.png" title="Constanta">
+							<div class="col-lg-6 quadro-img">
+								<img src="<?php echo SITEPATH ?>assets/img/quadros/ind_1.png" title="Constanta">
 								<a href="/industria" class="slide-box-btn">Soluções</a>
 							</div>
 						</div>
@@ -217,11 +220,14 @@
 
 					<div class="swiper-slide">
 						<div class="slide-box-item row">
-							<div class="col-lg-6">
-								<img src="<?php echo SITEPATH ?>assets/img/quadros/quadro1.png" title="Constanta">
+							<!-- ********** SLIDE 1 ************-->
+							<div class="col-lg-6 quadro-texto" style="background-image: url(<?php echo SITEPATH; ?>assets/img/quadros/quadro_cinza.png)">
+								<img class="qicone" src="<?php echo SITEPATH ?>assets/img/quadros/icone_14.png" title="Constanta">
+								<br><br><br>
+								<h2 class="vermelho">Qualidade</h2>								
 							</div>
-							<div class="col-lg-6">
-								<img src="<?php echo SITEPATH ?>assets/img/quadros/quadro2.png" title="Constanta">
+							<div class="col-lg-6 quadro-img">
+								<img src="<?php echo SITEPATH ?>assets/img/quadros/ind_2.png" title="Constanta">
 								<a href="/industria" class="slide-box-btn">Soluções</a>
 							</div>
 						</div>
@@ -229,11 +235,14 @@
 
 					<div class="swiper-slide">
 						<div class="slide-box-item row">
-							<div class="col-lg-6">
-								<img src="<?php echo SITEPATH ?>assets/img/quadros/quadro4.png" title="Constanta">
+							<!-- ********** SLIDE 2 ************-->
+							<div class="col-lg-6 quadro-texto" style="background-image: url(<?php echo SITEPATH; ?>assets/img/quadros/quadro_vermelho.png)">
+								<img class="qicone" src="<?php echo SITEPATH ?>assets/img/quadros/icone_12.png" title="Constanta">
+								<br><br><br>
+								<h2 class="cinza">Tributário</h2>								
 							</div>
-							<div class="col-lg-6">
-								<img src="<?php echo SITEPATH ?>assets/img/quadros/quadro3.png" title="Constanta">
+							<div class="col-lg-6 quadro-img">
+								<img src="<?php echo SITEPATH ?>assets/img/quadros/ind_3.png" title="Constanta">
 								<a href="/industria" class="slide-box-btn">Soluções</a>
 							</div>
 						</div>
@@ -241,26 +250,66 @@
 
 					<div class="swiper-slide">
 						<div class="slide-box-item row">
-							<div class="col-lg-6">
-								<img src="<?php echo SITEPATH ?>assets/img/quadros/quadro5.png" title="Constanta">
+							<!-- ********** SLIDE 3 ************-->
+							<div class="col-lg-6 quadro-texto" style="background-image: url(<?php echo SITEPATH; ?>assets/img/quadros/quadro_cinza.png)">
+								<img class="qicone" src="<?php echo SITEPATH ?>assets/img/quadros/icone_04.png" title="Constanta">
+								<br><br><br>
+								<h2 class="vermelho">Supply Chain</h2>								
 							</div>
-							<div class="col-lg-6">
-								<img src="<?php echo SITEPATH ?>assets/img/quadros/quadro6.png" title="Constanta">
+							<div class="col-lg-6 quadro-img">
+								<img src="<?php echo SITEPATH ?>assets/img/quadros/ind_4.png" title="Constanta">
+								<a href="/industria" class="slide-box-btn">Soluções</a>
+							</div>
+						</div>
+					</div><!-- End slide-box item -->
+
+					<div class="swiper-slide">
+						<div class="slide-box-item row">
+							<!-- ********** SLIDE 4 ************-->
+							<div class="col-lg-6 quadro-texto" style="background-image: url(<?php echo SITEPATH; ?>assets/img/quadros/quadro_vermelho.png)">
+								<img class="qicone" src="<?php echo SITEPATH ?>assets/img/quadros/icone_12.png" title="Constanta">
+								<br><br><br>
+								<h2 class="cinza">Responsabilidade</h2>								
+							</div>
+							<div class="col-lg-6 quadro-img">
+								<img src="<?php echo SITEPATH ?>assets/img/quadros/ind_5.png" title="Constanta">
+								<a href="/industria" class="slide-box-btn">Soluções</a>
+							</div>
+						</div>
+					</div><!-- End slide-box item -->
+
+					<div class="swiper-slide">
+						<div class="slide-box-item row">
+							<!-- ********** SLIDE 5 ************-->
+							<div class="col-lg-6 quadro-texto" style="background-image: url(<?php echo SITEPATH; ?>assets/img/quadros/quadro_cinza.png)">
+								<img class="qicone" src="<?php echo SITEPATH ?>assets/img/quadros/icone_03.png" title="Constanta">
+								<br><br><br>
+								<h2 class="vermelho">Pós-Venda</h2>								
+							</div>
+							<div class="col-lg-6 quadro-img">
+								<img src="<?php echo SITEPATH ?>assets/img/quadros/ind_6.png" title="Constanta">
+								<a href="/industria" class="slide-box-btn">Soluções</a>
+							</div>
+						</div>
+					</div><!-- End slide-box item -->
+
+					<div class="swiper-slide">
+						<div class="slide-box-item row">
+							<!-- ********** SLIDE 6 ************-->
+							<div class="col-lg-6 quadro-texto" style="background-image: url(<?php echo SITEPATH; ?>assets/img/quadros/quadro_vermelho.png)">
+								<img class="qicone" src="<?php echo SITEPATH ?>assets/img/quadros/icone_12.png" title="Constanta">
+								<br><br><br>
+								<h2 class="cinza">Equipe</h2>								
+							</div>
+							<div class="col-lg-6 quadro-img">
+								<img src="<?php echo SITEPATH ?>assets/img/quadros/ind_7.png" title="Constanta">
 								<a href="/industria" class="slide-box-btn">Soluções</a>
 							</div>
 						</div>
 					</div><!-- End slide-box item -->
 
 				</div>
-				<div class="swiper-pagination"></div>
-			</div>
-
-			<div id="video" class="background-img" data-aos="fade-up" style="background-image: url(<?php echo SITEPATH; ?>assets/img/background/vermelho.jpg)">
-				<div class="row">
-					<div class="col-lg-12 video">
-						<a href="/video/institucional.mp4" target="_blank"><img src="<?php echo SITEPATH ?>assets/img/background/video.jpg" title="Video"></a>
-					</div>
-				</div>
+				<div class="swiper-pagination quadro-industria"></div>
 			</div>
 
 		</div>
@@ -284,8 +333,8 @@
 	<!-- ======= Post Section ======= -->
 	<section id="noticias" class="pricing">
 		<div class="container" data-aos="fade-up">
-	<br><br>
-			<div class="section-title">				
+			<br><br>
+			<div class="section-title">
 				<h1>Noticias</h1><br>
 				<p>Fique por dentro das últimas<br>noticias do mundo da tecnologia.</p>
 			</div>

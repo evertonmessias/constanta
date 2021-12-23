@@ -988,13 +988,14 @@ h1, h2, h3, h4, h5, h6 {
   display: block;
   position: relative;
   margin: 0 auto;
-  top:-200px;
+  top:-220px;
   width: 130px;
   height: 35px;
   line-height: 35px;
   background-color: #ED3237;
   color: #fff;
   border-radius: 2px;  
+  z-index: 2000;
 }
 .slide-boxs .slide-box-item .slide-box-btn:hover{  
   background-color: #ed3c0d;

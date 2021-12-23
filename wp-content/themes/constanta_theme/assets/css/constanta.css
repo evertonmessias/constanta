@@ -459,8 +459,50 @@ p {
     text-align: justify;
 }
 
-.slide-boxs.quadro-industria .swiper-wrapper{
-    margin-left: -11px;
+.slide-boxs.quadro-industria .swiper-slide{
+    width: 100%;
+    margin-left: 12px;
+}
+
+.slide-boxs.quadro-industria .quadro-texto {
+    margin: 0;padding: 0;
+    padding-top: 50px;
+    margin-left: -12px;
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position:left;
+}
+
+.slide-boxs.quadro-industria .quadro-texto .qicone {
+    width: 50px;
+}
+
+.slide-boxs.quadro-industria .quadro-texto h2 {
+    font-size: 30px;
+    font-weight: 600;
+    text-align: center;
+}
+
+.slide-boxs.quadro-industria .quadro-texto p {
+    color: #000;
+    font-size: 14px;
+    text-align: center;
+}
+
+.slide-boxs.quadro-industria .quadro-texto .vermelho {
+    color: #ED3237;    
+}
+.slide-boxs.quadro-industria .quadro-texto .cinza {
+    color: #efefef
+}
+
+.slide-boxs.quadro-industria .quadro-img{
+    margin:0;padding: 0;
+}
+.slide-boxs.quadro-industria .quadro-img img{
+    position: relative;
+    width: 100%;    
+    z-index: 1000;
 }
 
 .swiper-pagination.quadro-industria{

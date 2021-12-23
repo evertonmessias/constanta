@@ -45,43 +45,43 @@
 				</div>
 				<div class="col-lg-6 coluna2">
 					<figure>
-						<img class="sobreicones" src="<?php echo SITEPATH ?>assets/img/quadros/sobre_icone_01.png" title="Constanta">
+						<img class="sobreicones" src="<?php echo SITEPATH ?>assets/img/quadros/icone_01.png" title="Constanta">
 						<figcaption>Automotivo</figcaption>
 					</figure>
 					<figure>
-						<img class="sobreicones" src="<?php echo SITEPATH ?>assets/img/quadros/sobre_icone_02.png" title="Constanta">
+						<img class="sobreicones" src="<?php echo SITEPATH ?>assets/img/quadros/icone_02.png" title="Constanta">
 						<figcaption>Energia</figcaption>
 					</figure>
 					<figure>
-						<img class="sobreicones" src="<?php echo SITEPATH ?>assets/img/quadros/sobre_icone_03.png" title="Constanta">
+						<img class="sobreicones" src="<?php echo SITEPATH ?>assets/img/quadros/icone_03.png" title="Constanta">
 						<figcaption>Internet das Coisas (IoT)</figcaption>
 					</figure>
 					<figure>
-						<img class="sobreicones" src="<?php echo SITEPATH ?>assets/img/quadros/sobre_icone_04.png" title="Constanta">
+						<img class="sobreicones" src="<?php echo SITEPATH ?>assets/img/quadros/icone_04.png" title="Constanta">
 						<figcaption>Gestão de Frotas</figcaption>
 					</figure>
 					<figure>
-						<img class="sobreicones" src="<?php echo SITEPATH ?>assets/img/quadros/sobre_icone_05.png" title="Constanta">
+						<img class="sobreicones" src="<?php echo SITEPATH ?>assets/img/quadros/icone_05.png" title="Constanta">
 						<figcaption>Publicidade</figcaption>
 					</figure>
 					<figure>
-						<img class="sobreicones" src="<?php echo SITEPATH ?>assets/img/quadros/sobre_icone_06.png" title="Constanta">
+						<img class="sobreicones" src="<?php echo SITEPATH ?>assets/img/quadros/icone_06.png" title="Constanta">
 						<figcaption>Automação</figcaption>
 					</figure>
 					<figure>
-						<img class="sobreicones" src="<?php echo SITEPATH ?>assets/img/quadros/sobre_icone_07.png" title="Constanta">
+						<img class="sobreicones" src="<?php echo SITEPATH ?>assets/img/quadros/icone_07.png" title="Constanta">
 						<figcaption>Aeroespacial</figcaption>
 					</figure>
 					<figure>
-						<img class="sobreicones" src="<?php echo SITEPATH ?>assets/img/quadros/sobre_icone_08.png" title="Constanta">
+						<img class="sobreicones" src="<?php echo SITEPATH ?>assets/img/quadros/icone_08.png" title="Constanta">
 						<figcaption>Saúde</figcaption>
 					</figure>
 					<figure>
-						<img class="sobreicones" src="<?php echo SITEPATH ?>assets/img/quadros/sobre_icone_09.png" title="Constanta">
+						<img class="sobreicones" src="<?php echo SITEPATH ?>assets/img/quadros/icone_09.png" title="Constanta">
 						<figcaption>Telecomunicações</figcaption>
 					</figure>
 					<figure>
-						<img class="sobreicones" src="<?php echo SITEPATH ?>assets/img/quadros/sobre_icone_10.png" title="Constanta">
+						<img class="sobreicones" src="<?php echo SITEPATH ?>assets/img/quadros/icone_10.png" title="Constanta">
 						<figcaption>Agronegócio</figcaption>
 					</figure>
 				</div>
@@ -132,7 +132,7 @@
 						<li>BlockChain;</li>
 					</ul>
 					<a href="/industria"><button class="btnsolucoes" type="button">Faça parte da inovação</button></a>
-					<img class="sobreicones" src="<?php echo SITEPATH ?>assets/img/quadros/sobre_icone_11.png" title="Constanta">
+					<img class="sobreicones" src="<?php echo SITEPATH ?>assets/img/quadros/icone_11.png" title="Constanta">
 				</div>
 			</div>
 		</div>
