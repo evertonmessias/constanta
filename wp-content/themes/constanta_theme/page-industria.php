@@ -48,9 +48,9 @@
 							<div class="col-lg-6 quadro-texto" style="background-image: url(<?php echo SITEPATH; ?>assets/img/quadros/quadro_cinza.png)">
 								<img class="qicone" src="<?php echo SITEPATH ?>assets/img/quadros/icone_14.png" title="Constanta">
 								<br><br>
-								<h2 class="vermelho">Protótipos</h2>
-								<p>Pensando em simplificar os processos e validar os produtos em seu estágio inicial de desenvolvimento, a Constanta criou uma área customizada, com equipe qualificada e as melhores soluções, dessa forma, podemos atender às demandas de cada cliente de maneira ágil e assertiva.<br><br>
-								</p>
+								<h2 class="vermelho">Tecnologia de Montagem em Superfície (SMT/SMD)</h2>
+								<p>Inserções automáticas, com tecnologia de montagem em superfície.<br><br>
+								</p>								
 							</div>
 							<div class="col-lg-6 quadro-img">
 								<img src="<?php echo SITEPATH ?>assets/img/quadros/quadro7.gif" title="Constanta">
@@ -80,8 +80,8 @@
 							<div class="col-lg-6 quadro-texto" style="background-image: url(<?php echo SITEPATH; ?>assets/img/quadros/quadro_cinza.png)">
 								<img class="qicone" src="<?php echo SITEPATH ?>assets/img/quadros/icone_04.png" title="Constanta">
 								<br><br>
-								<h2 class="vermelho">Tecnologia de Montagem em Superfície (SMT/SMD)</h2>
-								<p>Inserções automáticas, com tecnologia de montagem em superfície.<br><br>
+								<h2 class="vermelho">Protótipos</h2>
+								<p>Pensando em simplificar os processos e validar os produtos em seu estágio inicial de desenvolvimento, a Constanta criou uma área customizada, com equipe qualificada e as melhores soluções, dessa forma, podemos atender às demandas de cada cliente de maneira ágil e assertiva.<br><br>
 								</p>
 							</div>
 							<div class="col-lg-6 quadro-img">
