@@ -465,16 +465,26 @@ p {
 }
 
 .slide-boxs.quadro-industria .quadro-texto {
-    margin: 0;padding: 0;
-    padding-top: 50px;
+    margin: 0;padding: 0;       
     margin-left: -12px;
     background-size:cover;
     background-repeat: no-repeat;
     background-position:left;
 }
 
-.slide-boxs.quadro-industria .quadro-texto .qicone {
-    width: 50px;
+.slide-boxs.quadro-industria.home .quadro-texto {
+    padding-top: 6em;
+}
+
+.slide-boxs.quadro-industria .quadro-texto {
+    padding-top: 8em;
+}
+
+
+.slide-boxs.quadro-industria .quadro-texto .qicone {    
+    width: auto;
+    height: auto;
+    height: 80px;
 }
 
 .slide-boxs.quadro-industria .quadro-texto h2 {

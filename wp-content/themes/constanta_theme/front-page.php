@@ -197,7 +197,7 @@
 
 
 	<!-- ======= slide-boxs Section ======= -->
-	<section id="slide-boxs" class="slide-boxs quadro-industria">
+	<section id="slide-boxs" class="slide-boxs quadro-industria home">
 		<div class="position-relative" data-aos="fade-up">
 
 			<div class="slide-boxs-slider swiper" data-aos="fade-up" data-aos-delay="100">
@@ -205,11 +205,11 @@
 
 					<div class="swiper-slide">
 						<div class="slide-box-item row">
-							<!-- ********** SLIDE 0 ************-->
-							<div class="col-lg-6 quadro-texto" style="background-image: url(<?php echo SITEPATH; ?>assets/img/quadros/quadro_vermelho.png)">
-								<img class="qicone" src="<?php echo SITEPATH ?>assets/img/quadros/icone_12.png" title="Constanta">
-								<br><br><br>
-								<h2 class="cinza">Manufatura</h2>								
+							<!-- ********** SLIDE 1 ************-->
+							<div class="col-lg-6 quadro-texto" style="background-image: url(<?php echo SITEPATH; ?>assets/img/quadros/quadro_cinza.png)">
+								<img class="qicone" src="<?php echo SITEPATH ?>assets/img/quadros/home_icone_1.png" title="Constanta">
+								<br><br>
+								<h2 class="vermelho">Manufatura</h2>								
 							</div>
 							<div class="col-lg-6 quadro-img">
 								<img src="<?php echo SITEPATH ?>assets/img/quadros/ind_1.png" title="Constanta">
@@ -220,10 +220,10 @@
 
 					<div class="swiper-slide">
 						<div class="slide-box-item row">
-							<!-- ********** SLIDE 1 ************-->
+							<!-- ********** SLIDE 2 ************-->
 							<div class="col-lg-6 quadro-texto" style="background-image: url(<?php echo SITEPATH; ?>assets/img/quadros/quadro_cinza.png)">
-								<img class="qicone" src="<?php echo SITEPATH ?>assets/img/quadros/icone_14.png" title="Constanta">
-								<br><br><br>
+								<img class="qicone" src="<?php echo SITEPATH ?>assets/img/quadros/home_icone_2.png" title="Constanta">
+								<br><br>
 								<h2 class="vermelho">Qualidade</h2>								
 							</div>
 							<div class="col-lg-6 quadro-img">
@@ -235,11 +235,11 @@
 
 					<div class="swiper-slide">
 						<div class="slide-box-item row">
-							<!-- ********** SLIDE 2 ************-->
-							<div class="col-lg-6 quadro-texto" style="background-image: url(<?php echo SITEPATH; ?>assets/img/quadros/quadro_vermelho.png)">
-								<img class="qicone" src="<?php echo SITEPATH ?>assets/img/quadros/icone_12.png" title="Constanta">
-								<br><br><br>
-								<h2 class="cinza">Tributário</h2>								
+							<!-- ********** SLIDE 3 ************-->
+							<div class="col-lg-6 quadro-texto" style="background-image: url(<?php echo SITEPATH; ?>assets/img/quadros/quadro_cinza.png)">
+								<img class="qicone" src="<?php echo SITEPATH ?>assets/img/quadros/home_icone_3.png" title="Constanta">
+								<br><br>
+								<h2 class="vermelho">Tributário</h2>								
 							</div>
 							<div class="col-lg-6 quadro-img">
 								<img src="<?php echo SITEPATH ?>assets/img/quadros/ind_3.png" title="Constanta">
@@ -250,10 +250,10 @@
 
 					<div class="swiper-slide">
 						<div class="slide-box-item row">
-							<!-- ********** SLIDE 3 ************-->
+							<!-- ********** SLIDE 4 ************-->
 							<div class="col-lg-6 quadro-texto" style="background-image: url(<?php echo SITEPATH; ?>assets/img/quadros/quadro_cinza.png)">
-								<img class="qicone" src="<?php echo SITEPATH ?>assets/img/quadros/icone_04.png" title="Constanta">
-								<br><br><br>
+								<img class="qicone" src="<?php echo SITEPATH ?>assets/img/quadros/home_icone_4.png" title="Constanta">
+								<br><br>
 								<h2 class="vermelho">Supply Chain</h2>								
 							</div>
 							<div class="col-lg-6 quadro-img">
@@ -265,11 +265,11 @@
 
 					<div class="swiper-slide">
 						<div class="slide-box-item row">
-							<!-- ********** SLIDE 4 ************-->
-							<div class="col-lg-6 quadro-texto" style="background-image: url(<?php echo SITEPATH; ?>assets/img/quadros/quadro_vermelho.png)">
-								<img class="qicone" src="<?php echo SITEPATH ?>assets/img/quadros/icone_12.png" title="Constanta">
-								<br><br><br>
-								<h2 class="cinza">Responsabilidade</h2>								
+							<!-- ********** SLIDE 5 ************-->
+							<div class="col-lg-6 quadro-texto" style="background-image: url(<?php echo SITEPATH; ?>assets/img/quadros/quadro_cinza.png)">
+								<img class="qicone" src="<?php echo SITEPATH ?>assets/img/quadros/home_icone_5.png" title="Constanta">
+								<br><br>
+								<h2 class="vermelho">Responsabilidade</h2>								
 							</div>
 							<div class="col-lg-6 quadro-img">
 								<img src="<?php echo SITEPATH ?>assets/img/quadros/ind_5.png" title="Constanta">
@@ -280,10 +280,10 @@
 
 					<div class="swiper-slide">
 						<div class="slide-box-item row">
-							<!-- ********** SLIDE 5 ************-->
+							<!-- ********** SLIDE 6 ************-->
 							<div class="col-lg-6 quadro-texto" style="background-image: url(<?php echo SITEPATH; ?>assets/img/quadros/quadro_cinza.png)">
-								<img class="qicone" src="<?php echo SITEPATH ?>assets/img/quadros/icone_03.png" title="Constanta">
-								<br><br><br>
+								<img class="qicone" src="<?php echo SITEPATH ?>assets/img/quadros/home_icone_6.png" title="Constanta">
+								<br><br>
 								<h2 class="vermelho">Pós-Venda</h2>								
 							</div>
 							<div class="col-lg-6 quadro-img">
@@ -295,11 +295,11 @@
 
 					<div class="swiper-slide">
 						<div class="slide-box-item row">
-							<!-- ********** SLIDE 6 ************-->
-							<div class="col-lg-6 quadro-texto" style="background-image: url(<?php echo SITEPATH; ?>assets/img/quadros/quadro_vermelho.png)">
-								<img class="qicone" src="<?php echo SITEPATH ?>assets/img/quadros/icone_12.png" title="Constanta">
-								<br><br><br>
-								<h2 class="cinza">Equipe</h2>								
+							<!-- ********** SLIDE 7 ************-->
+							<div class="col-lg-6 quadro-texto" style="background-image: url(<?php echo SITEPATH; ?>assets/img/quadros/quadro_cinza.png)">
+								<img class="qicone" src="<?php echo SITEPATH ?>assets/img/quadros/home_icone_7.png" title="Constanta">
+								<br><br>
+								<h2 class="vermelho">Equipe</h2>								
 							</div>
 							<div class="col-lg-6 quadro-img">
 								<img src="<?php echo SITEPATH ?>assets/img/quadros/ind_7.png" title="Constanta">
