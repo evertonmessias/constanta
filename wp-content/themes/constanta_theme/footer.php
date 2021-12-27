@@ -24,7 +24,7 @@
 					<h4>Contato</h4>
 					<p>
 						<i class="bx bx-phone-call"></i>&ensp;+55 (11) 4417-7550<br>
-						<i class="bx bx-mail-send"></i>&ensp;<a href="mailto:comercial@constanta.com">comercial@constanta.com</a>
+						<i class="bx bx-mail-send"></i>&ensp;<a href="mailto:comercial@constanta.com.br">comercial@constanta.com.br</a>
 					</p>
 				</div>
 

@@ -39,7 +39,7 @@
 					<br><br>
 					<i class="bx bx-envelope"></i>
 					<h3>Mail Here</h3>
-					<p><a href="mailto:comercial@constanta.com">comercial@constanta.com</a></p>
+					<p><a href="mailto:comercial@constanta.com.br">comercial@constanta.com.br</a></p>
 				</div>
 			</div>
 			<div class="row formulario">

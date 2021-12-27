@@ -100,7 +100,7 @@
 
 						Desde sua criação, busca se atualizar e ser referência em manufatura de eletrônicos, atendendo os mais diversos segmentos, com produtos e soluções que vão do agronegócio à área da saúde, com tecnologia de ponta e uma equipe altamente qualificada para atender todas as demandas.<br><br>
 
-						A planta fabril está localizada em Atibaia/SP, próxima a poios de pesquisa e industriais, além de possuir fácil acesso a aeroportos internacionais, grandes rodovias nacionais e ao maior complexo portuário da América Latina, o porto de Santos, conectando a Constanta à todo o país e ao mundo.<br><br>
+						A planta fabril está localizada em Atibaia/SP, próxima a polos de pesquisa e industriais, além de possuir fácil acesso a aeroportos internacionais, grandes rodovias nacionais e ao maior complexo portuário da América Latina, o porto de Santos, conectando a Constanta à todo o país e ao mundo.<br><br>
 
 						Além disso, a Constanta se preocupa com o meio ambiente e o futuro do planeta, dessa forma, está sempre em busca de melhorias no descarte do lixo eletrônico, promove campanhas de conscientização com a equipe interna, da própria empresa, e externa, das cidades do entorno, além de apoiar diversos projetos sociais.<br><br>
 
