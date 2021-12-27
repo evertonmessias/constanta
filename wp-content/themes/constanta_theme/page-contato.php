@@ -26,19 +26,19 @@
 				<div class="col-lg-4 contatobox">
 					<br><br>
 					<i class="bx bx-map"></i>
-					<h3>Visit Here</h3>
+					<h3>Endereço</h3>
 					<p>Av. Tégula, 888 - Pte. Alta,<br>Atibaia - SP, 12952-820</p>
 				</div>
 				<div class="col-lg-4 contatobox">
 					<br><br>
 					<i class="bx bx-phone"></i><br>
-					<h3>Call Us</h3>
+					<h3>Telefone</h3>
 					<p>(11) 4417-7550</p>
 				</div>
 				<div class="col-lg-4 contatobox">
 					<br><br>
 					<i class="bx bx-envelope"></i>
-					<h3>Mail Here</h3>
+					<h3>E-Mail</h3>
 					<p><a href="mailto:comercial@constanta.com.br">comercial@constanta.com.br</a></p>
 				</div>
 			</div>
