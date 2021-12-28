@@ -51,7 +51,7 @@
 								</p>								
 							</div>
 							<div class="col-lg-6 quadro-img">
-								<img src="<?php echo SITEPATH ?>assets/img/quadros/slide_industria_1.png" title="Constanta">
+								<img src="<?php echo SITEPATH ?>assets/img/quadros/slide_industria_3.png" title="Constanta">
 								<a href="/industria" class="slide-box-btn">Soluções</a>
 							</div>
 						</div>
@@ -79,7 +79,7 @@
 								</p>
 							</div>
 							<div class="col-lg-6 quadro-img">
-								<img src="<?php echo SITEPATH ?>assets/img/quadros/slide_industria_3.png" title="Constanta">
+								<img src="<?php echo SITEPATH ?>assets/img/quadros/slide_industria_1.png" title="Constanta">
 								<a href="/industria" class="slide-box-btn">Soluções</a>
 							</div>
 						</div>

@@ -136,7 +136,7 @@
 						<div class="testimonial-wrap">
 							<div class="testimonial-item">
 								<h3>2016</h3>
-								<p>Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.
+								<p>Ampliação e modernização da planta fabril em Atibaia.
 								</p>
 							</div>
 						</div>
@@ -146,8 +146,7 @@
 						<div class="testimonial-wrap">
 							<div class="testimonial-item">
 								<h3>2017</h3>
-								<p>Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.
-								</p>
+								<p>Certificações: além da ISO 9001, a companhia adquire o certificado ISO 13485 (Área médica, hospitalar).</p>
 							</div>
 						</div>
 					</div><!-- End testimonial item -->
@@ -156,8 +155,7 @@
 						<div class="testimonial-wrap">
 							<div class="testimonial-item">
 								<h3>2019</h3>
-								<p>Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.
-								</p>
+								<p>Centralização das operações na planta de Atibaia.</p>
 							</div>
 						</div>
 					</div><!-- End testimonial item -->
@@ -166,8 +164,7 @@
 						<div class="testimonial-wrap">
 							<div class="testimonial-item">
 								<h3>2020</h3>
-								<p>Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.
-								</p>
+								<p>Expansão da área fabril. Aquisição Absolut Mobile; Reestruturação societária.</p>
 							</div>
 						</div>
 					</div><!-- End testimonial item -->
@@ -176,8 +173,7 @@
 						<div class="testimonial-wrap">
 							<div class="testimonial-item">
 								<h3>2021</h3>
-								<p>Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.
-								</p>
+								<p>Inauguração do ICI (Instituto Constanta de Inovação).</p>
 							</div>
 						</div>
 					</div><!-- End testimonial item -->
