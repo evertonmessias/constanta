@@ -660,6 +660,13 @@ p {
     min-height: 400px;
 }
 
+@media(min-width:900px) {
+    .page .portfolio-details{
+        margin: 0 auto;
+        width: 85%;
+    }
+}
+
 /**************************** Footer */
 
 #footer .row.footer {
