@@ -54,7 +54,11 @@
       <nav id="navbar" class="navbar">
         <ul>
           <li><a class="nav-link scrollto sobre" href="/sobre">Institucional</a></li>
-          <li><a class="nav-link scrollto industria" href="/industria">Indústria</a></li>
+		  <li class="dropdown"><a class="nav-link scrollto industria" href="/industria"><span>Indústria</span> <i class="bi bi-chevron-down"></i></a>
+            <ul>
+              <li><a class="nav-link scrollto certificacoes" href="/certificacoes">Certificações</a></li>
+			</ul>
+          </li>
           <li><a class="nav-link scrollto noticias" href="/noticias">Notícias</a></li>
           <li><a class="nav-link scrollto contato" href="/contato">Contato</a></li>
         </ul>
