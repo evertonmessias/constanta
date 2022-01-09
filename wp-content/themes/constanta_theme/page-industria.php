@@ -43,36 +43,8 @@
 			<div class="slide-boxs-slider swiper" data-aos="fade-up" data-aos-delay="100">
 				<div class="swiper-wrapper">
 
-					<div class="swiper-slide">
-						<div class="slide-box-item row"> <!-- ********** SLIDE 1 ************-->
-							<div class="col-lg-6 quadro-texto" style="background-image: url(<?php echo SITEPATH; ?>assets/img/quadros/quadro_cinza.png)">
-								<h2 class="vermelho">Tecnologia de Montagem em Superfície (SMT/SMD)</h2>
-								<p>Inserções automáticas, com tecnologia de montagem em superfície.<br><br>
-								</p>								
-							</div>
-							<div class="col-lg-6 quadro-img">
-								<img src="<?php echo SITEPATH ?>assets/img/quadros/slide_industria_3.png" title="Constanta">
-								<a href="/industria" class="slide-box-btn">Soluções</a>
-							</div>
-						</div>
-					</div><!-- End slide-box item -->
-
-					<div class="swiper-slide">
-						<div class="slide-box-item row"> <!-- ********** SLIDE 2 ************-->
-							<div class="col-lg-6 quadro-texto" style="background-image: url(<?php echo SITEPATH; ?>assets/img/quadros/quadro_vermelho.png)">
-								<h2 class="cinza">Introdução de Novos Produtos (NPI)</h2>
-								<p class="cinza">Análise de processos, validação e escalabilidade. Para que tudo seja entregue conforme requerido.<br><br>
-								</p>
-							</div>
-							<div class="col-lg-6 quadro-img">
-								<img src="<?php echo SITEPATH ?>assets/img/quadros/slide_industria_2.png" title="Constanta">
-								<a href="/industria" class="slide-box-btn">Soluções</a>
-							</div>
-						</div>
-					</div><!-- End slide-box item -->
-
-					<div class="swiper-slide">
-						<div class="slide-box-item row"> <!-- ********** SLIDE 3 ************-->
+					<div class="swiper-slide"> <!-- ********** Protótipo ************-->
+						<div class="slide-box-item row">
 							<div class="col-lg-6 quadro-texto" style="background-image: url(<?php echo SITEPATH; ?>assets/img/quadros/quadro_cinza.png)">
 								<h2 class="vermelho">Protótipos</h2>
 								<p>Pensando em simplificar os processos e validar os produtos em seu estágio inicial de desenvolvimento, a Constanta criou uma área customizada, com equipe qualificada e as melhores soluções, dessa forma, podemos atender às demandas de cada cliente de maneira ágil e assertiva.<br><br>
@@ -85,8 +57,36 @@
 						</div>
 					</div><!-- End slide-box item -->
 
-					<div class="swiper-slide">
-						<div class="slide-box-item row"> <!-- ********** SLIDE 4 ************-->
+					<div class="swiper-slide"> <!-- ********** NPI ************-->
+						<div class="slide-box-item row">
+							<div class="col-lg-6 quadro-texto" style="background-image: url(<?php echo SITEPATH; ?>assets/img/quadros/quadro_vermelho.png)">
+								<h2 class="cinza">Introdução de Novos Produtos (NPI)</h2>
+								<p class="cinza">Análise de processos, validação e escalabilidade. Para que tudo seja entregue conforme requerido.<br><br>
+								</p>
+							</div>
+							<div class="col-lg-6 quadro-img">
+								<img src="<?php echo SITEPATH ?>assets/img/quadros/slide_industria_2.png" title="Constanta">
+								<a href="/industria" class="slide-box-btn">Soluções</a>
+							</div>
+						</div>
+					</div><!-- End slide-box item -->
+
+					<div class="swiper-slide"> <!-- ********** SMT ************-->
+						<div class="slide-box-item row">
+							<div class="col-lg-6 quadro-texto" style="background-image: url(<?php echo SITEPATH; ?>assets/img/quadros/quadro_cinza.png)">
+								<h2 class="vermelho">Tecnologia de Montagem em Superfície (SMT/SMD)</h2>
+								<p>Inserções automáticas, com tecnologia de montagem em superfície.<br><br>
+								</p>								
+							</div>
+							<div class="col-lg-6 quadro-img">
+								<img src="<?php echo SITEPATH ?>assets/img/quadros/slide_industria_3.png" title="Constanta">
+								<a href="/industria" class="slide-box-btn">Soluções</a>
+							</div>
+						</div>
+					</div><!-- End slide-box item -->										
+
+					<div class="swiper-slide"> <!-- ********** THT/PTH ************-->
+						<div class="slide-box-item row">
 							<div class="col-lg-6 quadro-texto" style="background-image: url(<?php echo SITEPATH; ?>assets/img/quadros/quadro_vermelho.png)">
 								<h2 class="cinza">Tecnologia de Montagem Tradicional (THT/PTH)</h2>
 								<p class="cinza">Tecnologia de montagem tradicional, com inserção manual.<br><br>
@@ -99,8 +99,8 @@
 						</div>
 					</div><!-- End slide-box item -->
 
-					<div class="swiper-slide">
-						<div class="slide-box-item row"> <!-- ********** SLIDE 5 ************-->
+					<div class="swiper-slide"> <!-- ********** Testes Elétricos ************-->
+						<div class="slide-box-item row">
 							<div class="col-lg-6 quadro-texto" style="background-image: url(<?php echo SITEPATH; ?>assets/img/quadros/quadro_cinza.png)">
 								<h2 class="vermelho">Testes elétricos, paramétricos e funcionais</h2>
 								<p>Para que o produto seja entregue com precisão, eficiência, e em perfeito estado.<br><br>
@@ -113,8 +113,8 @@
 						</div>
 					</div><!-- End slide-box item -->
 
-					<div class="swiper-slide">
-						<div class="slide-box-item row"> <!-- ********** SLIDE 6 ************-->
+					<div class="swiper-slide"> <!-- ********** Integração Eletrônica ************-->
+						<div class="slide-box-item row">
 							<div class="col-lg-6 quadro-texto" style="background-image: url(<?php echo SITEPATH; ?>assets/img/quadros/quadro_vermelho.png)">
 								<h2 class="cinza">Integração Eletrônica Total (Box Build)</h2>
 								<p class="cinza">Células controladas, trazendo mais agilidade e flexibilidade ao processo.<br><br>
