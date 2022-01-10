@@ -599,19 +599,9 @@ p {
     background-color: #ccc;
 }
 
-#mapa{
-    margin: 0;padding: 0;
-    height: 100vh;
-}
-
-#mapa .maps iframe{
+#mapa .maps iframe,#mapa .imagem img{
     width: 100%;
-    height: 100vh;
-}
-#mapa .imagem img{
-    position: absolute;
-    height: 100vh;
-    right: 50px;
+    height: 75vh;
 }
 
 
@@ -651,8 +641,13 @@ p {
     #contato .formulario .form .contato-mensagem {
         width: 100%;
     }
+    #mapa .maps iframe{
+        width: 100%;
+        height: 50vh;
+    }
     #mapa .imagem img{
-        display: none;
+        width: 100%;
+        height: 100%;
     }
 }
 
