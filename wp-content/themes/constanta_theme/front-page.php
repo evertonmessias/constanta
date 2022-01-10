@@ -37,8 +37,8 @@
 				<div class="carousel-container">
 					<div class="container">
 						<p class="animate__animated animate__fadeInUp">Uma das principais<br>empresas nacionais de</p>
-						<h2 class="animate__animated animate__fadeInDown">ELECTRONIC<BR>MANUFACTURING<BR>SERVICES (EMS)</h2>
-						<p class="animate__animated animate__fadeInUp">do mercado brasileiro</p>
+						<h2 class="animate__animated animate__fadeInDown">ELECTRONIC<BR>MANUFACTURING<BR>SOLUTIONS (EMS)</h2>
+						<p class="animate__animated animate__fadeInUp">do mercado.</p>
 						<a href="/sobre" class="btn-get-started animate__animated animate__fadeInUp scrollto">Sobre nós</a>
 					</div>
 				</div>
@@ -164,7 +164,7 @@
 						<div class="testimonial-wrap">
 							<div class="testimonial-item">
 								<h3>2020</h3>
-								<p>Expansão da área fabril. Aquisição Absolut Mobile; Reestruturação societária.</p>
+								<p>Expansão da área fabril. Aquisição Absolut Mobile; Produção de 7 mil ventiladores pulmonares no combate a COVID-19.</p>
 							</div>
 						</div>
 					</div><!-- End testimonial item -->
