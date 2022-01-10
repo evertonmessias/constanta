@@ -95,6 +95,13 @@ p {
     left: 22em;
 }
 
+.timeline .qrcode{
+    position: absolute;
+    left: 85%;
+    top:55%;
+    width: 100px;
+}
+
 @media(max-width:900px) {
     .quadros .numeros .instal {
         left: 25%;
@@ -103,7 +110,15 @@ p {
     .numeros {
         display: none;
     }
+    .timeline .qrcode{
+        position: relative;
+        left: 55%;
+        top:55%;
+        width: 100px;
+    }
 }
+
+
 
 /**************************** Recado */
 

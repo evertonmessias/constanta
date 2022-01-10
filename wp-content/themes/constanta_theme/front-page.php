@@ -164,7 +164,8 @@
 						<div class="testimonial-wrap">
 							<div class="testimonial-item">
 								<h3>2020</h3>
-								<p>Expansão da área fabril. Aquisição Absolut Mobile; Produção de 7 mil ventiladores pulmonares no combate a COVID-19.</p>
+								<p>Expansão da área fabril. Aquisição Absolut Mobile. Produção de 7 mil ventiladores pulmonares no combate a COVID-19.</p>
+								<img class="qrcode" src="<?php echo SITEPATH ?>assets/img/quadros/qr.png" title="QR Code">
 							</div>
 						</div>
 					</div><!-- End testimonial item -->
