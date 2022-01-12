@@ -46,8 +46,7 @@
 					<a class="b2s" target="_blank" href="https://b2s.marketing/">2021 desenvolvido por B2S Marketing</a>
 				</div>
 				<div class="col-lg-6 social">					
-					<a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
-					<a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>					
+					<a href="https://www.linkedin.com/company/constanta-industrial-ltda/" class="linkedin" target="_blank"><i class="bx bxl-linkedin"></i></a>
 				</div>
 			</div>
 
