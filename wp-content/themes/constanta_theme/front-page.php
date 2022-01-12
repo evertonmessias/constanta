@@ -251,7 +251,7 @@
 							<div class="col-lg-6 quadro-texto" style="background-image: url(<?php echo SITEPATH; ?>assets/img/quadros/quadro_cinza.png)">
 								<img class="qicone" src="<?php echo SITEPATH ?>assets/img/quadros/home_icone_4.png" title="Constanta">
 								<br><br>
-								<h2 class="vermelho">Supply Chain</h2>								
+								<h2 class="vermelho">Cadeia de Suprimentos</h2>								
 							</div>
 							<div class="col-lg-6 quadro-img">
 								<img src="<?php echo SITEPATH ?>assets/img/quadros/ind_4.png" title="Constanta">
@@ -266,7 +266,7 @@
 							<div class="col-lg-6 quadro-texto" style="background-image: url(<?php echo SITEPATH; ?>assets/img/quadros/quadro_cinza.png)">
 								<img class="qicone" src="<?php echo SITEPATH ?>assets/img/quadros/home_icone_5.png" title="Constanta">
 								<br><br>
-								<h2 class="vermelho">Responsabilidade</h2>								
+								<h2 class="vermelho">Responsabilidade Social</h2>								
 							</div>
 							<div class="col-lg-6 quadro-img">
 								<img src="<?php echo SITEPATH ?>assets/img/quadros/ind_5.png" title="Constanta">
