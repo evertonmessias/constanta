@@ -135,6 +135,16 @@
 					<div class="swiper-slide">
 						<div class="testimonial-wrap">
 							<div class="testimonial-item">
+								<h3>2012</h3>
+								<p>Inauguração da Planta de Atibaia.
+								</p>
+							</div>
+						</div>
+					</div><!-- End testimonial item -->
+
+					<div class="swiper-slide">
+						<div class="testimonial-wrap">
+							<div class="testimonial-item">
 								<h3>2016</h3>
 								<p>Ampliação e modernização da planta fabril em Atibaia.
 								</p>
