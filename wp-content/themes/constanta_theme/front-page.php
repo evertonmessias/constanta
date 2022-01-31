@@ -9,7 +9,10 @@
 		<div class="carousel-inner" role="listbox">
 
 			<!-- Slide 1 -->
-			<div class="carousel-item active" style="background-image: url(<?php echo SITEPATH; ?>assets/img/slide/slide-1.gif)">
+			<div class="carousel-item active">
+			<video autoplay muted loop class="vdesk">
+				<source src="<?php echo SITEPATH; ?>assets/img/slide/home-1.webm" type="video/webm">
+			</video>
 				<div class="carousel-container">
 					<div class="container">
 						<p class="animate__animated animate__fadeInUp">Uma visão</p>
@@ -21,7 +24,10 @@
 			</div>
 
 			<!-- Slide 2 -->
-			<div class="carousel-item" style="background-image: url(<?php echo SITEPATH; ?>assets/img/slide/slide-2.gif)">
+			<div class="carousel-item">
+				<video autoplay muted loop class="vdesk">
+				<source src="<?php echo SITEPATH; ?>assets/img/slide/home-2.webm" type="video/webm">
+			</video>
 				<div class="carousel-container">
 					<div class="container">
 						<p class="animate__animated animate__fadeInUp">Do pionerismo do</p>
@@ -33,7 +39,10 @@
 			</div>
 
 			<!-- Slide 3 -->
-			<div class="carousel-item" style="background-image: url(<?php echo SITEPATH; ?>assets/img/slide/slide-3.gif)">
+			<div class="carousel-item">
+				<video autoplay muted loop class="vdesk">
+				<source src="<?php echo SITEPATH; ?>assets/img/slide/home-3.webm" type="video/webm">
+			</video>
 				<div class="carousel-container">
 					<div class="container">
 						<p class="animate__animated animate__fadeInUp">Uma das principais<br>empresas nacionais de</p>
@@ -196,7 +205,10 @@
 		<div class="background-img" data-aos="fade-up" style="background-image: url(<?php echo SITEPATH; ?>assets/img/background/vermelho.jpg)">
 			<div class="row">
 				<div class="col-lg-12 lettering">
-					<img src="<?php echo SITEPATH ?>assets/img/quadros/lettering.gif" title="Lettering">
+					<video controls>
+						<source src="<?php echo SITEPATH ?>assets/img/slide/lettering.webm" type="video/webm">
+						Desculpe; seu navegador não suporta vídeos HTML5 em WebM.
+					</video>
 				</div>
 			</div>
 		</div>

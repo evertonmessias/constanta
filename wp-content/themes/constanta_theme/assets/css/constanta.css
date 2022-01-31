@@ -25,6 +25,10 @@ p {
 
 /**************************** TOP */
 
+#hero .vdesk{
+    width: 100%;
+}
+
 #header .container, #hero .container {
     max-width: 900px;
 }
