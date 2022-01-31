@@ -204,10 +204,9 @@
 		</div>
 		<div class="background-img" data-aos="fade-up" style="background-image: url(<?php echo SITEPATH; ?>assets/img/background/vermelho.jpg)">
 			<div class="row">
-				<div class="col-lg-12 lettering">
-					<video controls>
+				<div class="col-lg-12 lettering">					
+					<video autoplay muted loop class="vdesk">
 						<source src="<?php echo SITEPATH ?>assets/img/slide/lettering.webm" type="video/webm">
-						Desculpe; seu navegador não suporta vídeos HTML5 em WebM.
 					</video>
 				</div>
 			</div>
