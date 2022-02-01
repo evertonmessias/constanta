@@ -10,9 +10,12 @@
 
 			<!-- Slide 1 -->
 			<div class="carousel-item active">
-			<video autoplay muted loop class="vdesk">
-				<source src="<?php echo SITEPATH; ?>assets/img/slide/home-1.webm" type="video/webm">
-			</video>
+				<video autoplay muted loop class="vdesk">
+					<source src="<?php echo SITEPATH; ?>assets/img/slide/home-1.webm" type="video/webm">
+				</video>
+				<video autoplay muted loop class="vmobi">
+					<source src="<?php echo SITEPATH; ?>assets/img/slide/home-1_mobile.webm" type="video/webm">
+				</video>
 				<div class="carousel-container">
 					<div class="container">
 						<p class="animate__animated animate__fadeInUp">Uma visão</p>
@@ -26,8 +29,11 @@
 			<!-- Slide 2 -->
 			<div class="carousel-item">
 				<video autoplay muted loop class="vdesk">
-				<source src="<?php echo SITEPATH; ?>assets/img/slide/home-2.webm" type="video/webm">
-			</video>
+					<source src="<?php echo SITEPATH; ?>assets/img/slide/home-2.webm" type="video/webm">
+				</video>
+				<video autoplay muted loop class="vmobi">
+					<source src="<?php echo SITEPATH; ?>assets/img/slide/home-2_mobile.webm" type="video/webm">
+				</video>
 				<div class="carousel-container">
 					<div class="container">
 						<p class="animate__animated animate__fadeInUp">Do pionerismo do</p>
@@ -41,8 +47,11 @@
 			<!-- Slide 3 -->
 			<div class="carousel-item">
 				<video autoplay muted loop class="vdesk">
-				<source src="<?php echo SITEPATH; ?>assets/img/slide/home-3.webm" type="video/webm">
-			</video>
+					<source src="<?php echo SITEPATH; ?>assets/img/slide/home-3.webm" type="video/webm">
+				</video>
+				<video autoplay muted loop class="vmobi">
+					<source src="<?php echo SITEPATH; ?>assets/img/slide/home-3_mobile.webm" type="video/webm">
+				</video>
 				<div class="carousel-container">
 					<div class="container">
 						<p class="animate__animated animate__fadeInUp">Uma das principais<br>empresas nacionais de</p>
@@ -204,10 +213,11 @@
 		</div>
 		<div class="background-img" data-aos="fade-up" style="background-image: url(<?php echo SITEPATH; ?>assets/img/background/vermelho.jpg)">
 			<div class="row">
-				<div class="col-lg-12 lettering">					
-					<video autoplay muted loop class="vdesk">
+				<div class="col-lg-12 lettering">
+					<!--<video autoplay muted loop class="vdesk">
 						<source src="<?php echo SITEPATH ?>assets/img/slide/lettering.webm" type="video/webm">
-					</video>
+					</video>-->
+					<img src="/wp-content/themes/constanta_theme/assets/img/slide/lettering.gif" title="Lettering">
 				</div>
 			</div>
 		</div>
@@ -227,7 +237,7 @@
 							<div class="col-lg-6 quadro-texto" style="background-image: url(<?php echo SITEPATH; ?>assets/img/quadros/quadro_cinza.png)">
 								<img class="qicone" src="<?php echo SITEPATH ?>assets/img/quadros/home_icone_1.png" title="Constanta">
 								<br><br>
-								<h2 class="vermelho">Manufatura</h2>								
+								<h2 class="vermelho">Manufatura</h2>
 							</div>
 							<div class="col-lg-6 quadro-img">
 								<img src="<?php echo SITEPATH ?>assets/img/quadros/ind_1.png" title="Constanta">
@@ -242,7 +252,7 @@
 							<div class="col-lg-6 quadro-texto" style="background-image: url(<?php echo SITEPATH; ?>assets/img/quadros/quadro_cinza.png)">
 								<img class="qicone" src="<?php echo SITEPATH ?>assets/img/quadros/home_icone_2.png" title="Constanta">
 								<br><br>
-								<h2 class="vermelho">Qualidade</h2>								
+								<h2 class="vermelho">Qualidade</h2>
 							</div>
 							<div class="col-lg-6 quadro-img">
 								<img src="<?php echo SITEPATH ?>assets/img/quadros/ind_2.png" title="Constanta">
@@ -257,7 +267,7 @@
 							<div class="col-lg-6 quadro-texto" style="background-image: url(<?php echo SITEPATH; ?>assets/img/quadros/quadro_cinza.png)">
 								<img class="qicone" src="<?php echo SITEPATH ?>assets/img/quadros/home_icone_3.png" title="Constanta">
 								<br><br>
-								<h2 class="vermelho">Tributário</h2>								
+								<h2 class="vermelho">Tributário</h2>
 							</div>
 							<div class="col-lg-6 quadro-img">
 								<img src="<?php echo SITEPATH ?>assets/img/quadros/ind_3.png" title="Constanta">
@@ -272,7 +282,7 @@
 							<div class="col-lg-6 quadro-texto" style="background-image: url(<?php echo SITEPATH; ?>assets/img/quadros/quadro_cinza.png)">
 								<img class="qicone" src="<?php echo SITEPATH ?>assets/img/quadros/home_icone_4.png" title="Constanta">
 								<br><br>
-								<h2 class="vermelho">Cadeia de Suprimentos</h2>								
+								<h2 class="vermelho">Cadeia de Suprimentos</h2>
 							</div>
 							<div class="col-lg-6 quadro-img">
 								<img src="<?php echo SITEPATH ?>assets/img/quadros/ind_4.png" title="Constanta">
@@ -287,7 +297,7 @@
 							<div class="col-lg-6 quadro-texto" style="background-image: url(<?php echo SITEPATH; ?>assets/img/quadros/quadro_cinza.png)">
 								<img class="qicone" src="<?php echo SITEPATH ?>assets/img/quadros/home_icone_5.png" title="Constanta">
 								<br><br>
-								<h2 class="vermelho">Responsabilidade Social</h2>								
+								<h2 class="vermelho">Responsabilidade Social</h2>
 							</div>
 							<div class="col-lg-6 quadro-img">
 								<img src="<?php echo SITEPATH ?>assets/img/quadros/ind_5.png" title="Constanta">
@@ -302,7 +312,7 @@
 							<div class="col-lg-6 quadro-texto" style="background-image: url(<?php echo SITEPATH; ?>assets/img/quadros/quadro_cinza.png)">
 								<img class="qicone" src="<?php echo SITEPATH ?>assets/img/quadros/home_icone_6.png" title="Constanta">
 								<br><br>
-								<h2 class="vermelho">Pós-Venda</h2>								
+								<h2 class="vermelho">Pós-Venda</h2>
 							</div>
 							<div class="col-lg-6 quadro-img">
 								<img src="<?php echo SITEPATH ?>assets/img/quadros/ind_6.png" title="Constanta">
@@ -317,7 +327,7 @@
 							<div class="col-lg-6 quadro-texto" style="background-image: url(<?php echo SITEPATH; ?>assets/img/quadros/quadro_cinza.png)">
 								<img class="qicone" src="<?php echo SITEPATH ?>assets/img/quadros/home_icone_7.png" title="Constanta">
 								<br><br>
-								<h2 class="vermelho">Equipe</h2>								
+								<h2 class="vermelho">Equipe</h2>
 							</div>
 							<div class="col-lg-6 quadro-img">
 								<img src="<?php echo SITEPATH ?>assets/img/quadros/ind_7.png" title="Constanta">
