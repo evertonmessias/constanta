@@ -84,13 +84,17 @@
 				<div class="col-lg-6">
 					<img src="<?php echo SITEPATH ?>assets/img/quadros/quadro2.png" title="Constanta">
 				</div>
-				<div class="col-lg-6">
-					<img src="<?php echo SITEPATH ?>assets/img/quadros/quadro1.png" title="Constanta">
+				<div class="col-lg-6 quadro-texto" style="background-image: url(<?php echo SITEPATH; ?>assets/img/quadros/quadro_cinza.png)">
+					<img class="qicone" src="<?php echo SITEPATH ?>assets/img/quadros/icone_14.png" title="Constanta">
+					<br>
+					<h2 class="preto">METODOLOGIA<br>PRÓPRIA</h2>
 				</div>
 			</div>
 			<div class="row">
-				<div class="col-lg-6">
-					<img src="<?php echo SITEPATH ?>assets/img/quadros/quadro4.png" title="Constanta">
+				<div class="col-lg-6 quadro-texto" style="background-image: url(<?php echo SITEPATH; ?>assets/img/quadros/quadro_vermelho.png)">
+					<img class="qicone" src="<?php echo SITEPATH ?>assets/img/quadros/icone_12.png" title="Constanta">
+					<br>
+					<h2 class="cinza">EVOLUÇÃO<br>TECNOLÓGICA</h2>
 				</div>
 				<div class="col-lg-6">
 					<img src="<?php echo SITEPATH ?>assets/img/quadros/quadro3.png" title="Constanta">
@@ -100,8 +104,10 @@
 				<div class="col-lg-6">
 					<img src="<?php echo SITEPATH ?>assets/img/quadros/quadro6.png" title="Constanta">
 				</div>
-				<div class="col-lg-6">
-					<img src="<?php echo SITEPATH ?>assets/img/quadros/quadro5.png" title="Constanta">
+				<div class="col-lg-6 quadro-texto" style="background-image: url(<?php echo SITEPATH; ?>assets/img/quadros/quadro_cinza.png)">
+					<img class="qicone" src="<?php echo SITEPATH ?>assets/img/quadros/icone_13.png" title="Constanta">
+					<br>
+					<h2 class="preto">INDÚSTRIA<br>NACIONAL</h2>
 				</div>
 			</div>
 		</div>

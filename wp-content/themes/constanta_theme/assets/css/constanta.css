@@ -23,6 +23,15 @@ p {
     padding: 20px;
 }
 
+.vermelho {
+    color: #ED3237;    
+}
+.cinza {
+    color: #efefef
+}
+.preto {
+    color: #000
+}
 /**************************** TOP */
 
 @media (min-width: 950px) {
@@ -95,8 +104,20 @@ p {
     width: 100%;
 }
 
-.quadros .col-lg-6 img:hover {
-    opacity: 0.6;
+.quadros .quadro-texto {
+    background-size: contain;
+}
+
+.quadros .quadro-texto .qicone {
+    display: block;
+    position: relative;
+    margin: 0 auto;
+    width: 100px;
+    margin-top: 100px;
+}
+
+.quadros .quadro-texto h2 {
+    text-align: center;
 }
 
 .quadros .numeros {
@@ -534,13 +555,6 @@ p {
     color: #000;
     font-size: 14px;
     text-align: center;
-}
-
-.slide-boxs.quadro-industria .quadro-texto .vermelho {
-    color: #ED3237;    
-}
-.slide-boxs.quadro-industria .quadro-texto .cinza {
-    color: #efefef
 }
 
 .slide-boxs.quadro-industria .quadro-img{
