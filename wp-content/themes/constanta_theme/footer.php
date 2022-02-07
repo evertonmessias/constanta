@@ -21,7 +21,8 @@
 				</div>
 
 				<div class="col-lg-4 col-md-6 footer-contact">
-					<h4>Contato</h4>
+					<h4 class="portugues">Contato</h4>
+					<h4 class="ingles">Contact</h4>
 					<p>
 						<i class="bx bx-phone-call"></i>&ensp;+55 (11) 4417-7550<br>
 						<i class="bx bx-mail-send"></i>&ensp;<a href="mailto:comercial@constanta.com.br">comercial@constanta.com.br</a>
@@ -29,12 +30,19 @@
 				</div>
 
 				<div class="col-lg-4 col-md-6 footer-links">
-					<h4>Navegue</h4>
-					<ul>
+					<h4 class="portugues">Navegue</h4>
+					<h4 class="ingles">Browse</h4>
+					<ul class="portugues">
 						<li><i class="bx bx-chevron-right"></i> <a href="/sobre">Institucional</a></li>
 						<li><i class="bx bx-chevron-right"></i> <a href="/industria">Indústria</a></li>          
 						<li><i class="bx bx-chevron-right"></i> <a href="/contato">Contato</a></li>
 						<li><i class="bx bx-chevron-right"></i> <a href="/noticias">Notícias</a></li>
+					</ul>
+					<ul class="ingles">
+						<li><i class="bx bx-chevron-right"></i> <a href="/sobre">About</a></li>
+						<li><i class="bx bx-chevron-right"></i> <a href="/industria">Industry</a></li>          
+						<li><i class="bx bx-chevron-right"></i> <a href="/contato">Contact</a></li>
+						<li><i class="bx bx-chevron-right"></i> <a href="/noticias">News</a></li>
 					</ul>
 				</div>
 
@@ -43,7 +51,7 @@
 			<div class="row footer">
 				<hr>
 				<div class="col-lg-6">
-					<a class="b2s" target="_blank" href="https://b2s.marketing/">2021 desenvolvido por B2S Marketing</a>
+					<a class="b2s" target="_blank" href="https://b2s.marketing/">2021 B2S Marketing</a>
 				</div>
 				<div class="col-lg-6 social">					
 					<a href="https://www.linkedin.com/company/constanta-industrial-ltda/" class="linkedin" target="_blank"><i class="bx bxl-linkedin"></i></a>
@@ -69,6 +77,8 @@
 
   <!-- Template Main JS File -->
   <script src="<?php echo SITEPATH; ?>assets/js/main.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="<?php echo SITEPATH; ?>assets/js/constanta.js"></script>
 
   <?php wp_footer(); ?>
 </body>

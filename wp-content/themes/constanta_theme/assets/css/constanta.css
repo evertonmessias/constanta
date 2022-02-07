@@ -1,5 +1,9 @@
 /**************************** CSS Constanta */
 
+.ingles{
+    display: none;
+}
+
 button, input {
     border: 0;
 }
@@ -66,30 +70,27 @@ p {
     }
 }
 
-.google-translate {
-    display: block;
-    position: relative;
-    margin-top: 3px;
-}
-
-.google-translate select {
+.translate {
+    margin: 0;padding: 0;
     position: absolute;
-    height: 20px;
-    top: -5px;
-    border: 1px solid #ED3237;
-    background-color: #ED3237;
-    color: #f9f9f9;
+    top: 10px;right: 7%;
 }
-
-.google-translate select:hover {
-    background-color: #ff5c5c;
+.translate img{
+    width: 30px;
+    float: left;
+    margin-right: 5px;
+    cursor: pointer;
+}
+.translate img:hover {
+    transform: scale(1.1);
 }
 
 @media (max-width: 950px) {
-    .google-translate {
+    .translate {
         position: absolute;
-        left: 33%;
+        width: 70px;
         top: 25px;
+        left: 45%;
     }
 }
 
