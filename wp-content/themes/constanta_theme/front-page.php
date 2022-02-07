@@ -16,16 +16,14 @@
 				<video autoplay muted loop class="vmobi">
 					<source src="<?php echo SITEPATH; ?>assets/img/slide/home-1_mobile.webm" type="video/webm">
 				</video>
-				<div class="portugues carousel-container">
-					<div class="container">
+				<div class="carousel-container">
+					<div class="portugues container">
 						<p class="animate__animated animate__fadeInUp">Uma visão</p>
 						<h2 class="animate__animated animate__fadeInDown">360 GRAUS</span></h2>
 						<p class="animate__animated animate__fadeInUp">para manufatura de<br>eletrônicos</p>
 						<a href="/sobre" class="btn-get-started animate__animated animate__fadeInUp scrollto">Sobre nós</a>
 					</div>
-				</div>
-				<div class="ingles carousel-container">
-					<div class="container">
+					<div class="ingles container">
 						<p class="animate__animated animate__fadeInUp">A vision</p>
 						<h2 class="animate__animated animate__fadeInDown">360 DEGREES</span></h2>
 						<p class="animate__animated animate__fadeInUp">for electronics<br>manufacturing</p>
@@ -42,16 +40,14 @@
 				<video autoplay muted loop class="vmobi">
 					<source src="<?php echo SITEPATH; ?>assets/img/slide/home-2_mobile.webm" type="video/webm">
 				</video>
-				<div class="portugues carousel-container">
-					<div class="container">
+				<div class="carousel-container">
+					<div class="portugues container">
 						<p class="animate__animated animate__fadeInUp">Do pionerismo do</p>
 						<h2 class="animate__animated animate__fadeInDown">MERCADO<BR>ELETRÔNICO</h2>
 						<p class="animate__animated animate__fadeInUp">à evolução tecnológica</p>
 						<a href="/sobre" class="btn-get-started animate__animated animate__fadeInUp scrollto">Sobre nós</a>
 					</div>
-				</div>
-				<div class="ingles carousel-container">
-					<div class="container">
+					<div class="ingles container">
 						<p class="animate__animated animate__fadeInUp">Pioneering of</p>
 						<h2 class="animate__animated animate__fadeInDown">ELECTRONIC<br>MARKET</h2>
 						<p class="animate__animated animate__fadeInUp">to technological evolution</p>
@@ -68,16 +64,14 @@
 				<video autoplay muted loop class="vmobi">
 					<source src="<?php echo SITEPATH; ?>assets/img/slide/home-3_mobile.webm" type="video/webm">
 				</video>
-				<div class="portugues carousel-container">
-					<div class="container">
+				<div class="carousel-container">
+					<div class="portugues container">
 						<p class="animate__animated animate__fadeInUp">Uma das principais<br>empresas nacionais de</p>
 						<h2 class="animate__animated animate__fadeInDown">ELECTRONIC<BR>MANUFACTURING<BR>SOLUTIONS (EMS)</h2>
 						<p class="animate__animated animate__fadeInUp">do mercado.</p>
 						<a href="/sobre" class="btn-get-started animate__animated animate__fadeInUp scrollto">Sobre nós</a>
 					</div>
-				</div>
-				<div class="ingles carousel-container">
-					<div class="container">
+					<div class="ingles container">
 						<p class="animate__animated animate__fadeInUp">One of the main<br>national companies of</p>
 						<h2 class="animate__animated animate__fadeInDown">ELECTRONIC<BR>MANUFACTURING<BR>SOLUTIONS (EMS)</h2>
 						<p class="animate__animated animate__fadeInUp">from the market.</p>
