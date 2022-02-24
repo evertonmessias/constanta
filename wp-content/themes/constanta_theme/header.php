@@ -48,8 +48,9 @@
 			<nav id="navbar" class="navbar portugues">
 				<ul>
 					<li><a class="nav-link scrollto sobre" href="/sobre">Institucional</a></li>
-					<li class="dropdown"><a class="nav-link scrollto industria" href="/industria"><span>Indústria</span> <i class="bi bi-chevron-down"></i></a>
+					<li class="dropdown"><a class="nav-link scrollto industria" href="#"><span>Indústria</span> <i class="bi bi-chevron-down"></i></a>
 						<ul>
+							<li><a class="nav-link scrollto solucoes" href="/solucoes">Soluções</a></li>
 							<li><a class="nav-link scrollto certificacoes" href="/certificacoes">Certificações</a></li>
 						</ul>
 					</li>
@@ -62,8 +63,9 @@
 			<nav id="navbar" class="navbar ingles">
 				<ul>
 					<li><a class="nav-link scrollto sobre" href="/sobre">About</a></li>
-					<li class="dropdown"><a class="nav-link scrollto industria" href="/industria"><span>Industry</span> <i class="bi bi-chevron-down"></i></a>
+					<li class="dropdown"><a class="nav-link scrollto industria" href="#"><span>Industry</span> <i class="bi bi-chevron-down"></i></a>
 						<ul>
+							<li><a class="nav-link scrollto solucoes" href="/solucoes">Solutions</a></li>
 							<li><a class="nav-link scrollto certificacoes" href="/certificacoes">Certifications</a></li>
 						</ul>
 					</li>

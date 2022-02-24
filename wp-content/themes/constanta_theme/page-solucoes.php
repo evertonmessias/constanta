@@ -5,7 +5,7 @@
 	<div id="heroCarousel" data-bs-interval="5000" class="carousel slide carousel-fade" data-bs-ride="carousel">
 		<div class="carousel-inner" role="listbox">
 			<!-- Slide 1 -->
-			<div class="carousel-item active" style="background-image: url(<?php echo SITEPATH; ?>assets/img/slide/industria.jpg)">
+			<div class="carousel-item active" style="background-image: url(<?php echo SITEPATH; ?>assets/img/slide/solucoes.jpg)">
 				<div class="carousel-container">
 					<hr>
 					<h2 class="animate__animated animate__fadeInDown">SOLUÇÕES</span></h2>
@@ -52,7 +52,7 @@
 							</div>
 							<div class="col-lg-6 quadro-img">
 								<img src="<?php echo SITEPATH ?>assets/img/quadros/slide_industria_1.png" title="Constanta">
-								<a href="/industria" class="slide-box-btn">Soluções</a>
+								<a href="/solucoes" class="slide-box-btn">Soluções</a>
 							</div>
 						</div>
 					</div><!-- End slide-box item -->
@@ -66,7 +66,7 @@
 							</div>
 							<div class="col-lg-6 quadro-img">
 								<img src="<?php echo SITEPATH ?>assets/img/quadros/slide_industria_2.png" title="Constanta">
-								<a href="/industria" class="slide-box-btn">Soluções</a>
+								<a href="/solucoes" class="slide-box-btn">Soluções</a>
 							</div>
 						</div>
 					</div><!-- End slide-box item -->
@@ -80,7 +80,7 @@
 							</div>
 							<div class="col-lg-6 quadro-img">
 								<img src="<?php echo SITEPATH ?>assets/img/quadros/slide_industria_3.png" title="Constanta">
-								<a href="/industria" class="slide-box-btn">Soluções</a>
+								<a href="/solucoes" class="slide-box-btn">Soluções</a>
 							</div>
 						</div>
 					</div><!-- End slide-box item -->										
@@ -94,7 +94,7 @@
 							</div>
 							<div class="col-lg-6 quadro-img">
 								<img src="<?php echo SITEPATH ?>assets/img/quadros/slide_industria_4.png" title="Constanta">
-								<a href="/industria" class="slide-box-btn">Soluções</a>
+								<a href="/solucoes" class="slide-box-btn">Soluções</a>
 							</div>
 						</div>
 					</div><!-- End slide-box item -->
@@ -108,7 +108,7 @@
 							</div>
 							<div class="col-lg-6 quadro-img">
 								<img src="<?php echo SITEPATH ?>assets/img/quadros/slide_industria_5.png" title="Constanta">
-								<a href="/industria" class="slide-box-btn">Soluções</a>
+								<a href="/solucoes" class="slide-box-btn">Soluções</a>
 							</div>
 						</div>
 					</div><!-- End slide-box item -->
@@ -122,7 +122,7 @@
 							</div>
 							<div class="col-lg-6 quadro-img">
 								<img src="<?php echo SITEPATH ?>assets/img/quadros/slide_industria_6.png" title="Constanta">
-								<a href="/industria" class="slide-box-btn">Soluções</a>
+								<a href="/solucoes" class="slide-box-btn">Soluções</a>
 							</div>
 						</div>
 					</div><!-- End slide-box item -->

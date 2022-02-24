@@ -34,13 +34,13 @@
 					<h4 class="ingles">Browse</h4>
 					<ul class="portugues">
 						<li><i class="bx bx-chevron-right"></i> <a href="/sobre">Institucional</a></li>
-						<li><i class="bx bx-chevron-right"></i> <a href="/industria">Indústria</a></li>          
+						<li><i class="bx bx-chevron-right"></i> <a href="/solucoes">Soluções</a></li>          
 						<li><i class="bx bx-chevron-right"></i> <a href="/contato">Contato</a></li>
 						<li><i class="bx bx-chevron-right"></i> <a href="/noticias">Notícias</a></li>
 					</ul>
 					<ul class="ingles">
 						<li><i class="bx bx-chevron-right"></i> <a href="/sobre">About</a></li>
-						<li><i class="bx bx-chevron-right"></i> <a href="/industria">Industry</a></li>          
+						<li><i class="bx bx-chevron-right"></i> <a href="/solucoes">Solutions</a></li>          
 						<li><i class="bx bx-chevron-right"></i> <a href="/contato">Contact</a></li>
 						<li><i class="bx bx-chevron-right"></i> <a href="/noticias">News</a></li>
 					</ul>

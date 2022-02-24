@@ -273,8 +273,8 @@
 							</div>
 							<div class="col-lg-6 quadro-img">
 								<img src="<?php echo SITEPATH ?>assets/img/quadros/ind_1.png" title="Constanta">
-								<a href="/industria" class="portugues slide-box-btn">Soluções</a>
-								<a href="/industria" class="ingles slide-box-btn">Solutions</a>
+								<a href="/solucoes" class="portugues slide-box-btn">Soluções</a>
+								<a href="/solucoes" class="ingles slide-box-btn">Solutions</a>
 							</div>
 						</div>
 					</div><!-- End slide-box item -->
@@ -290,8 +290,8 @@
 							</div>
 							<div class="col-lg-6 quadro-img">
 								<img src="<?php echo SITEPATH ?>assets/img/quadros/ind_2.png" title="Constanta">
-								<a href="/industria" class="portugues slide-box-btn">Soluções</a>
-								<a href="/industria" class="ingles slide-box-btn">Solutions</a>
+								<a href="/solucoes" class="portugues slide-box-btn">Soluções</a>
+								<a href="/solucoes" class="ingles slide-box-btn">Solutions</a>
 							</div>
 						</div>
 					</div><!-- End slide-box item -->
@@ -307,8 +307,8 @@
 							</div>
 							<div class="col-lg-6 quadro-img">
 								<img src="<?php echo SITEPATH ?>assets/img/quadros/ind_3.png" title="Constanta">
-								<a href="/industria" class="portugues slide-box-btn">Soluções</a>
-								<a href="/industria" class="ingles slide-box-btn">Solutions</a>
+								<a href="/solucoes" class="portugues slide-box-btn">Soluções</a>
+								<a href="/solucoes" class="ingles slide-box-btn">Solutions</a>
 							</div>
 						</div>
 					</div><!-- End slide-box item -->
@@ -324,8 +324,8 @@
 							</div>
 							<div class="col-lg-6 quadro-img">
 								<img src="<?php echo SITEPATH ?>assets/img/quadros/ind_4.png" title="Constanta">
-								<a href="/industria" class="portugues slide-box-btn">Soluções</a>
-								<a href="/industria" class="ingles slide-box-btn">Solutions</a>
+								<a href="/solucoes" class="portugues slide-box-btn">Soluções</a>
+								<a href="/solucoes" class="ingles slide-box-btn">Solutions</a>
 							</div>
 						</div>
 					</div><!-- End slide-box item -->
@@ -341,8 +341,8 @@
 							</div>
 							<div class="col-lg-6 quadro-img">
 								<img src="<?php echo SITEPATH ?>assets/img/quadros/ind_5.png" title="Constanta">
-								<a href="/industria" class="portugues slide-box-btn">Soluções</a>
-								<a href="/industria" class="ingles slide-box-btn">Solutions</a>
+								<a href="/solucoes" class="portugues slide-box-btn">Soluções</a>
+								<a href="/solucoes" class="ingles slide-box-btn">Solutions</a>
 							</div>
 						</div>
 					</div><!-- End slide-box item -->
@@ -358,8 +358,8 @@
 							</div>
 							<div class="col-lg-6 quadro-img">
 								<img src="<?php echo SITEPATH ?>assets/img/quadros/ind_6.png" title="Constanta">
-								<a href="/industria" class="portugues slide-box-btn">Soluções</a>
-								<a href="/industria" class="ingles slide-box-btn">Solutions</a>
+								<a href="/solucoes" class="portugues slide-box-btn">Soluções</a>
+								<a href="/solucoes" class="ingles slide-box-btn">Solutions</a>
 							</div>
 						</div>
 					</div><!-- End slide-box item -->
@@ -375,8 +375,8 @@
 							</div>
 							<div class="col-lg-6 quadro-img">
 								<img src="<?php echo SITEPATH ?>assets/img/quadros/ind_7.png" title="Constanta">
-								<a href="/industria" class="portugues slide-box-btn">Soluções</a>
-								<a href="/industria" class="ingles slide-box-btn">Solutions</a>
+								<a href="/solucoes" class="portugues slide-box-btn">Soluções</a>
+								<a href="/solucoes" class="ingles slide-box-btn">Solutions</a>
 							</div>
 						</div>
 					</div><!-- End slide-box item -->

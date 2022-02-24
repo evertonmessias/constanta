@@ -10,8 +10,11 @@
    if(document.location.pathname != "/"){   
    var onpath = window.location.href.split('/');
    console.log(onpath[3]);
-  if(onpath[3] == 'sobre' || onpath[3] == 'industria' || onpath[3] == 'noticias' || onpath[3] == 'contato'){
-    document.querySelector("#navbar .scrollto."+onpath[3]).classList.add('active')
+  if(onpath[3] == 'sobre' || onpath[3] == 'solucoes' || onpath[3] == 'certificacoes' || onpath[3] == 'noticias' || onpath[3] == 'contato'){
+    document.querySelector("#navbar .scrollto."+onpath[3]).classList.add('active');
+    if(onpath[3] == 'solucoes' || onpath[3] == 'certificacoes'){
+      document.querySelector("#navbar .scrollto.industria").classList.add('active');
+    }
   }
   }
 
