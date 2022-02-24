@@ -111,6 +111,14 @@
 					<img class="sobrepersona" src="<?php echo SITEPATH ?>assets/img/quadros/sobre_industria.png" title="Constanta">
 				</div>
 			</div>
+			<div class="row box-video">
+				<div class="col-lg-12">
+					<video controls>
+						<source src="/video/institucional.mp4" type="video/mp4">
+						Your browser does not support the video tag.
+					</video>
+				</div>
+			</div>
 		</div>
 	</section>
 
